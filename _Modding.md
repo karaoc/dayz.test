@@ -1,1 +1,0 @@
-DayZ Expansion created with modding in mind, you can easily expand and modify any features of DayZ Expansion yourself or add new ones based on the framework we provide.
