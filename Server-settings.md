@@ -1,9 +1,9 @@
 ## Contents
 
 
-- 1. [BaseBuildingSettings](#BaseBuildingSettings)
+- [BaseBuildingSettings](#BaseBuildingSettings)
 
-- 1. [BookSettings](#BookSettings)
+- [BookSettings](#BookSettings)
 
 
 
