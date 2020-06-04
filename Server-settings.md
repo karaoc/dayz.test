@@ -3,6 +3,8 @@
 
 - 1. [BaseBuildingSettings](#BaseBuildingSettings)
 
+- 1. [BookSettings](#BookSettings)
+
 
 
 # BaseBuildingSettings
