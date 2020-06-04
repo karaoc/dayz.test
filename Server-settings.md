@@ -1,7 +1,7 @@
 ## Contents
 
 
-- 1 [BaseBuilding](#BaseBuildingSettings)
+- 1. [BaseBuildingSettings](#BaseBuildingSettings)
 
 
 
@@ -33,3 +33,40 @@ Integer. Two modes currently:
 
 ### "CodeLockLength"
 Integer. The length of passwords you can put into your code locks. 
+
+# BookSettings
+
+### "EnableBook"
+Bool. If enabled, the book will be available to be opened. 
+
+### "EnableStatusTab"
+Bool. If enabled, the status tab will be available. The status tab contains character info like health, hunger/thirst values, etc. 
+
+"DisplayServerUptimeInStatusTab"
+Bool. If enabled, server's current uptime will be displayed in the status tab. 
+
+"DisplayPlayerCountInStatusTab"
+Bool. If enabled, displays current amount of players in the status tab. 
+
+"EnablePartyTab"
+Bool. If enabled, the party tab will be available.
+
+"EnableServerInfoTab"
+Bool. If enabled, the server info tab will be available.
+"EnableTerritoryTab": 1,
+"ServerInfo": {
+"serverName": "DAYZ EXPANSION TEST SERVER",
+"infoTitle1": "DAYZ EXPANSION",
+"infoContent1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+"infoTitle2": "",
+"infoContent2": "",
+"infoTitle3": "",
+"infoContent3": ""
+},
+"ServerLogoPath": "set:expansion_gui_logos image:expansion_logo_black",
+"WebsiteButton": 0,
+"WebsiteURL": "https://www.dayzexpansion.com/page",
+"ForumsButton": 0,
+"ForumsURL": "https://www.dayzexpansion.com/forums",
+"DiscordButton": 1,
+"DiscordURL": "https://discord.io/expansion"
