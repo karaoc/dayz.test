@@ -1,7 +1,7 @@
 ## Contents
 
 
-- 1. [BaseBuilding](#BaseBuildingSettings)
+- 1 [BaseBuilding](#BaseBuildingSettings)
 
 
 
