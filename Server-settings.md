@@ -42,31 +42,55 @@ Bool. If enabled, the book will be available to be opened.
 ### "EnableStatusTab"
 Bool. If enabled, the status tab will be available. The status tab contains character info like health, hunger/thirst values, etc. 
 
-"DisplayServerUptimeInStatusTab"
+### "DisplayServerUptimeInStatusTab"
 Bool. If enabled, server's current uptime will be displayed in the status tab. 
 
-"DisplayPlayerCountInStatusTab"
+### "DisplayPlayerCountInStatusTab"
 Bool. If enabled, displays current amount of players in the status tab. 
 
-"EnablePartyTab"
+### "EnablePartyTab"
 Bool. If enabled, the party tab will be available.
 
-"EnableServerInfoTab"
+### "EnableServerInfoTab"
 Bool. If enabled, the server info tab will be available.
-"EnableTerritoryTab": 1,
-"ServerInfo": {
-"serverName": "DAYZ EXPANSION TEST SERVER",
-"infoTitle1": "DAYZ EXPANSION",
-"infoContent1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-"infoTitle2": "",
-"infoContent2": "",
-"infoTitle3": "",
-"infoContent3": ""
-},
-"ServerLogoPath": "set:expansion_gui_logos image:expansion_logo_black",
-"WebsiteButton": 0,
-"WebsiteURL": "https://www.dayzexpansion.com/page",
-"ForumsButton": 0,
-"ForumsURL": "https://www.dayzexpansion.com/forums",
-"DiscordButton": 1,
-"DiscordURL": "https://discord.io/expansion"
+
+### "EnableTerritoryTab"
+Bool. If enabled, the territory tab will be available.
+
+### "serverName"
+String. Server name to be displayed in server info tab. 
+
+### "infoTitle1"
+String. Title to be displayed in server info tab. 
+
+### "infoContent1"
+String. Main body of the server info text in server info tab. 
+
+### "infoTitle2"
+
+### "infoContent2"
+
+### "infoTitle3"
+
+### "infoContent3"
+
+### "ServerLogoPath"
+Image set: image, for use in server info tab. 
+
+### "WebsiteButton"
+Bool. If enabled, the website button will be displayed in server info tab. 
+
+### "WebsiteURL"
+String. URL to open when website button is pressed. 
+
+### "ForumsButton"
+Bool. If enabled, the forums button will be displayed in server info tab. 
+
+### "ForumsURL"
+String. URL to open when forums button is pressed. 
+
+### "DiscordButton"
+Bool. If enabled, the Discord button will be displayed in server info tab. 
+
+### "DiscordURL"
+String. URL to open when Discord button is pressed. 
