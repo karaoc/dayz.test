@@ -1,3 +1,10 @@
+## Contents
+
+
+- 1. [BaseBuilding](#BaseBuildingSettings)
+
+
+
 # BaseBuildingSettings
 ### "CanCraftVanillaBasebuilding"
 Bool. If set to 0, you can not craft vanilla basebuilding objects (FenceKit and WatchTowerKit). If 1, you can. 
