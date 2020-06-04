@@ -4,5 +4,5 @@ The DayZ Expansion mod contains a ready-to-use mission file that house all neces
 
 # Server config
 
-After starting your server with the DayZ Expansion mod for the first time, the server will generate the ExpansionMod folder in your profiles folder, in that folder all DayZ Expansion related settings and storage will be stored, if you want to toggle any part of DayZ Expansion proceeded into settings folder and open specific file you want to tweak.
+After starting your server with the DayZ Expansion mod for the first time, the server will generate the ExpansionMod folder in your profiles folder, in that folder all DayZ Expansion related settings and storage will be stored, if you want to toggle any part of DayZ Expansion proceeded into settings folder and open specific file you want to tweak. An overview of all the settings and what they do can be found [here](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Server-settings)
 
