@@ -5,6 +5,20 @@
 
 - [BookSettings](#BookSettings)
 
+- [GeneralSettings](#GeneralSettings)
+
+- [MapSettings](#MapSettings)
+
+- [MissionSettings](#MissionSettings)
+
+- [PartySettings](#PartySettings)
+
+- [SafeZoneSettings](#SafeZoneSettings)
+
+- [SpawnSettings](#SpawnSettings)
+
+- [TerritorySettings](#TerritorySettings)
+
 
 
 # BaseBuildingSettings
@@ -69,12 +83,16 @@ String. Title to be displayed in server info tab.
 String. Main body of the server info text in server info tab. 
 
 ### "infoTitle2"
+String. Title to be displayed in server info tab. 
 
 ### "infoContent2"
+String. Main body of the server info text in server info tab. 
 
 ### "infoTitle3"
+String. Title to be displayed in server info tab. 
 
 ### "infoContent3"
+String. Main body of the server info text in server info tab. 
 
 ### "ServerLogoPath"
 Image set: image, for use in server info tab. 
@@ -96,3 +114,132 @@ Bool. If enabled, the Discord button will be displayed in server info tab.
 
 ### "DiscordURL"
 String. URL to open when Discord button is pressed. 
+
+# GeneralSettings
+### "PlayerLocationNotifier"
+Bool. When enabled, show to the player the name of the city he just got into and time of day
+
+### "ShowPlayerJoinServer"
+Bool. When enabled, notify the player who joined or left the server.
+
+### "JoinMessageType"
+Integer.
+0: Will display the player joined message in the globalchat
+1: Will display the player joined message in a notification
+
+### "LeftMessageType"
+Integer.
+0: Will display the player left message in the globalchat
+1: Will display the player left message in a notification
+
+### "EnableKillFeed"
+Bool. When enabled, notify the player of whom got killed and how.
+
+### "KillFeedMessageType"
+Integer.
+0: Will display the killfeed message in the globalchat
+1: Will display the killfeed message in a notification
+
+### "EnableHumanity"
+Bool. This feature currentmy does nothing. 
+
+### "UseCustomMappingModule"
+Bool. When enabled, add custom mapping. Have a huge impact on server performance !
+
+### "Mapping"
+Array. List all the locations with custom mapping. 
+
+### "InteriorBuilding"
+Bool. When enabled, add more detailed interiors. Have a huge impact on server performance !
+
+### "Ivies"
+Bool. When enabled, allow ivies to be on some building. Only work for Chernarus !
+
+### "LightingConfig"
+Integer.
+0: Default - Default lighting of dayz we all know.
+1: Dark - Make the night very dark, the day is with default lighting.
+2: Gloom - Change how lighting work for night and day. The night is a bit darker than default but not as much as Dark mode. The day is more "gloomy", everything shines more !
+
+### "EnableLamps"
+Integer.
+0: Disabled - The streets lights are off
+1: Generators - Currently unused. Would require you to fix a generator to make street lights work.
+2: Always On - Street lights are emitting lights but some of them will stay off intentionnaly.
+3: Always On (Everywhere) - Force every lights to be turned on
+
+### "EnableGenerators"
+Bool. Currently unused, will spawn town/village generators for the mode 1 for "EnableLamps"
+
+### "EnableLighthouses"
+Bool. If enabled, turns on the light of every lighthouses of the map.
+
+### "EnableAutoRun"
+Bool. If enabled, allow the player to autojog.
+
+### "NeedGPSItemForKeyBinding"
+Bool. If enabled, require the player to have the GPS item in his inventory to open the GPS
+
+### "NeedMapItemForKeyBinding"
+Bool. If enabled, require the player to have the map item in his inventory to open the map
+
+### "EnableHUDNightvisionOverlay"
+Bool. If enabled, add a immersive NVG overlay
+
+### "EnablePlayerTags"
+Bool. If enabled, show the player tag when your cursor is on him.
+
+### "PlayerTagViewRange"
+Integer. Distance requiried to see the tag. The value is in meter, in other words 5 is 5 meters.
+
+### "EnableHumanityOnPlayerTags"
+Bool. If enabled, show the player tag Humanity when your cursor is on him.
+
+### "EnablePlayerList"
+Bool. If enabled, allow players to see the player list.
+
+### "UnlimitedStamina"
+Bool. If enabled, make stamina unlimited.
+
+### "SpawnVehicleWithRandomSkin"
+Bool. If enabled, make vehicles spawn with random skins.
+
+### "VehicleSync"
+Integer. Currently unused.
+
+# MapSettings
+### "EnableMap"
+Bool. If enabled, 
+
+### "UseMapOnMapItem"
+Bool. If enabled, the default map used for the map item when used will be expansion map.
+
+### "CanCreateMarker"
+Bool. If enabled, allow the player to create markers.
+
+### "ShowPlayerPosition"
+Bool. If enabled, show the player position on the map.
+
+### "CanCreatePartyMarkers"
+Bool. If enabled, allow the player to create party markers.
+
+### "ShowMapStats"
+Bool. If enabled, TODO
+
+### "CanCreate3DMarker"
+Bool. If enabled, allow the player to create 3D markers.
+
+### "ShowPartyMembersMapMarkers"
+Bool. If enabled, show the player teammates position on the map.
+
+### "DistanceForPartyMarkers"
+Integrer. Distance in meters before the 3d marker fade out. Have impact on server performance if the distance is too big.
+
+### "ShowServerMarkers"
+Bool. If enabled, show server map markers.
+
+### "CanOpenMapWithKeyBinding"
+Bool. If enabled, the player can open the map with a keybind instead of interacting with th physical map
+
+### "ServerMarkers"
+Array. Allow server owners to display server markers on the map.
