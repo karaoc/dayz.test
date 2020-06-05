@@ -9,15 +9,15 @@
 
 - [MapSettings](#MapSettings)
 
-- [MissionSettings](#MissionSettings)
+- [MissionSettings](#MissionSettings) TODO
 
 - [PartySettings](#PartySettings)
 
-- [SafeZoneSettings](#SafeZoneSettings)
+- [SafeZoneSettings](#SafeZoneSettings) TODO
 
-- [SpawnSettings](#SpawnSettings)
+- [SpawnSettings](#SpawnSettings) TODO
 
-- [TerritorySettings](#TerritorySettings)
+- [TerritorySettings](#TerritorySettings) TODO
 
 
 
@@ -243,3 +243,32 @@ Bool. If enabled, the player can open the map with a keybind instead of interact
 
 ### "ServerMarkers"
 Array. Allow server owners to display server markers on the map.
+
+# MissionSettings
+### "Enabled"
+Bool. If enabled, activate missions.
+
+### "TimeBetweenMissions"
+Integrer. Time in milliseconds before a new mission start
+
+### "MinMissions"
+Integrer. Minimum mission allowed at once.
+
+### "MaxMissions"
+Integrer. Maximum mission allowed at once.
+
+### "Missions" TODO
+Array.
+
+# PartySettings
+### "EnableParties"
+Bool. If enabled, allow players to create parties.
+
+### "MaxInParty"
+Integrer. Maximum of players allowed in a single party.
+
+### "ShowPartyMembers3DMarkers"
+Bool. If enabled, show a 3d marker above the head of your teammates.
+
+### "UseWholeMapForInviteList"
+Bool. If enabled, you can invite everyone from anywhere regardless of the distance.
