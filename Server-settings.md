@@ -273,6 +273,9 @@ Bool. If enabled, show a 3d marker above the head of your teammates.
 ### "UseWholeMapForInviteList"
 Bool. If enabled, you can invite everyone from anywhere regardless of the distance.
 
+### "EnableQuickMarker"
+Bool. If enabled, you can use quick marker system.
+
 # SafeZoneSettings
 TODO
 
