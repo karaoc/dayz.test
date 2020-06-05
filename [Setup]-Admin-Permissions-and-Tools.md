@@ -6,10 +6,11 @@ TODO make more stuff for this page
 
 # permissions
 ### "What does 0 or 2 means ?"
-It's the level of permission
-0 => doens't have permission to use
-1 => TODO
-2 => full access
+
+It's the level of permission.
+0 => doens't have permission to use.
+1 => TODO.
+2 => full access.
 
 ### "What are the permissions I can config ?"
 `
