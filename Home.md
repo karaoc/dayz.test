@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/RhJAV6t.png)
 
-Welcome to the DayZ-Expansion-Scripts wiki!
+### Welcome to the DayZ-Expansion-Scripts wiki!
 
 # [Introduction](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Introduction)
 # [Setting up the server](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-server)
