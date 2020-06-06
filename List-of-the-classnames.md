@@ -1,4 +1,4 @@
-# ![Weaponary](https://i.imgur.com/Ux80A0e.png)
+![# Weaponary](https://i.imgur.com/Ux80A0e.png)
 
 * ExpansionCrossbow
 * ExpansionRPG7
