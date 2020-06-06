@@ -8,6 +8,9 @@ Install them on your server. You should get a similar result. If you do not know
 
 ![Server root](https://i.imgur.com/OEaEuf8.png)
 
+Make sure to launch the 4 mods with this command line if you don't use a panel : 
+`-mod=@CF;@Community-Online-Tools;@DayZ-Expansion;@DayZ-Expansion-Licensed`
+
 # Mission files
 
 Inside the mod "@DayZ-Expansion" take the mission files **that don't have COM in their name**.
