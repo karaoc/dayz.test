@@ -30,4 +30,8 @@ Windows Explorer should have opened with the folder "@DayZ-Expansion" already be
 
 
 ### Troubleshooting
-TODO
+##### ExpansionMissionConstructor Error
+
+![ExpansionMissionConstructor Error](https://i.imgur.com/YVnTPmr.png)
+
+To fix this issue, make sure to have the [4 mods listed from above](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-offline-mode#downloading-the-mods)
