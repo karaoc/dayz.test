@@ -1,6 +1,13 @@
 
 # THIS PAGE IS UNDER CONSTRUCTION
 
+# Downloading the mods
+- [CF](https://steamcommunity.com/workshop/filedetails/?id=1559212036)
+- [Community-Online-Tools](https://steamcommunity.com/workshop/filedetails/?id=1564026768)
+- [DayZ-Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222)
+- [DayZ-Expansion-Licensed](https://steamcommunity.com/workshop/filedetails/?id=2116157322)
+Install them on your server. You should get a similar result
+![https://i.imgur.com/OEaEuf8.png](server root)
 
 # Mission files
 
