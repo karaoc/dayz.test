@@ -33,4 +33,18 @@ After starting your server with the DayZ Expansion mod for the first time, the s
 ![](https://i.imgur.com/4uEMoWi.png)
 
 # Troubleshooting
-TODO
+##### Bad type 'StringLocaliser'
+
+![](https://i.imgur.com/uFUrx8h.png)
+
+Make sure you have the correct mods and up to date !
+
+##### Addon ... Requires Addon 'JM_COT_Scripts'
+
+![](https://i.imgur.com/CH9X0zx.png)
+
+You are missing CF or Community-Online-Tools, make sure to have all the mods on your server !
+
+##### Infinite loading screen, server frozen
+
+For some reason, your ExpansionMod settings are broken. Revert the changes you have mod or delete the folder
