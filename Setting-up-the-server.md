@@ -1,6 +1,3 @@
-
-# THIS PAGE IS UNDER CONSTRUCTION
-
 # Downloading the mods
 - [CF](https://steamcommunity.com/workshop/filedetails/?id=1559212036)
 - [Community-Online-Tools](https://steamcommunity.com/workshop/filedetails/?id=1564026768)
@@ -12,6 +9,20 @@ Install them on your server. You should get a similar result. If you do not know
 ![Server root](https://i.imgur.com/OEaEuf8.png)
 
 # Mission files
+
+Inside the mod "@DayZ-Expansion" take the mission files **that don't have COM in their name**.
+
+![](https://i.imgur.com/yVtrGnb.png)
+
+Copy and paste them inside your mpmission folder of your server. You should have this two new folders in this directory 👍 
+
+![](https://i.imgur.com/wk7ezm6.png)
+
+Now go back to the dayz server root and open your "serverDZ.cfg" config file (if you are on a web provider, make sure you can add custom mission or that you have expert mode enabled).
+
+Inside this file, look for the template and change it to match this screenshot
+
+![](https://i.imgur.com/eS46Rtu.png)
 
 The DayZ Expansion mod contains a ready-to-use mission file that house all necessary central economy files. The mission comes in two variants; ChernarusPlus and ChernarusPlusGloom. If you want to use visual tweaks of DayZ Expansion such as; custom ocean, lighting tweaks, etc then you have to use ChernarusPlusGloom mission file (Providing that you are using Chernarus as your map, support for other maps can be added by creators of maps themselves or by us later throughout the mod updates). If you proceed with ChernarusPlusGloom mission file its important to set lightingConfig inside your server config file to 2.
 
