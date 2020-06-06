@@ -17,7 +17,7 @@
 
 - [SpawnSettings](#SpawnSettings)
 
-- [TerritorySettings](#TerritorySettings) TODO
+- [TerritorySettings](#TerritorySettings)
 
 
 
@@ -325,4 +325,14 @@ Array. list of classnames used for the pants gear
 Array. list of classnames used for the backpack gear
 
 # TerritorySettings
-TODO
+### "EnableTerritories"
+Bool. If enabled, use the expansion territory system
+
+### "UseWholeMapForInviteList"
+Bool. If enabled, will make the whole map available in invite list, instead only nearby players.
+
+### "TerritorySize"
+Float. the radius of a territory in meters.
+
+### "MaxMembersInTerritory"
+Integrer. The max amounnt of members allowed per territories. If <= 0, unlimited territory size.
