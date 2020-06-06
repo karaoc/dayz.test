@@ -1,4 +1,4 @@
-### Downloading the mods
+# Downloading the mods
 - [CF](https://steamcommunity.com/workshop/filedetails/?id=1559212036)
 - [Community-Online-Tools](https://steamcommunity.com/workshop/filedetails/?id=1564026768)
 - [DayZ-Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222)
@@ -7,7 +7,7 @@
 
 
 
-### Getting the mission
+# Getting the mission
 ##### 1. Open your dayz launcher and go to the mods tab
 ##### 2. Expand the DayZ-Expansion Item as show in the picutre 
 ##### 3. Click on the 3 dots and then on "Open folder in Windows Explorer"
@@ -34,7 +34,7 @@ Windows Explorer should have opened with the folder "@DayZ-Expansion" already be
 
 
 
-### Troubleshooting
+# Troubleshooting
 ##### ExpansionMissionConstructor Error
 
 ![ExpansionMissionConstructor Error](https://i.imgur.com/YVnTPmr.png)
