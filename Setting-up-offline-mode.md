@@ -4,6 +4,9 @@
 - [DayZ-Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222)
 - [DayZ-Expansion-Licensed](https://steamcommunity.com/workshop/filedetails/?id=2116157322)
 
+
+
+
 ### Getting the mission
 ##### 1. Open your dayz launcher and go to the mods tab
 ##### 2. Expand the DayZ-Expansion Item as show in the picutre 
@@ -27,6 +30,8 @@ Windows Explorer should have opened with the folder "@DayZ-Expansion" already be
 
 ##### 8. Paste the two folders inside and go inside "ExpansionCOM.ChernarusPlus".
 ##### 9. Execute "DayZCommunityOfflineMode.bat". The game will launch and you'll be in offline mode.
+
+
 
 
 ### Troubleshooting
