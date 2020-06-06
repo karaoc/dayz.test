@@ -7,7 +7,7 @@
 - [DayZ-Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222)
 - [DayZ-Expansion-Licensed](https://steamcommunity.com/workshop/filedetails/?id=2116157322)
 Install them on your server. You should get a similar result
-![https://i.imgur.com/OEaEuf8.png](server root)
+![Server root](https://i.imgur.com/OEaEuf8.png)
 
 # Mission files
 
