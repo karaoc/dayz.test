@@ -1,8 +1,8 @@
 ### Downloading the mods
--
--
--
--
+- [CF](https://steamcommunity.com/workshop/filedetails/?id=1559212036)
+- [Community-Online-Tools](https://steamcommunity.com/workshop/filedetails/?id=1564026768)
+- [DayZ-Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222)
+- [DayZ-Expansion-Licensed](https://steamcommunity.com/workshop/filedetails/?id=2116157322)
 
 ### Getting the mission
 ##### 1. Open your dayz launcher and go to the mods tab
