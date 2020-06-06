@@ -20,8 +20,7 @@ It's the level of permission.
 2 => full access.
 
 ### "What are the permissions I can config ?"
-`
-Admin 2
+`Admin 2
 
 Admin.Chat 2
 
@@ -571,5 +570,4 @@ Weather.Preset.Update 2
 
 Weather.Preset.Remove 2
 
-Weather.View 2
-`
+Weather.View 2`
