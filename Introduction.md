@@ -1,4 +1,4 @@
-![DayZ Expansion](https://i.imgur.com/RhJAV6t.png)
+![DayZ Expansion](https://i.imgur.com/cTbqjAr.png)
 
 ![introduction](https://i.imgur.com/I0CimIG.png)
 
