@@ -29,6 +29,9 @@ Windows Explorer should have opened with the folder "@DayZ-Expansion" already be
 ![Root](https://i.imgur.com/kEP7isg.png)
 
 ##### 8. Paste the two folders inside and go inside "ExpansionCOM.ChernarusPlus".
+
+Currently the bath file is set for experimental mode, open it and remove "-Exp" for CF and Community Online tool !
+
 ##### 9. Execute "DayZCommunityOfflineMode.bat". The game will launch and you'll be in offline mode.
 
 
