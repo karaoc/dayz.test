@@ -9,11 +9,11 @@
 
 - [MapSettings](#MapSettings)
 
-- [MissionSettings](#MissionSettings) TODO
+- [MissionSettings](#MissionSettings) (last one TODO)
 
 - [PartySettings](#PartySettings)
 
-- [SafeZoneSettings](#SafeZoneSettings) TODO
+- [SafeZoneSettings](#SafeZoneSettings) (last two TODO)
 
 - [SpawnSettings](#SpawnSettings) TODO
 
@@ -277,10 +277,33 @@ Bool. If enabled, you can invite everyone from anywhere regardless of the distan
 Bool. If enabled, you can use quick marker system.
 
 # SafeZoneSettings
-TODO
+### "Enabled"
+Bool. Enable Safezone when set to 1.
+
+### "EnableVehicleinvincibleInsideSafeZone"
+Bool. When enabled, Vehicle damage is disabled.
+
+### "FrameRateCheckSafeZoneInMs"
+Integrer. How often in ms the server need to check if the player is inside a Safezone.
+
+### "CircleZones"
+Array. TODO
+
+### "PolygonZones"
+Array. TODO
 
 # SpawnSettings
-TODO
+### "UseStartingGear"
+Bool. TODO
+
+### "UsingUpperGear"
+Bool. TODO
+
+### "UsingPantsGear"
+Bool. TODO
+
+### "UsingBackpackGear"
+Bool. TODO
 
 # TerritorySettings
 TODO
