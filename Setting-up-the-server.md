@@ -47,4 +47,4 @@ You are missing CF or Community-Online-Tools, make sure to have all the mods on 
 
 #### Infinite loading screen, server frozen
 
-For some reason, your ExpansionMod settings are broken. Revert the changes you have mod or delete the folder
+For some reason, your ExpansionMod settings are broken. Revert the changes you have made or delete the folder
