@@ -62,7 +62,7 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 ➤⠀World
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
 
-- [https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BCustomizations%5D-Adding-custom-object-spawns-to-your-mission-file](Custom mapping) in many cities of Chernarus
+- [Custom mapping](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BCustomizations%5D-Adding-custom-object-spawns-to-your-mission-file) in many cities of Chernarus
 - Custom trader locations
 - Custom lightning
 - Custom interiors
@@ -110,7 +110,7 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
 
 - Global Chat
-- [https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BCustomizations%5D-Adding-custom-airdrops](Airdrops)
+- [Airdrops](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BCustomizations%5D-Adding-custom-airdrops)
 
 - Notification System
 - Territories System
