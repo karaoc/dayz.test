@@ -1,6 +1,6 @@
-![](https://i.imgur.com/RhJAV6t.png)
+![DayZ Expansion](https://i.imgur.com/RhJAV6t.png)
 
-![](https://i.imgur.com/cpiuJJf.png)
+![introduction](https://i.imgur.com/I0CimIG.png)
 
 DayZ Expansion is a mod that brings a lot of new features and content into DayZ and changes the way DayZ is played, the mod contains many features and Quality of Life (QoL) improvements.
 
@@ -8,7 +8,7 @@ The mod consists of many features and modules, almost everything is this mod can
 
 Please note, this is the first public build of DayZ Expansion, so please expect some bugs and problems! If you experience any bugs or problems, please join our Discord and report them to us!
 
-![](https://i.imgur.com/OOs0bGB.png)
+![features](https://i.imgur.com/xIrXezp.png)
 
 
 DayZ Expansion mod alongside its main features has many smaller features and changes to the base game so it would be impossible to list all of those smaller changes and features, but you will discover them when playing the game.
@@ -119,12 +119,12 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 - Book System
 - Map System
 
-![](https://i.imgur.com/wbjtjdV.png)
+![installation](https://i.imgur.com/MRyjLzD.png)
 
 ## [Setting up the server](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-server)
 ## [Setting up offline mode](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-offline-mode)
 
-![](https://i.imgur.com/GUrMk2h.png)
+![feedback](https://i.imgur.com/Acaxhte.png)
 
 We're grateful to hear any feedback and suggestions from anyone, the best place to give it to us would be our [Discord](https://discord.gg/rMZuS4F), please also join if you have any questions too!
 
