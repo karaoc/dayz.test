@@ -15,7 +15,7 @@
 
 - [SafeZoneSettings](#SafeZoneSettings) (last two TODO)
 
-- [SpawnSettings](#SpawnSettings) TODO
+- [SpawnSettings](#SpawnSettings)
 
 - [TerritorySettings](#TerritorySettings) TODO
 
@@ -287,23 +287,42 @@ Bool. When enabled, Vehicle damage is disabled.
 Integrer. How often in ms the server need to check if the player is inside a Safezone.
 
 ### "CircleZones"
-Array. TODO
+Array. 
+- Type: **TODO**
+- Center: where the zone should be on the map
+- Radius: Size of the zone
 
 ### "PolygonZones"
-Array. TODO
+Array.
+- Type: **TODO**
+- Positions: **TODO**
+- CenterPolygon: where the zone should be on the map
+- RadiusPolygon: Size of the zone
 
 # SpawnSettings
 ### "UseStartingGear"
-Bool. TODO
+Bool. If enabled, will use the starting gear configured in this file
 
 ### "UsingUpperGear"
-Bool. TODO
+Bool. If enabled, use the upper gear configured
 
 ### "UsingPantsGear"
-Bool. TODO
+Bool. If enabled, use the pants gear configured
 
 ### "UsingBackpackGear"
-Bool. TODO
+Bool. If enabled, use the backpack gear configured
+
+### "SpawnBackpacks"
+Array. list of classnames used for the items spawning inside the backpack
+
+### "UpperGear"
+Array. list of classnames used for the upper gear
+
+### "PantsGear"
+Array. list of classnames used for the pants gear
+
+### "BackpackGear"
+Array. list of classnames used for the backpack gear
 
 # TerritorySettings
 TODO
