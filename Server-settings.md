@@ -7,7 +7,7 @@
 
 - [GeneralSettings](#GeneralSettings)
 
-- [MapSettings](#MapSettings)
+- [MapSettings](#MapSettings) (last one TODO)
 
 - [MissionSettings](#MissionSettings) (last one TODO)
 
@@ -243,6 +243,7 @@ Bool. If enabled, the player can open the map with a keybind instead of interact
 
 ### "ServerMarkers"
 Array. Allow server owners to display server markers on the map.
+**TODO**
 
 # MissionSettings
 ### "Enabled"
