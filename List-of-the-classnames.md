@@ -66,7 +66,7 @@
 * ExpansionZodiacBoat
 * ExpansionLHD
 
-![Vehicle parts](https://i.imgur.com/Ol7JzmH.jpg)
+![Grounded Vehicles](https://i.imgur.com/S3Rnvo9.jpg)
 
 * ExpansionUAZ
 * ExpansionUAZRoofless
@@ -76,7 +76,7 @@
 * ExpansionBus
 * ExpansionTractor
 
-**Picture of vehicle parts here**
+![Vehicle parts](https://i.imgur.com/Ol7JzmH.jpg)
 
 * GlowPlug
 * ExpansionHelicopterBattery
