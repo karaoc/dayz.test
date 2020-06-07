@@ -153,7 +153,7 @@
 
 **Picture of Outfits here**
 
-**Picture of Foods here**
+![Food](https://i.imgur.com/EEesHph.jpg)
 
 * ExpansionMilkBottle
 * ExpansionBread1
