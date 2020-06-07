@@ -42,4 +42,4 @@ Currently the bat file is set for experimental mode, open it and remove "-Exp" f
 
 ![ExpansionMissionConstructor Error](https://i.imgur.com/YVnTPmr.png)
 
-To fix this issue, make sure to have the [4 mods listed from above](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-offline-mode#downloading-the-mods)
+To fix this issue, make sure to have the [4 mods listed from above](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-offline-mode#downloading-the-mods) and you are launching CF and Community Online tool without the EXP tag as explained in step 8
