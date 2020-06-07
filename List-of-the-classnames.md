@@ -164,7 +164,7 @@
 * ExpansionCheese3
 * ExpansionCheese4
 
-**Picture of misc here**
+![Misc](https://i.imgur.com/M9dwu2w.jpg)
 
 * ExpansionExplosiveBase
 * ExpansionGoldBar
