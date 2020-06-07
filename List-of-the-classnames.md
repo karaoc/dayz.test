@@ -66,7 +66,7 @@
 * ExpansionZodiacBoat
 * ExpansionLHD
 
-**Picture of vehicle here**
+![Vehicle parts](https://i.imgur.com/Ol7JzmH.jpg)
 
 * ExpansionUAZ
 * ExpansionUAZRoofless
