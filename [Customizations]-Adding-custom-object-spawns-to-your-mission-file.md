@@ -27,7 +27,7 @@ This will copy all the lines to your clipboard.
 
 Make sure you save your work if you want to keep it for later use by pressing the Save button!
 This will create a file on your local drive with all the required information
-(Expample: C:\Users\username\Documents\DayZ\CommunityOfflineMode\Scenes\latest.json) so it can be used again in offline mode.
+(Example: C:\Users\username\Documents\DayZ\CommunityOfflineMode\Scenes\latest.json) so it can be used again in offline mode.
 
 # Import:
 Once you have exported all the lines to your clipboard you will need to import these to your Expansion.WOLDNAME mission to so they work on your server.
