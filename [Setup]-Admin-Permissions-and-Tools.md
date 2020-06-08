@@ -15,7 +15,7 @@ It's the level of permission.
 
 0 => doens't have permission to use.
 
-1 => 
+1 => Inherit
 
 2 => full access.
 
