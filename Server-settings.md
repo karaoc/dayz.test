@@ -266,7 +266,7 @@ Array.
 Bool. If enabled, allow players to create parties.
 
 ### "MaxInParty"
-Integrer. Maximum of players allowed in a single party.
+Integrer. Maximum of players allowed in a single party. If <= 0, unlimited party size.
 
 ### "ShowPartyMembers3DMarkers"
 Bool. If enabled, show a 3d marker above the head of your teammates.
