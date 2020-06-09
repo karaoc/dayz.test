@@ -1,15 +1,19 @@
-## Lastest Expansion Update added/tweaked the following settings:
+### WARNING! The lastes expansion update tweaked/added the follwoing :
 
-### TerritorySettings
+#### TerritorySettings
 - "MaxInTerritory" became "MaxMembersInTerritory" (not new but just in case you are not aware)
 
-### PartySettings
+#### PartySettings
 - **added** bool "EnableQuickMarker"
 
-### BuildingSettings
+#### BuildingSettings
 - **added** float SafeExplosionDamageMultiplier
 - **added** float SafeProjectileDamageMultiplier
 - **added** bool CanDismantleFlag
+
+
+***
+
 
 ## Contents
 
