@@ -50,6 +50,14 @@ Integer. Two modes currently:
 ### "CodeLockLength"
 Integer. The length of passwords you can put into your code locks. 
 
+### "AllowedItemsToPlaceEveryWhereButNotInEnemyTerritory"
+Array of string. Only used if TerritoryMode is set to 1
+Put every classname of the item, you want to be able to be placed outside of the territory.
+
+### "AllowedItemsToPlaceInEnemyTerritory"
+Array of string.
+Put every classname of the item, you want to be able to be placed in the territory where you are not a member of him.
+
 # BookSettings
 
 ### "EnableBook"
