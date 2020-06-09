@@ -1,3 +1,16 @@
+## Lastest Expansion Update added/tweaked the following settings:
+
+### TerritorySettings
+- "MaxInTerritory" became "MaxMembersInTerritory" (not new but just in case you are not aware)
+
+### PartySettings
+- **added **bool "EnableQuickMarker"
+
+### BuildingSettings
+- **added **float SafeExplosionDamageMultiplier
+- **added **float SafeProjectileDamageMultiplier
+- **added **bool CanDismantleFlag
+
 ## Contents
 
 
@@ -284,6 +297,9 @@ Bool. If enabled, you can invite everyone from anywhere regardless of the distan
 
 ### "EnableQuickMarker"
 Bool. If enabled, you can use quick marker system.
+
+### "EnableQuickMarker"
+Bool. If enabled allow players to use QuickMarkers (act like a ping ingame).
 
 # SafeZoneSettings
 ### "Enabled"
