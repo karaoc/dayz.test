@@ -1,7 +1,7 @@
 ### WARNING! The lastes expansion update tweaked/added the follwoing :
 
 #### TerritorySettings
-- "MaxInTerritory" became "MaxMembersInTerritory" (not new but just in case you are not aware)
+- "MaxInTerritory" became "MaxMembersInTerritory" (this is not new but just in case you are not aware that have been changed in the past updates)
 
 #### PartySettings
 - **added** bool "EnableQuickMarker"
