@@ -4,12 +4,12 @@
 - "MaxInTerritory" became "MaxMembersInTerritory" (not new but just in case you are not aware)
 
 ### PartySettings
-- **added **bool "EnableQuickMarker"
+- **added** bool "EnableQuickMarker"
 
 ### BuildingSettings
-- **added **float SafeExplosionDamageMultiplier
-- **added **float SafeProjectileDamageMultiplier
-- **added **bool CanDismantleFlag
+- **added** float SafeExplosionDamageMultiplier
+- **added** float SafeProjectileDamageMultiplier
+- **added** bool CanDismantleFlag
 
 ## Contents
 
