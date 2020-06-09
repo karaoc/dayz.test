@@ -241,7 +241,7 @@ Bool. If enabled, allow the player to create 3D markers.
 Bool. If enabled, show the player teammates position on the map.
 
 ### "DistanceForPartyMarkers"
-Integrer. Distance in meters before the 3d marker fade out. Have impact on server performance if the distance is too big.
+Integrer. Distance in meters before the 3d marker fade out. Could not go over bubble network distance ~1000 m per default in DayZ
 
 ### "ShowServerMarkers"
 Bool. If enabled, show server map markers.
