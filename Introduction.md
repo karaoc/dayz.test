@@ -13,30 +13,26 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 
 DayZ Expansion mod alongside its main features has many smaller features and changes to the base game so it would be impossible to list all of those smaller changes and features, but you will discover them when playing the game.
 
-➤⠀Helicopters
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+### ➤⠀Helicopters
 
 - MH-6 Little Bird
 - Gyrocopter
 - Merlin
 - UH1H
 
-➤⠀Water Vehicles
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+### ➤⠀Water Vehicles
 
 - Zodiac Boat
 - Utility Boat
 - Vodnik
 
-➤⠀Ground Vehicles
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+### ➤⠀Ground Vehicles
 
 - Tractor
 - Bus
 - UAZ
 
-➤⠀Base Building
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+### ➤⠀Base Building
 
 - Wall
 - Gate
@@ -59,8 +55,7 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 
 - Toggleable Snapping System
 
-➤⠀World
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+### ➤⠀World
 
 - [Custom mapping](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BCustomizations%5D-Adding-custom-object-spawns-to-your-mission-file) in many cities of Chernarus
 - Custom trader locations
@@ -69,8 +64,7 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 - Custom ocean
 - Street lights
 
-➤⠀Items
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+### ➤⠀Items
 
 - GPS
 - Flags
@@ -86,8 +80,7 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 - Different types of bread
 - Different types of cheese
 
-➤⠀Weapons
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+### ➤⠀Weapons
 
 - M9
 - MP5
@@ -101,13 +94,12 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 - Flaregun
 - Benelli M4
 
-➤⠀Animals
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+### ➤⠀Animals
 
 - Wild Hare
 
-➤⠀Misc
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+### ➤⠀Misc
+
 
 - Global Chat
 - [Airdrops](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BCustomizations%5D-Adding-custom-airdrops)
