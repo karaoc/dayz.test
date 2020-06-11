@@ -9,14 +9,14 @@
 
 
 
-# addingairdrop
+# adding a airdrop
 ### Where ?
 
 
 ### How ?
 
 
-# configuringairdrop
+# configuring a airdrop
 ### Where ?
 
 
