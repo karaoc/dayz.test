@@ -1,4 +1,4 @@
-### WARNING! The lastes expansion update (1.01) tweaked/added the follwoing :
+### WARNING! The lastest expansion update (1.01) tweaked/added the follwoing :
 
 #### TerritorySettings
 - "MaxInTerritory" became "MaxMembersInTerritory" (this is not new but just in case you are not aware that have been changed in the past updates)
