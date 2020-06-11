@@ -182,9 +182,9 @@ Bool. When enabled, allow ivies to be on some building. Only work for Chernarus 
 
 ### "LightingConfig"
 Integer.
-0: Default - Default lighting of dayz we all know.
-1: Dark - Make the night very dark, the day is with default lighting.
-2: Gloom - Change how lighting work for night and day. The night is a bit darker than default but not as much as Dark mode. The day is more "gloomy", everything shines more !
+> 0: Default - Default lighting of dayz we all know.
+> 1: Dark - Make the night very dark, the day is with default lighting.
+> 2: Gloom - Change how lighting work for night and day. The night is a bit darker than default but not as much as Dark mode. The day is more "gloomy", everything shines more !
 
 ### "EnableLamps"
 Integer.
