@@ -182,16 +182,16 @@ Bool. When enabled, allow ivies to be on some building. Only work for Chernarus 
 
 ### "LightingConfig"
 Integer.
-> 0: Default - Default lighting of dayz we all know.
-> 1: Dark - Make the night very dark, the day is with default lighting.
-> 2: Gloom - Change how lighting work for night and day. The night is a bit darker than default but not as much as Dark mode. The day is more "gloomy", everything shines more !
+1. : Default - Default lighting of dayz we all know.
+2. : Dark - Make the night very dark, the day is with default lighting.
+3. : Gloom - Change how lighting work for night and day. The night is a bit darker than default but not as much as Dark mode. The day is more "gloomy", everything shines more !
 
 ### "EnableLamps"
 Integer.
-0: Disabled - The streets lights are off
-1: Generators - Currently unused. Would require you to fix a generator to make street lights work.
-2: Always On - Street lights are emitting lights but some of them will stay off intentionnaly.
-3: Always On (Everywhere) - Force every lights to be turned on
+0. : Disabled - The streets lights are off
+1. : Generators - Currently unused. Would require you to fix a generator to make street lights work.
+2. : Always On - Street lights are emitting lights but some of them will stay off intentionnaly.
+3. : Always On (Everywhere) - Force every lights to be turned on
 
 ### "EnableGenerators"
 Bool. Currently unused, will spawn town/village generators for the mode 1 for "EnableLamps"
