@@ -3,9 +3,9 @@
 ## Contents
 
 
-- [Adding a airdrop](#addingairdrop)
+- [Adding a airdrop](#adding-a-airdrop)
 
-- [Configuring a airdrop](#configuringairdrop)
+- [Configuring a airdrop](#configuring-a-airdrop)
 
 
 
