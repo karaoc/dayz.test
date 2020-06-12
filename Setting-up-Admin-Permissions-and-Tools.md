@@ -44,12 +44,12 @@ Change `everyone` to `admin` and save. Now this player have the admin role ingam
 
 ## Setting up permisisons
 
-_**Disclaimer**, this part is more advanced and does not require you to do the following steps to have a working server_
+_**Disclaimer**, this part is more advanced and does not require you to do the following steps to have a functionnal server and/or admin tool_
 
 
 ## Setting up roles
 
-_**Disclaimer**, this part is more advanced and does not require you to do the following steps to have a working server_
+_**Disclaimer**, this part is more advanced and does not require you to do the following steps to have a functionnal server and/or admin tool_
 
 ## Troubleshooting
 
