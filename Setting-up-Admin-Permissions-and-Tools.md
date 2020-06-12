@@ -28,17 +28,17 @@ Here is a example of what you should find :
 
 **PICTURE HERE**
 
-Now Remember this player ID and go to :
+### 2. Granting the player admin role
+
+Now that you have found where to found the player ID, go to :
 
 `YourDayZServer\Profile(or config)\PermissionFramework\Players\`
 
-You should see one or multiple files with players ids. Open the file with the player ID you saw in the logs. You should have something similar :
+You should see one or multiple files with players IDs and open the file with the player ID you saw in the logs. You should have something similar :
 
 **PICTURE HERE**
 
-Change `everyone` to `admin` and save. Now this player have the admin role ingame !
-
-### 2. Granting the player admin role
+Change `everyone` to `admin` and save. Now this player have the admin role ingame ! _(you don't need to restart the server)_
 
 ## Setting up permisisons
 
