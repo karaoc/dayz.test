@@ -55,4 +55,4 @@ I only see vanilla vehicles in my spawnlist !
 
 **PICTURE HERE**
 
-Go inside your server config at YourDayZServer\Profile(or config)\ and delete the "CommunityOnlineTool" folder. It will force the admin tool to regenerate the list !
+Go inside your server config at `YourDayZServer\Profile(or config)\` and delete the `CommunityOnlineTool` folder. It will force the admin tool to regenerate the list !
