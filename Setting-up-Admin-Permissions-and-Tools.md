@@ -28,7 +28,11 @@ Here is a example of what you should find :
 
 **PICTURE HERE**
 
-Now Remember this player ID and go to "`YourDayZServer\Profile(or config)\PermissionFramework\Players\`" you should see one or multiple files with players ids. Open the file with the player ID you saw in the logs. You should have something similar :
+Now Remember this player ID and go to :
+
+"`YourDayZServer\Profile(or config)\PermissionFramework\Players\`"
+
+You should see one or multiple files with players ids. Open the file with the player ID you saw in the logs. You should have something similar :
 
 **PICTURE HERE**
 
