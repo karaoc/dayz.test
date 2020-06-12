@@ -2,9 +2,9 @@
 
 - [Granting someone admin](#granting-someone-admin)
 
-- [Setting up permisisons](#setting-up-permisisons)
+- [Setting up permisisons](#setting-up-permisisons) TODO
 
-- [Setting up roles](#setting-up-roles)
+- [Setting up roles](#setting-up-roles) TODO
 
 - [Troubleshooting](#troubleshooting)
 
