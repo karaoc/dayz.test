@@ -14,7 +14,7 @@
 
 ### 1. Getting the player ID
 
-Firstly, make sure your admin logs are enabled ! How so ? By adding "`**-adminlog**`" in your server launch options.
+Firstly, make sure your admin logs are enabled ! How so ? By adding "`-adminlog`" in your server launch options.
 
 **PICTURE HERE**
 
@@ -28,7 +28,7 @@ Here is a example of what you should find :
 
 **PICTURE HERE**
 
-Now Remember this player ID and go to "`**YourDayZServer\Profile(or config)\PermissionFramework\Players\**`" you should see one or multiple files with players ids. Open the file with the player ID you saw in the logs. You should have something similar :
+Now Remember this player ID and go to "`YourDayZServer\Profile(or config)\PermissionFramework\Players\`" you should see one or multiple files with players ids. Open the file with the player ID you saw in the logs. You should have something similar :
 
 **PICTURE HERE**
 
