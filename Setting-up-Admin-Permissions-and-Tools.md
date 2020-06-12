@@ -46,6 +46,13 @@ Change `everyone` to `admin` and save. Now this player have the admin role ingam
 
 _**Disclaimer**, this part is more advanced and does not require you to do the following steps to have a functionnal server and/or admin tool_
 
+### 1. How do permissions works ?
+
+0. None
+1. Inherit
+2. Full access
+
+### 2. How to add specific permissions to a user ?
 
 ## Setting up roles
 
