@@ -1,12 +1,12 @@
 ## Contents
 
-- [Granting someone admin](#permissions)
+- [Granting someone admin](#granting-someone-admin)
 
-- [Setting up permisisons](#permissions)
+- [Setting up permisisons](#setting-up-permisisons)
 
-- [Setting up roles](#permissions)
+- [Setting up roles](#setting-up-roles)
 
-- [Troubleshooting](#Troubleshooting)
+- [Troubleshooting](#troubleshooting)
 
 
 
