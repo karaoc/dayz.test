@@ -9,7 +9,7 @@
 
 
 
-## adding a airdrop
+## Adding a airdrop
 ### Where ?
 
 
