@@ -49,7 +49,7 @@ _**Disclaimer**, this part is more advanced and does not require you to do the f
 ### 1. How do permissions works ?
 
 0. None
-1. Inherit
+1. It will gain the permission value of the next parent permission which is not inherit. So if you have `Admin.Player.Set` set to `INHERIT` and `Admin` set to `ALLOW` then `Admin.Player.Set` will be `ALLOW` but if you had `Admin.Player` set to `DISALLOW` as well then `Admin.Player.Set` is now `DISALLOW`.
 2. Full access
 
 ### 2. How to add specific permissions to a user ?
