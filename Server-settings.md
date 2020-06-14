@@ -75,6 +75,12 @@ Put every classname of the item, you want to be able to be placed outside of the
 Array of string.
 Put every classname of the item, you want to be able to be placed in the territory where you are not a member of him.
 
+### "DoDamageWhenEnterWrongCodeLock"
+Bool. If set to 0, the player will not take damage if he enters a wrong code lock. If set to 1, he will take damage.
+
+### "DamageWhenEnterWrongCodeLock"
+Float. The number of damage the player will take when he types a wrong code lock.
+
 # BookSettings
 
 ### "EnableBook"
