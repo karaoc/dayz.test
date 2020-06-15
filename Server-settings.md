@@ -366,7 +366,10 @@ Bool. If enabled, use the expansion territory system
 Bool. If enabled, will make the whole map available in invite list, instead only nearby players.
 
 ### "TerritorySize"
-Float. the radius of a territory in meters.
+Float. the radius of territory in meters.
 
 ### "MaxMembersInTerritory"
-Integrer. The max amounnt of members allowed per territories. If <= 0, unlimited territory size.
+Integer. The max amount of members allowed per territories. If <= 0, unlimited territory size.
+
+### "MaxTerritoryPerPlayer"
+Integer. The max amount of territories allowed per player. If <= 0, unlimited territory allowed.
