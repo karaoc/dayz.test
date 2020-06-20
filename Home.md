@@ -61,7 +61,6 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 * Ramp
 * Stairs
 * Window
-
 * Safes
 * Stove
 * Tents
@@ -71,7 +70,6 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 * Boom Barrier
 * Mesh Barriers
 * Warning Signs
-
 * Toggleable Snapping System (press 'X' on your keyboard by default)
 
 ### ➤⠀World
@@ -90,7 +88,6 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 * Lumber
 * Codelocks
 * Explosives
-
 * Car keys
 * Spray cans
 * Igniter plug
@@ -123,7 +120,6 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 
 * Global Chat
 * [Airdrops](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-custom-airdrops)
-
 * Notification System
 * Territories System
 * Auto-run System
