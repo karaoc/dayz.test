@@ -32,7 +32,7 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 
 DayZ Expansion mod alongside its main features has many smaller features and changes to the base game so it would be impossible to list all of those smaller changes and features, but you will discover them when playing the game.
 
-### Air Vehicles
+### ➤ Air Vehicles
 
 * MH-6 Little Bird
 * Gyrocopter
@@ -129,4 +129,4 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 
 ![feedback](https://i.imgur.com/Acaxhte.png)
 
-We're grateful to hear any feedback and suggestions from anyone, the best place to give it to us would be our [Discord](https://discord.gg/rMZuS4F), please also join if you have any questions too!
+We're grateful to hear any feedback and suggestions from anyone, the best place to give it to us would be our [Discord](https://discord.gg/rMZuS4F), please also join if you have any questions you would like to ask us!
