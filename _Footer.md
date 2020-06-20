@@ -1,3 +1,1 @@
-Copyright 2020 DayZ Expansion Mod Team. We do not authorize any entity to publish this mod without permission from the team.
-
-Consider joining our [Discord](https://discord.gg/rMZuS4F) if you would like to give any feedback or suggestions.
+Copyright 2020 DayZ Expansion Mod Team. We do not authorize any entity to publish this DayZ Standalone modification without licensing from the DayZ Expansion Mod Team.
