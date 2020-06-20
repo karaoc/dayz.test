@@ -134,5 +134,3 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 ![feedback](https://i.imgur.com/Acaxhte.png)
 
 We're grateful to hear any feedback and suggestions from anyone, the best place to give it to us would be our [Discord](https://discord.gg/rMZuS4F), please also join if you have any questions too!
-
-Copyright 2020 DayZ Expansion Mod Team. This item is not authorized for posting on Steam, except under the Steam account named "DayZ Expansion" ([https://steamcommunity.com/id/dayzexpansion/](https://steamcommunity.com/id/dayzexpansion/)).
