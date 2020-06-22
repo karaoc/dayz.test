@@ -43,7 +43,7 @@
 * Ammo_Expansion_M203_HE
 * Ammo_Expansion_46x30
 * Ammo_Expansion_338
-* Ammo_ArrowComposite
+* Expansion_Ammo_ArrowBolt
 * Mag_Expansion_M14_20Rnd
 * Mag_Expansion_M14_10Rnd
 * Mag_Expansion_M9_15Rnd
