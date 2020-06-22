@@ -12,6 +12,21 @@ Make sure to launch the 4 mods with this command line if you don't use a panel :
 
 `-mod=@CF;@Community-Online-Tools;@DayZ-Expansion;@DayZ-Expansion-Licensed`
 
+## start.bat
+
+If you are creating a local server and don't know how or where to add this lines do the following.
+
+Create a txt file and paste inside the file this config lines :
+
+`@echo off
+start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 "-mod=@CF;@Community-Online-Tools;@DayZ-Expansion;@DayZ-Expansion-Licensed" -profiles=.\ServerProfile -netlog`
+
+And save as MyName.bat !
+
+Now all you have to do is to execute this bat file to launch your server 😃 
+
+Make sure your bat file is inside your server folder as shown with the picture above !
+
 # Mission files
 
 Inside the mod "@DayZ-Expansion" take the mission files **that don't have COM in their name**.
