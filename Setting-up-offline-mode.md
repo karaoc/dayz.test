@@ -2,9 +2,7 @@
 
 
 - [Downloading the mods](#downloading-the-mods)
-
 - [Getting the mission](#getting-the-mission)
-
 - [Troubleshooting](#troubleshooting)
 
 
