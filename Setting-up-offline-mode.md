@@ -1,15 +1,5 @@
 ![DayZ Expansion](https://i.imgur.com/cTbqjAr.png)
 
-## Summary
-
-
-- [Downloading the mods](#downloading-the-mods)
-- [Getting the mission](#getting-the-mission)
-- [Troubleshooting](#troubleshooting)
-
-
-
-
 ## Downloading the mods
 
 All you have to do is to subscribe to the following mods from steam :
