@@ -19,7 +19,6 @@ If you are creating a local server and don't know how or where to add this lines
 Create a txt file and paste inside the file this config lines :
 
 `@echo off
-
 start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 "-mod=@CF;@Community-Online-Tools;@DayZ-Expansion;@DayZ-Expansion-Licensed" -profiles=.\ServerProfile -netlog`
 
 And save as MyName.bat !
