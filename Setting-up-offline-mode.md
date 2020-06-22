@@ -34,6 +34,9 @@ All you have to do is to subscribe to the following mods from steam :
 ![Warning Window](https://i.imgur.com/cglDji2.png)
 
 Windows Explorer should have opened with the folder "@DayZ-Expansion" already being selected.
+
+![@DayZExpansion folder being selected](https://i.imgur.com/138UmlK.png)
+
 ##### 5. Go inside the "@DayZ-Expansion" folder and then inside the "Missions" folder
 ##### 6. Inside this folder you should have two folder named "ExpansionCOM.ChernarusPlus" and "ExpansionCOM.ChernarusPlusGloom". Copy this two files !
 
