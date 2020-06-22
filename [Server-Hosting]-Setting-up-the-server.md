@@ -1,4 +1,6 @@
-# Downloading the mods
+![DayZ Expansion](https://i.imgur.com/cTbqjAr.png)
+
+## Downloading the mods
 - [CF](https://steamcommunity.com/workshop/filedetails/?id=1559212036)
 - [Community-Online-Tools](https://steamcommunity.com/workshop/filedetails/?id=1564026768)
 - [DayZ-Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222)
@@ -12,7 +14,7 @@ Make sure to launch the 4 mods with this command line if you don't use a panel :
 
 `-mod=@CF;@Community-Online-Tools;@DayZ-Expansion;@DayZ-Expansion-Licensed`
 
-## start.bat
+### start.bat
 
 If you are creating a local server and don't know how or where to add this lines do the following.
 
@@ -27,7 +29,7 @@ Now all you have to do is to execute this bat file to launch your server 😃
 
 Make sure your bat file is inside your server folder as shown with the picture above !
 
-# Mission files
+## Mission files
 
 Inside the mod "@DayZ-Expansion" take the mission files **that don't have COM in their name**.
 
@@ -45,13 +47,13 @@ Inside this file, look for the template and change it to match this screenshot. 
 
 If you proceed with ChernarusPlusGloom mission file its important to set lightingConfig inside your server config file to 2. (by default this is the case)
 
-# Server config
+## Server config
 
 After starting your server with the DayZ Expansion mod for the first time, the server will generate the ExpansionMod folder in your profiles folder, in that folder all DayZ Expansion related settings and storage will be stored, if you want to toggle any part of DayZ Expansion proceeded into settings folder and open specific file you want to tweak. An overview of all the settings and what they do can be found [here](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Server-settings)
 
 ![](https://i.imgur.com/4uEMoWi.png)
 
-# Troubleshooting
+## Troubleshooting
 #### Bad type 'StringLocaliser'
 
 ![](https://i.imgur.com/uFUrx8h.png)
