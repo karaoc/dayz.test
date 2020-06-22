@@ -128,7 +128,6 @@
 * ExpansionFlagKitWhite
 * ExpansionFlagBase
 * ExpansionTerritoryFlag
-* WoodenLog
 * ExpansionLumber05
 * ExpansionLumber1
 * ExpansionLumber15
