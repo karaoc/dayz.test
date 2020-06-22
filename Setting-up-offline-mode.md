@@ -1,6 +1,6 @@
 ![DayZ Expansion](https://i.imgur.com/cTbqjAr.png)
 
-## Contents
+## Summary
 
 
 - [Downloading the mods](#downloading-the-mods)
