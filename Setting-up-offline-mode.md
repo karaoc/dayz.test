@@ -9,6 +9,9 @@
 
 
 ## Downloading the mods
+
+All you have to do is to subscribe to the following mods from steam :
+
 - [CF](https://steamcommunity.com/workshop/filedetails/?id=1559212036)
 - [Community-Online-Tools](https://steamcommunity.com/workshop/filedetails/?id=1564026768)
 - [DayZ-Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222)
@@ -18,7 +21,7 @@
 
 
 ## Getting the mission
-##### 1. Open your dayz launcher and go to the mods tab
+##### 1. Open your dayz launcher from steam and go to the mods tab
 ##### 2. Expand the DayZ-Expansion Item as show in the picutre 
 ##### 3. Click on the 3 dots and then on "Open folder in Windows Explorer"
 
