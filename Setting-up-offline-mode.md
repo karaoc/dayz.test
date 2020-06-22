@@ -49,6 +49,8 @@ Windows Explorer should have opened with the folder "@DayZ-Expansion" already be
 
 ![Root](https://i.imgur.com/kEP7isg.png)
 
+![going inside Missions root folder](https://i.imgur.com/wUsvDiu.png)
+
 ##### 8. Paste the two folders inside and go inside "ExpansionCOM.ChernarusPlus".
 
 ##### 9. Execute "DayZCommunityOfflineMode.bat". The game will launch and you'll be in offline mode.
