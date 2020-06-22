@@ -37,7 +37,7 @@ Copy and paste them inside your mpmission folder of your server. You should have
 
 ![](https://i.imgur.com/wk7ezm6.png)
 
-Now go back to the dayz server root and open your "serverDZ.cfg" config file (if you are on a web provider, make sure you can add custom mission or that you have expert mode enabled).
+Now go back to the dayz server root and open your "**serverDZ.cfg**" config file (if you are on a web provider, make sure you can add custom mission or that you have expert mode enabled).
 
 Inside this file, look for the template and change it to match this screenshot. You can choose to use the non Gloom mission if you want to. Gloom allow for better lighting visuals, this is the only difference !
 
