@@ -1,3 +1,5 @@
+![DayZ Expansion](https://i.imgur.com/cTbqjAr.png)
+
 ## Contents
 
 
