@@ -125,6 +125,7 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 * Auto-run System
 * Mission System
 * Book System
+* Skin System
 * Map System
 
 ![feedback](https://i.imgur.com/Acaxhte.png)
