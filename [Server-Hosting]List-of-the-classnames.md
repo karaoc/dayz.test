@@ -100,8 +100,8 @@
 * ExpansionUAZDoorCoDriver
 * ExpansionUAZDoorCargo1
 * ExpansionUAZDoorCargo2
-* ExpansionUh1h_Door_1_1
-* ExpansionUh1h_Door_1_2
+* ExpansionUh1hDoor_1_1
+* ExpansionUh1hDoor_1_2
 * Expansion_Mh6_Door_1_1
 * Expansion_Mh6_Door_1_2
 * Expansion_Mh6_Door_2_1
