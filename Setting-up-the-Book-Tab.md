@@ -29,3 +29,58 @@
             ],
             "ServerName": "SERVER NAME"
         },
+
+The icons you can use by default are the following :
+
+    icon_search
+    icon_namelabel
+    icon_marker
+    icon_removemarker
+    icon_edit
+    icon_cancle
+    icon_plus
+    icon_minus
+    icon_blood
+    icon_gender
+    icon_bloodbag
+    icon_weight
+    icon_right
+    icon_left
+    icon_health
+    icon_bloodtype
+    icon_expansion_white
+    icon_options
+    icon_territory
+    icon_patreon
+    icon_position
+    icon_discord
+    icon_reddit
+    icon_steam
+    icon_github
+    icon_home
+    icon_forums
+    icon_twitter
+    icon_youtube
+    icon_settings
+    icon_exit
+    icon_close
+    icon_group
+    icon_profile
+    icon_status
+    icon_map
+    icon_info
+    icon_events
+    arrow_left
+    arrow_right
+    map
+    compass
+    mountains
+    arrow_up
+    arrow_down
+    clock_blank
+    clock_filled
+    water_border
+    water_low
+    water_full
+    water_normal
+    water_high
