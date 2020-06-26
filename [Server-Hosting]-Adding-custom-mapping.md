@@ -1,6 +1,6 @@
 ![custom mapping](https://i.imgur.com/af8WSDT.jpg)
 
-Requirements:
+# Requirements:
 First, make sure to have Expansion COM installed and functional
 [https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-offline-mode](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-offline-mode)
 
