@@ -31,6 +31,7 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 * [Adding a Boat](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-a-Boat)
 * [Adding a Plane](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-a-Plane)
 * [Adding a Helicopter](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-a-Helicopter)
+* [Allowing player to attach to your vehicle](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Allowing-player-to-attach-to-your-vehicle)
 
 ![features](https://i.imgur.com/xIrXezp.png)
 
