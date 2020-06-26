@@ -16,7 +16,7 @@
 ### How ?
 
 
-## configuring a airdrop
+## Configuring a airdrop
 ### Where ?
 
 
