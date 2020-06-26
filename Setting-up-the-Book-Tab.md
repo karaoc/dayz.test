@@ -2,60 +2,36 @@
 
         {
             "ServerButtons": [
-                {
-                    "IconPath": "set:expansion_iconset image:icon_settings",
-                    "URL": "https://exp.thurston.pw",
-                    "Tooltip": "Feedback",
-                    "Color": -1
-                },
-                {
-                    "IconPath": "set:expansion_iconset image:icon_exit",
-                    "URL": "https://discord.io/expansion",
-                    "Tooltip": "Discord",
-                    "Color": -1
-                },
-                {
-                    "IconPath": "set:expansion_iconset image:icon_close",
-                    "URL": "https://www.google.com",
-                    "Tooltip": "Homepage",
-                    "Color": -1
-                },
-                {
-                    "IconPath": "set:expansion_iconset image:icon_group",
-                    "URL": "https://www.google.com",
-                    "Tooltip": "Forums",
-                    "Color": -1
-                },
-                {
-                    "IconPath": "set:expansion_iconset image:icon_profile",
-                    "URL": "https://www.patreon.com/dayzexpansion",
-                    "Tooltip": "Patreon",
-                    "Color": -1
-                },
-                {
-                    "IconPath": "set:expansion_iconset image:icon_status",
-                    "URL": "https://www.patreon.com/dayzexpansion",
-                    "Tooltip": "Patreon",
-                    "Color": -1
-                },
-                {
-                    "IconPath": "set:expansion_iconset image:icon_map",
-                    "URL": "https://www.patreon.com/dayzexpansion",
-                    "Tooltip": "Patreon",
-                    "Color": -1
-                },
-                {
-                    "IconPath": "set:expansion_iconset image:icon_info",
-                    "URL": "https://www.patreon.com/dayzexpansion",
-                    "Tooltip": "Patreon",
-                    "Color": -1
-                },
-                {
-                    "IconPath": "set:expansion_iconset image:icon_events",
-                    "URL": "https://www.patreon.com/dayzexpansion",
-                    "Tooltip": "Patreon",
-                    "Color": -1
-                }
+             {
+                "IconPath": "set:expansion_iconset image:icon_group",
+                "URL": "https://exp.thurston.pw",
+                "Tooltip": "Feedback",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_discord",
+                "URL": "https://discord.io/expansion",
+                "Tooltip": "Discord",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_home",
+                "URL": "https://www.google.com",
+                "Tooltip": "Homepage",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_forums",
+                "URL": "https://www.google.com",
+                "Tooltip": "Forums",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_patreon",
+                "URL": "https://www.patreon.com/dayzexpansion",
+                "Tooltip": "Patreon",
+                "Color": -1
+            }
             ],
             "ServerSections": [
                 {
