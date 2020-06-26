@@ -31,7 +31,8 @@
 
 - [VehicleSettings](#VehicleSettings)
 
-====================================================================
+
+***
 
 
 # AirdropSettings
@@ -949,17 +950,17 @@ Integer. The max amount of territories allowed per player. If <= 0, unlimited te
         "VehicleLockedAllowInventoryAccessWithoutDoors": 1
     }
 
-### "VehicleSync"
+### "VehicleSync" - CURRENTLY DOESNT WORK
 DESCRIPTION
 
 ### "VehicleRequireKeyToStart"
-DESCRIPTION
+Bool. If set to 1, you will need a car key paired to the vehicle to start the engine.
 
 ### "VehicleRequireAllDoors"
-DESCRIPTION
+Bool. If set to 1, you will need all the doors of the car to lock your vehicle.
 
 ### "VehicleLockedAllowInventoryAccess"
-DESCRIPTION
+Bool. If set to 1, allow players to access the inventory of the vehicle even if this vehicle is locked.
 
 ### "VehicleLockedAllowInventoryAccessWithoutDoors"
-DESCRIPTION
+Bool. If set to 1, allow players to access inventory of the vehicle only if this vehicle is missing one or multiple doors.
