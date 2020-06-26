@@ -1,1 +1,1 @@
-![airdrop](https://i.imgur.com/m6PpduX.jpg)
+![Setting up the Book Tab](https://i.imgur.com/m6PpduX.jpg)
