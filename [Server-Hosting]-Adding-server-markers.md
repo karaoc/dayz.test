@@ -45,7 +45,7 @@ What Icon will be used for the marker. Good news is, it's easy to know which one
 
 #### m_Color
 
-The color of the marker, use this website to generate the color you want to apply on your marker !
+The color of the marker, use this [this website to generate the color](https://thurston.pw/public/color.php) you want to apply on your marker !
 
 #### m_Position
 
