@@ -1,14 +1,5 @@
 ![airdrop](https://i.imgur.com/TZpLHYq.png)
 
-## Contents
-
-
-- [Adding a airdrop](#adding-a-airdrop)
-
-- [Configuring a airdrop](#configuring-a-airdrop)
-
-
-
 ## Adding a airdrop
 
 First go to your server Expansion settings and open the MissionSettings.json file `\Profile (or config)\ExpansionMod\Settings`
