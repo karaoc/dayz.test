@@ -2,6 +2,10 @@
 
 ## Where do you need to go ?
 
+Go to `DayZServer\ServerProfile\ExpansionMod\Settings` and open the `MapSettings.json`
+
+![Expansion Settings](https://i.imgur.com/Bste9wW.png)
+
 ## How does it work ?
 
         {
@@ -16,6 +20,8 @@
                 12466.8
             ]
         },
+
+**REMOVE** the `,` from }, to the last marker config (look at the example)
 
 #### m_IsPartyMarker
 
