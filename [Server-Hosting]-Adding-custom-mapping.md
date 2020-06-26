@@ -4,7 +4,7 @@ Requirements:
 First, make sure to have Expansion COM installed and functional
 [https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-offline-mode](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-offline-mode)
 
-Placing Objects:
+# Placing Objects:
 Once in game in the offline mode you are able to bring up the COM menu by pressing "U" on your keyboard.
 The menu will show up on the right side of your screen:
 ![COT Menu](https://i.imgur.com/a9LJ2W8.jpg)
