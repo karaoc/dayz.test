@@ -24,10 +24,13 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 * [Adding server markers](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-server-markers)
 
 ### Modding
-* [Adding textures to the flag](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-flag-textures)
+* [Adding flags textures](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-flag-textures)
 * [Adding skins](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-skins)
 * [Adding mission events](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-mission-events)
 * [Adding Image for the server tab in the book](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-image-book-server-tab)
+* [Adding a Boat](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-a-Boat)
+* [Adding a Plane](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-a-Plane)
+* [Adding a Helicopter](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-a-Helicopter)
 
 ![features](https://i.imgur.com/xIrXezp.png)
 
