@@ -19,7 +19,6 @@
 
 ## Some examples !
 
-"ServerMarkers": [
         {
             "m_IsPartyMarker": 0,
             "m_Is3DMarker": 1,
@@ -80,4 +79,3 @@
                 2438.66
             ]
         }
-    ]
