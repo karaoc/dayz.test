@@ -80,7 +80,7 @@ How important is this airdrop, the bigger the number is, the more likely it will
 How long this airdrop could stay on the map until it despawn? It's in seconds.
 
 ### "MissionName"
-Currentlty useless since missions are only used for airdrops but will be used in the futur to create multiple categories for missions.
+String. Currentlty useless since missions are only used for airdrops but will be used in the futur to create multiple categories for missions.
 
 ### "Difficulty"
 Unused at the moment. Keep it at 0
@@ -89,26 +89,26 @@ Unused at the moment. Keep it at 0
 Unused at the moment. Keep it at 0
 
 ### "Reward"
-Unused at the moment. Keep it empty
+String. Unused at the moment. Keep it empty
 
 ### "ShowNotification"
-If set to 1, this specific airdrop will notify players with a notification if notifications are not disabled in NotificationSettings.json !
+Bool. If set to 1, this specific airdrop will notify players with a notification if notifications are not disabled in NotificationSettings.json !
 
 ### "Height"
-The altitude the plane will fly at.
+Float. The altitude the plane will fly at.
 
 ### "Speed"
-The speed of the plane.
+Float. The speed of the plane.
 
 ### "Container"
-What container will be used for the airdrop. By default you can choose between :
+String. What container will be used for the airdrop. By default you can choose between :
 * ExpansionAirdropContainer_Military
 * ExpansionAirdropContainer_Basebuilding
 * ExpansionAirdropContainer_Medical
 * ExpansionAirdropContainer
 
 ### "DropLocation"
-Where the airdrop will be dropped, what name will be displayed in the notification "Airdrop have been dropped at MyNameHere" and the radius is where the airdrop should land around the coordinates given.
+Array. Where the airdrop will be dropped, what name will be displayed in the notification "Airdrop have been dropped at MyNameHere" and the radius is where the airdrop should land around the coordinates given.
 
 ### "Loot"
 What loot could spawn inside the airdrop. You have to give the Name of the Classname, his chance of spawning (1.00 = 100%) and his attachements if you want it to spawn with items attached to it. Please make sure the last `}` of the loot list doesn't have the `,` in `},` like in the example !
