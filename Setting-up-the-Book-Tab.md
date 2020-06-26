@@ -1,1 +1,1 @@
-![airdrop](https://i.imgur.com/TZpLHYq.png)
+![airdrop](https://i.imgur.com/m6PpduX.jpg)
