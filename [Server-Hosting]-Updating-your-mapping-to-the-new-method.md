@@ -7,6 +7,7 @@ You will need the software [Visual Studio Code](https://code.visualstudio.com/)
 Once downloaded, create a empty file and paste all your SpawnObject lines inside it. Then press CTRL + F and write the following as shown in the picture :
 
 `SpawnObject\( "(.*)", "(.*)", "(.*)" \);`
+
 `||(edited)`
 
 ![Convert example](https://cdn.discordapp.com/attachments/617370661463261194/721419321838010448/unknown.png)
