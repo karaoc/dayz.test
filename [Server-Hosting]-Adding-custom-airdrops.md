@@ -102,4 +102,7 @@ The speed of the plane.
 
 ### "Container"
 What container will be used for the airdrop. By default you can choose between :
-ExpansionAirdropContainer_Military
+* ExpansionAirdropContainer_Military
+* ExpansionAirdropContainer_Basebuilding
+* ExpansionAirdropContainer_Medical
+* ExpansionAirdropContainer
