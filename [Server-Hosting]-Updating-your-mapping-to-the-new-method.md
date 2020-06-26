@@ -8,7 +8,7 @@ Once downloaded, create a empty file and paste all your SpawnObject lines inside
 
 `SpawnObject\( "(.*)", "(.*)", "(.*)" \);`
 
-`||(edited)`
+`$1|$2|$3`
 
 ![Convert example](https://cdn.discordapp.com/attachments/617370661463261194/721419321838010448/unknown.png)
 
