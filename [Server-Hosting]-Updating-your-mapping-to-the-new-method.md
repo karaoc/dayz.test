@@ -22,6 +22,8 @@ Click replace (or CTRL + ALT + ENTER) everything and Tada your mapping now follo
 
 ## Where to save ?
 
+Now you want to save your file in your mission `\Expansion.MyWorldName\expansion\objects\` and save your mapping in .map format as shown in this picture.
 
+![mapping directory](https://i.imgur.com/vjtsqJs.png)
 
 ## How to enable it ?
