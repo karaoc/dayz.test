@@ -21,7 +21,7 @@
 
 
 ### How ?
-{
+  {
 "Enabled": 1,
 "Weight": 76,
 "MissionMaxTime": 1200,
@@ -45,4 +45,4 @@
 "Infected": [
 "ItemCount": 50,
 "InfectedCount": 10
-}
+  }
