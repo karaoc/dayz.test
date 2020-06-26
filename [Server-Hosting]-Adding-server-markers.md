@@ -25,7 +25,7 @@ Inside this file you should have something similar except you don't have the lin
             ]
         },
 
-**REMOVE** the `,` from `},` to the last marker config (look at the example)
+**REMOVE** the `,` from `},` to the last marker config (look at the [example](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-server-markers#some-examples-) at the end of the page)
 
 #### m_IsPartyMarker
 
