@@ -10,17 +10,30 @@
 
 
 ## Adding a airdrop
-### Where ?
 
+First go to your server Expansion settings and open the MissionSettings.json file (\Profile (or config)\ExpansionMod\Settings)
 
-### How ?
+![Server Expansion Settings Path](https://i.imgur.com/FXjTRN8.png)
 
+Inside this file you should have all the already configured airdrops for ChernaruPlus. The `TimeBetweenMissions` is in miliseconds !
+
+![MissionSettings file](https://i.imgur.com/r8xjgjp.png)
+
+Add the following lines (you have a picture to show how it should be done)
+
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\NameOfMyCustomAirdrop.json"
+        },
+
+![Configured mission settings](https://i.imgur.com/TOaQuVC.png)
+
+Now go to and create a file with the name you choosed to
+
+![creating a json file](https://i.imgur.com/MLJNdqM.png)
 
 ## Configuring a airdrop
-### Where ?
 
-
-### How ?
         {
         "Enabled": 1,
         "Weight": 150,
