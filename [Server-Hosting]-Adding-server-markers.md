@@ -43,20 +43,20 @@ This is where you will write the name of your marker !
 
 What Icon will be used for the marker. Good news is, it's easy to know which one to use since they are in the correct order ingame :)
 
-**0.** Nothing (won't work)
-**1.** Airdop
-**2.** Car
-**3.** Deliver
-**4.** Map Marker
-**5.** Radiation
-**6.** Trader
-**7.** Water
-**8.** Infected
-**9.** Skull
-**10.** Helicopter
-**11.** Base
-**12.** Boat
-**13.** Fishing
+0. Nothing (won't work)
+1. Airdop
+2. Car
+3. Deliver
+4. Map Marker
+5. Radiation
+6. Trader
+7. Water
+8. Infected
+9. Skull
+10. Helicopter
+11. Base
+12. Boat
+13. Fishing
 
 #### m_Color
 
