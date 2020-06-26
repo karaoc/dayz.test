@@ -128,9 +128,9 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 * Notification System
 * Territories System
 * Auto-run System
-* Mission System
+* [Mission](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-mission-events) System
 * Book System
-* Skin System
+* [Skin](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-skins) System
 * Map System
 
 ![feedback](https://i.imgur.com/Acaxhte.png)
