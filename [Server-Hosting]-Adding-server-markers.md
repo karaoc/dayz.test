@@ -2,9 +2,13 @@
 
 ## Where do you need to go ?
 
-Go to `DayZServer\ServerProfile\ExpansionMod\Settings` and open the `MapSettings.json`
+Go to `DayZServer\ServerProfile (or config)\ExpansionMod\Settings` and open the `MapSettings.json`
 
-![Expansion Settings](https://i.imgur.com/Bste9wW.png)
+![Expansion Server Settings Path](https://i.imgur.com/Bste9wW.png)
+
+Inside this file you should have something similar except you don't have the lines highlighted in white yet
+
+![Map Settings File](https://i.imgur.com/3IPs6GC.png)
 
 ## How does it work ?
 
