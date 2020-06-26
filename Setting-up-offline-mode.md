@@ -1,4 +1,4 @@
-![DayZ Expansion](https://i.imgur.com/cTbqjAr.png)
+![DayZ Expansion](https://i.imgur.com/dvWUDai.jpg)
 
 ## Downloading the mods
 
