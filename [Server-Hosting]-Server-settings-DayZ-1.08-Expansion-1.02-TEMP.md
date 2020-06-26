@@ -45,16 +45,16 @@
     }
 
 ### "Height"
-DESCRIPTION
+The altitude the plane will fly at.
 
 ### "Speed"
-DESCRIPTION
+Float. The speed of the plane.
 
 ### "ItemCount"
 The amount of items the airdrop will have in it.
 
 ### "Containers"
-DESCRIPTION
+What loot could spawn inside the airdrop. You have to give the Name of the Classname, his chance of spawning (1.00 = 100%) and his attachements if you want it to spawn with items attached to it. Please make sure the last } of the loot list doesn't have the , in }, like in the example !
 
 
 # BaseBuildingSettings
@@ -335,19 +335,19 @@ Bool. When enabled, show to the player the name of the city he just got into and
 Bool. This feature currentmy does nothing. 
 
 ### "UseCustomMappingModule"
-Bool. When enabled, add custom mapping. Have a huge impact on server performance !
+Bool. if set to 1, add custom mapping. Have a huge impact on server performance !
 
 ### "Mapping"
 Array. List all the locations with custom mapping. 
 
 ### "ObjectsToDelete"
-DESCRIPTION
+Array. You can indicate the position and the name of a specific mapped object to be removed. This action can be done to multiple objects.
 
 ### "InteriorBuilding"
-Bool. When enabled, add more detailed interiors. Have a huge impact on server performance !
+Bool. if set to 1, add more detailed interiors. Have a huge impact on server performance !
 
 ### "Ivies" - CURRENTLY DOESNT WORK
-Bool. When enabled, allow ivies to be on some building. Only work for Chernarus !
+Bool. if set to 1, allow ivies to be on some building. Only work for Chernarus !
 
 ### "LightingConfig"
 Integer.
@@ -367,34 +367,34 @@ Integer.
 Bool. Currently unused, will spawn town/village generators for the mode 1 for "EnableLamps"
 
 ### "EnableLighthouses"
-Bool. If enabled, turns on the light of every lighthouses of the map.
+Bool. If set to 1, turns on the light of every lighthouses of the map.
 
 ### "EnableAutoRun"
-Bool. If enabled, allow the player to autojog.
+Bool. If set to 1, allow the player to autojog.
 
 ### "NeedGPSItemForKeyBinding"
-Bool. If enabled, require the player to have the GPS item in his inventory to open the GPS
+Bool. If set to 1, require the player to have the GPS item in his inventory to open the GPS
 
 ### "NeedMapItemForKeyBinding"
-Bool. If enabled, require the player to have the map item in his inventory to open the map
+Bool. If set to 1, require the player to have the map item in his inventory to open the map
 
 ### "EnableHUDNightvisionOverlay"
-Bool. If enabled, add a immersive NVG overlay
+Bool. If set to 1, add a immersive NVG overlay
 
 ### "EnablePlayerTags"
-Bool. If enabled, show the player tag when your cursor is on him.
+Bool. If set to 1, show the player tag when your cursor is on him.
 
 ### "PlayerTagViewRange"
 Integer. Distance requiried to see the tag. The value is in meter, in other words 5 is 5 meters.
 
 ### "EnableHumanityOnPlayerTags" - CURRENTLY DOESNT WORK
-Bool. If enabled, show the player tag Humanity when your cursor is on him.
+Bool. If set to 1, show the player tag Humanity when your cursor is on him.
 
 ### "EnablePlayerList"
-Bool. If enabled, allow players to see the player list.
+Bool. If set to 1, allow players to see the player list.
 
 ### "EnableAutoRun"
-DESCRIPTION
+Bool. If set to 1, allow the player to use the autorun feature.
 
 ### "UnlimitedStamina"
 Bool. If enabled, make stamina unlimited.
@@ -453,8 +453,7 @@ Bool. If enabled, the player can open the map with a keybind instead of interact
 DESCRIPTION
 
 ### "ServerMarkers"
-Array. Allow server owners to display server markers on the map.
-**TODO**
+Array. Allow server owners to display server markers on the map. See [this tutorial](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-server-markers) for more explaination.
 
 # MissionSettings
 
@@ -691,8 +690,8 @@ Integrer. Minimum mission allowed at once.
 ### "MaxMissions"
 Integrer. Maximum mission allowed at once.
 
-### "Missions" TODO
-Array.
+### "Missions"
+Array. List the missions configured on the server. Currently only used for [airdrops](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-custom-airdrops).
 
 # NotificationSettings
 
@@ -714,46 +713,55 @@ Array.
     }
 
 ### "EnableNotification"
-DESCRIPTION
+Bool. If set to 1, enable to notifications for everyone.
 
 ### "ShowPlayerJoinServer"
-DESCRIPTION
+Bool. If set to 1, notify the player who joined the server.
 
 ### "JoinMessageType"
-DESCRIPTION
+Integer. with 2 modes :
+
+0. Will display the player joined message in the globalchat
+1. Will display the player joined message in a notification
 
 ### "ShowPlayerLeftServer"
-DESCRIPTION
+Bool. If set to 1, notify the player who left the server.
 
 ### "LeftMessageType"
-DESCRIPTION
+Integer. with 2 modes :
 
-### "EnableKillFeed"
-DESCRIPTION
+0. Will display the player left message in the globalchat
+1. Will display the player left message in a notification
+
+### "EnableKillFeed" - CURRENTLY DOESNT WORK
+Bool. If set to 1, notify the player of whom got killed and how.
 
 ### "KillFeedMessageType"
-DESCRIPTION
+Integer. with 2 modes :
+
+0. Will display the player left message in the globalchat
+1. Will display the player left message in a notification
 
 ### "ShowAirdropStarted"
-DESCRIPTION
+Bool. If set to 1, will notify the player a airdrop just started.
 
 ### "ShowAirdropClosingOn"
-DESCRIPTION
+Bool. If set to 1, will notify the player a airdrop is getting closer.
 
 ### "ShowAirdropDropped"
-DESCRIPTION
+Bool. If set to 1, will notify the player a airdrop dropped the package.
 
 ### "ShowPlayerAirdropStarted"
-DESCRIPTION
+Bool. If set to 1, will notify the player a airdrop called by a player just started.
 
 ### "ShowPlayerAirdropClosingOn"
-DESCRIPTION
+Bool. If set to 1, will notify the player a airdrop called by a player is getting closer.
 
 ### "ShowPlayerAirdropDropped"
-DESCRIPTION
+Bool. If set to 1, will notify the player a airdrop called by a player dropped the package.
 
 ### "ShowTerritoryNotifications"
-DESCRIPTION
+Bool. If set to 1, will notify the player he entered/left a territory.
 
 # PartySettings
 
@@ -780,13 +788,13 @@ Bool. If enabled, you can invite everyone from anywhere regardless of the distan
 Bool. If enabled, show a 3d marker above the head of your teammates.
 
 ### "DistanceForPartyMarkers"
-DESCRIPTION
+Integrer. Distance in meters before the 3d marker fade out. Could not go over bubble network distance ~1000 m per default in DayZ
 
 ### "EnableQuickMarker"
-Bool. If enabled allow players to use QuickMarkers (act like a ping ingame).
+Bool. If set to 1, allow players to use QuickMarkers (act like a ping ingame).
 
 ### "ShowDistanceUnderQuickMarkers"
-DESCRIPTION
+Bool. If set to 1, show the distance between you and your quickmarker.
 
 # SafeZoneSettings
 
@@ -954,7 +962,10 @@ Integer. The max amount of territories allowed per player. If <= 0, unlimited te
     }
 
 ### "VehicleSync" - CURRENTLY DOESNT WORK
-DESCRIPTION
+Integrer. with x modes :
+
+0. Will change the Vehicle sync to...
+1. Will change the Vehicle sync to...
 
 ### "VehicleRequireKeyToStart"
 Bool. If set to 1, you will need a car key paired to the vehicle to start the engine.
