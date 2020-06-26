@@ -11,7 +11,6 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 ![table of contents](https://i.imgur.com/I0CimIG.png)
 
 ### General Wiki
-* [Introduction](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Introduction)
 * [Setting up offline mode](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-offline-mode)
 * [Classname List](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5DList-of-the-classnames)
 
