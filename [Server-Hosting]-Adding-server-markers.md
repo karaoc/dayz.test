@@ -29,7 +29,7 @@ Inside this file you should have something similar except you don't have the lin
 
 #### m_IsPartyMarker
 
-If set to 1,
+If set to 1, your marker will be seen by everyone as a party marker.
 
 #### m_Is3DMarker
 
