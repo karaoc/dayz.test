@@ -11,7 +11,7 @@
 
 ## Adding a airdrop
 
-First go to your server Expansion settings and open the MissionSettings.json file (\Profile (or config)\ExpansionMod\Settings)
+First go to your server Expansion settings and open the MissionSettings.json file `\Profile (or config)\ExpansionMod\Settings`
 
 ![Server Expansion Settings Path](https://i.imgur.com/FXjTRN8.png)
 
@@ -28,7 +28,7 @@ Add the following lines (you have a picture to show how it should be done)
 
 ![Configured mission settings](https://i.imgur.com/TOaQuVC.png)
 
-Now go to and create a file with the name you choosed to
+Now go to `\Profile (or config)\ExpansionMod\Missions` and create a file with the name you choosed to
 
 ![creating a json file](https://i.imgur.com/MLJNdqM.png)
 
