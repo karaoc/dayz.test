@@ -3,7 +3,7 @@
 ### WARNING! The lastest expansion update (1.02) for dayz 1.08 changed a lot of settings. It's highly recommended to regenerate your settings files !
 
 * [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/tree/development/ServerProfile/ExpansionMod/Settings) to see the server settings files
-* [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/commit/0a1f11b0e146bbf69a4c7af9aefbe034746159f1) to see the history of change for server settings
+* [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/commit/0a1f11b0e146bbf69a4c7af9aefbe034746159f1) to see the lastest changes for server settings
 
 ## Contents
 
@@ -949,17 +949,17 @@ Integer. The max amount of territories allowed per player. If <= 0, unlimited te
         "VehicleLockedAllowInventoryAccessWithoutDoors": 1
     }
 
-## "VehicleSync"
+### "VehicleSync"
 DESCRIPTION
 
-## "VehicleRequireKeyToStart"
+### "VehicleRequireKeyToStart"
 DESCRIPTION
 
-## "VehicleRequireAllDoors"
+### "VehicleRequireAllDoors"
 DESCRIPTION
 
-## "VehicleLockedAllowInventoryAccess"
+### "VehicleLockedAllowInventoryAccess"
 DESCRIPTION
 
-## "VehicleLockedAllowInventoryAccessWithoutDoors"
+### "VehicleLockedAllowInventoryAccessWithoutDoors"
 DESCRIPTION
