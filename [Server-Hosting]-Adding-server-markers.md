@@ -8,7 +8,7 @@ Go to `DayZServer\ServerProfile (or config)\ExpansionMod\Settings` and open the 
 
 Inside this file you should have something similar except you don't have the lines highlighted in white yet
 
-![Map Settings File](https://i.imgur.com/3IPs6GC.png)
+![Map Settings File](https://i.imgur.com/lGlMbT4.png)
 
 ## How does it work ?
 
