@@ -59,7 +59,7 @@ Inside your airdrop.json file you just created copy and paste the following line
             "Name": "Bear_Pink",
             "Attachments": [],
             "Chance": 0.70
-        },
+        }
 
         ],
         "Infected": [
@@ -67,7 +67,7 @@ Inside your airdrop.json file you just created copy and paste the following line
             "ZmbM_HermitSkinny_Beige",
             "ZmbM_HermitSkinny_Black",
             "ZmbM_HermitSkinny_Green",
-            "ZmbM_HermitSkinny_Red",
+            "ZmbM_HermitSkinny_Red"
         ],
         "ItemCount": 5,
         "InfectedCount": 10
@@ -106,3 +106,18 @@ What container will be used for the airdrop. By default you can choose between :
 * ExpansionAirdropContainer_Basebuilding
 * ExpansionAirdropContainer_Medical
 * ExpansionAirdropContainer
+
+### "DropLocation"
+Where the airdrop will be dropped, what name will be displayed in the notification "Airdrop have been dropped at MyNameHere" and the radius is where the airdrop should land around the coordinates given.
+
+### "Loot"
+What loot could spawn inside the airdrop. You have to give the Name of the Classname, his chance of spawning (1.00 = 100%) and his attachements if you want it to spawn with items attached to it. Please make sure the last `}` of the loot list doesn't have the `,` in `},` like in the example !
+
+### "Infected"
+A list of AI that will spawn around the airdrop once landed. Zombies or animals for example.
+
+### "ItemCount"
+The amount of items the airdrop will have in it
+
+### "InfectedCount"
+The amount of Zombies around the airdrop
