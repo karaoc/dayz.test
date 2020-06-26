@@ -13,6 +13,8 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 ### General Wiki
 * [Setting up offline mode](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-offline-mode)
 * [Classname List](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5DList-of-the-classnames)
+* [Crafting Guide](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Crafting-Guide)
+* [Basebuilding Guide](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Basebuilding-Guide)
 
 ### Server Hosting
 * [Setting up the server](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Setting-up-the-server)
