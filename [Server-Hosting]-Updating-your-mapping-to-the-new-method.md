@@ -4,16 +4,24 @@
 
 You will need the software [Visual Studio Code](https://code.visualstudio.com/)
 
-Once downloaded, create a empty file and paste all your SpawnObject lines inside it. Then press CTRL + F and write the following as shown in the picture :
+Once downloaded, create a empty file and paste all your SpawnObject lines inside it.
+
+![SpawnObject list](https://i.imgur.com/pZV5OPQ.png)
+
+Then press CTRL + H and write the following as shown in the picture (make sure to click on the small asterisk on the right or press ALT +R):
 
 `SpawnObject\( "(.*)", "(.*)", "(.*)" \);`
 
 `$1|$2|$3`
 
-![Convert example](https://cdn.discordapp.com/attachments/617370661463261194/721419321838010448/unknown.png)
+![Convert example](https://i.imgur.com/i5Cpvq8.png)
 
-Click replace everything and Tada your mapping now follow the correct format !
+Click replace (or CTRL + ALT + ENTER) everything and Tada your mapping now follow the correct format !
+
+![After converting](https://i.imgur.com/l91lFw9.png)
 
 ## Where to save ?
+
+
 
 ## How to enable it ?
