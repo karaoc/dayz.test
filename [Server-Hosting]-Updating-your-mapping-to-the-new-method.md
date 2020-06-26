@@ -30,4 +30,4 @@ Now you want to save your file in your mission `\Expansion.MyWorldName\expansion
 
 Now go inside your init.c and change `bool loadTraderObjects = false;` to `bool loadTraderObjects = true;` like in this picture :
 
-![enabling mapping](blob:https://imgur.com/dcc4b7bd-cbf7-4880-8ca5-15f910ed919f)
+![enabling mapping](https://i.imgur.com/PH7vIiI.png)
