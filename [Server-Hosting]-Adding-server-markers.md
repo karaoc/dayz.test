@@ -47,6 +47,8 @@ What Icon will be used for the marker. Good news is, it's easy to know which one
 
 The color of the marker, use this [this website to generate the color](https://thurston.pw/public/color.php) you want to apply on your marker !
 
+If you don't know how to use RGBA values
+
 #### m_Position
 
 The position of the marker in XYZ coordinates.
