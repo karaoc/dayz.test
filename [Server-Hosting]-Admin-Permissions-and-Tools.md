@@ -18,17 +18,17 @@
 
 Firstly, make sure your admin logs are enabled ! How so ? By adding `-adminlog` in your server launch options.
 
-**PICTURE HERE**
+![Server Launch Options](https://i.imgur.com/gHgTNQy.png)
 
 Now your server should generate new logs files in ADM format in your server profile (or config) folder
 
-**PICTURE HERE**
+![ADM file in server profile](https://i.imgur.com/2OqXgHA.png)
 
 You will be able to get Player IDs from this file. However to see the player id of someone, this player must have joined the server while this launch option was active !
 
 Here is a example of what you should find :
 
-**PICTURE HERE**
+![Inside the ADM file](https://i.imgur.com/P0y63Sr.png)
 
 ### 2. Granting the player admin role
 
@@ -36,11 +36,13 @@ Now that you have found where to found the player ID, go to :
 
 `YourDayZServer\Profile(or config)\PermissionFramework\Players\`
 
-You should see one or multiple files with players IDs and open the file with the player ID you saw in the logs. You should have something similar :
+You should see one or multiple files with players IDs. Open the file with the player ID you saw in the ADM logs and you should have something similar :
 
-**PICTURE HERE**
+![Player roles](https://i.imgur.com/l562ShX.png)
 
-Change `everyone` to `admin` and save. Now this player have the admin role ingame ! _(you don't need to restart the server)_
+Change `everyone` to `admin` and save. Now this player have the admin role ingame !
+
+![Inside the player roles](https://i.imgur.com/GbAM7PB.png)
 
 ## Setting up permisisons
 
