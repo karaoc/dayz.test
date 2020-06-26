@@ -1,3 +1,5 @@
+![DayZ Expansion](https://i.imgur.com/cTbqjAr.png)
+
 # This page is temporary, everything is subject to change
 
 ### WARNING! The lastest expansion update (1.02) for dayz 1.08 changed a lot of settings. It's highly recommended to regenerate your settings files !
