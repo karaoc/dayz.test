@@ -36,11 +36,11 @@ Side note: Please take in note that the image have to exist on every client that
 
 The string URL the browser is opening after clicking the button.
 
-### Tooltip
+#### Tooltip
 
 A string description (should be one word) that gets displayed when ever the client is pointing on that button.
 
-### Color
+#### Color
 
 Color integer for the icon color.
 
