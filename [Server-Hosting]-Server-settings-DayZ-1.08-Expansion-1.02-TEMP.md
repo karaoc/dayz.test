@@ -946,6 +946,7 @@ Float. the radius of territory in meters.
 
 ### "TerritoryPerimterSize"
 Float. A perimeter surrounding a territory to prevent other territories to be built in. It will prevent territories to overlap if the value set is the same as TerritorySize or higher.
+![perimeter sheet](https://i.imgur.com/gJX5Ula.png)
 
 ### "MaxMembersInTerritory"
 Integer. The max amount of members allowed per territories. If <= 0, unlimited territory size.
