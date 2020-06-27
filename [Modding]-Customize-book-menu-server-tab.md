@@ -1,4 +1,4 @@
-![DayZ Expansion](https://i.imgur.com/cTbqjAr.png)
+![DayZ Expansion Book Menu](https://i.gyazo.com/95b6767f86330d991789c66d47161156.jpg)
 
 ## Description
 On the server info tab of the book menu we give server owners the possibility to add hyperlink buttons and text sections to it.
