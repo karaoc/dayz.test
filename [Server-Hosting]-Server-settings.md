@@ -1,3 +1,8 @@
+![DayZ Expansion](https://i.imgur.com/cTbqjAr.png)
+
+* [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/commits/master/ServerProfile/ExpansionMod/Settings) to see the server settings files
+* [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/commit/befd7e7cfee6a85f4cc1b26326e5d6c6a4b11ed7) to see the lastest changes for server settings
+
 ### WARNING! The lastest expansion update (1.01) tweaked/added the follwoing :
 
 #### TerritorySettings
