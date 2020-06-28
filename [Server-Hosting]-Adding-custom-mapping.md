@@ -46,4 +46,4 @@ If this line is set to false for you set it to true so the mission loads all the
 # Troubleshooting
 If you are using a old expansion mission, please remove the following lines from your init.c file
 
-![switch case to remove](https://imgur.com/a/CbITprK)
+![switch case to remove](https://i.imgur.com/rq5iGHj.png)
