@@ -8,7 +8,7 @@
 
 Install them on your server. You should get a similar result. If you do not know how to get the mods follow the step 1 to 5 but don't go inside the Missions folder ! [Click me to see the tutorial page](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-offline-mode#getting-the-mission)
 
-Inside each mods you should find a "key" folder with a bikey for each mods. Copy all this keys inside your key folder 
+Inside each mods you should find a "key" folder with a bikey for each mods. Copy all this keys and paste them inside your keys folder (visible on the picture)
 
 ![Server root](https://i.imgur.com/OEaEuf8.png)
 
