@@ -1,21 +1,10 @@
 ![DayZ Expansion](https://i.imgur.com/cTbqjAr.png)
 
+### Please think to update your server settings after each updates !
+
 * [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/tree/master/ServerProfile/ExpansionMod/Settings) to see the server settings files
 * [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/commit/befd7e7cfee6a85f4cc1b26326e5d6c6a4b11ed7) to see the lastest changes for server settings
 * [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/commits/master/ServerProfile/ExpansionMod/Settings) to see the history of changes for server settings
-
-### WARNING! The lastest expansion update (1.01) tweaked/added the follwoing :
-
-#### TerritorySettings
-- "MaxInTerritory" became "MaxMembersInTerritory" (this is not new but just in case you are not aware that have been changed in the past updates)
-
-#### PartySettings
-- **added** bool "EnableQuickMarker"
-
-#### BuildingSettings
-- **added** float SafeExplosionDamageMultiplier
-- **added** float SafeProjectileDamageMultiplier
-- **added** bool CanDismantleFlag
 
 
 ***
