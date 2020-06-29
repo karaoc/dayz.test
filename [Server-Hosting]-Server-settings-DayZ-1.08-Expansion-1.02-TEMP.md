@@ -5,7 +5,8 @@
 ### WARNING! The lastest expansion update (1.02) for dayz 1.08 changed a lot of settings. It's highly recommended to regenerate your settings files !
 
 * [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/tree/development/ServerProfile/ExpansionMod/Settings) to see the server settings files
-* [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/commit/0a1f11b0e146bbf69a4c7af9aefbe034746159f1) to see the lastest changes for server settings
+* [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/commit/bd8c6b5ac0358dac0201258256f218ad6e7427be) to see the lastest changes for server settings
+* [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/commits/development/ServerProfile/ExpansionMod) to see the history of changes for server settings
 
 ## Contents
 
