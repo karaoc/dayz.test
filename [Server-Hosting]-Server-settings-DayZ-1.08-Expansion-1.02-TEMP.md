@@ -65,12 +65,12 @@ What loot could spawn inside the airdrop. You have to give the Name of the Class
     {
         "CanBuildAnywhere": 1,
         "AllowBuildingWithoutATerritory": 0,
-        "AllowedItemsToPlaceEveryWhereButNotInEnemyTerritory": [
+        "DeployableOutsideATerritory": [
             "ExpansionSatchel",
             "Fireplace",
             "ExpansionFlagKitBase"
         ],
-        "AllowedItemsToPlaceInEnemyTerritory": [
+        "DeployableInsideAEnemyTerritory": [
             "ExpansionSatchel"
         ],
         "CanCraftVanillaBasebuilding": 0,
@@ -79,12 +79,6 @@ What loot could spawn inside the airdrop. You have to give the Name of the Class
         "DestroyFlagOnDismantle": 1,
         "CanDismantleFlag": 1,
         "DismantleOutsideTerritory": 0,
-        "ExplosionTime": 30,
-        "ExplosionDamageMultiplier": 50,
-        "ProjectileDamageMultiplier": 1,
-        "CanRaidSafes": 1,
-        "SafeExplosionDamageMultiplier": 17,
-        "SafeProjectileDamageMultiplier": 1,
         "CodeLockLength": 4,
         "DoDamageWhenEnterWrongCodeLock": 1,
         "DamageWhenEnterWrongCodeLock": 10
@@ -119,24 +113,6 @@ Bool. If set to 1, allow the player to dismantle flags.
 
 ### "DismantleOutsideTerritory"
 Bool. If set to 1, allow to dismantle outside territories.
-
-### "ExplosionTime"
-Integer. Time in seconds it takes for a ExpansionExplosiveBase to countdown and detonate.
-
-### "ExplosionDamageMultiplier"
-Float. It is a damage multiplier for all explosion type damages to Expansion base parts. For example with the default value of 50, a grenade that does 50 damage will do 50 * 50 damage to the wall, so 2500. For reference, vanilla grenades do 50 damage, Expansion rockets do 300, and C4 does 600. Less than 1 values work here as well, so 0x will disable damage to base parts, and .5x will halve them. Note, walls currently have an HP of 30,000.
-
-### "ProjectileDamageMultiplier"
-Float. It is a damage multiplier for all bullet type damages to Expansion base parts. For example with the default value of 2, a bullet that does 65 damage will do 65 * 2 damage to the wall, so 130.** Less than 1 values work here as well, so 0x will disable damage** to base parts, and .5x will halve them. Note, walls currently have an HP of 30,000.
-
-### "CanRaidSafes"
-Bool. If set to 1, allow to players to raid expansion safes.
-
-### "SafeExplosionDamageMultiplier"
-Float. It is a damage multiplier for all explosion type damages to Expansion base parts. For example with the default value of 50, a grenade that does 50 damage will do 50 * 50 damage to the safe, so 2500. For reference, vanilla grenades do 50 damage, Expansion rockets do 300, and C4 does 600. Less than 1 values work here as well, so 0x will disable damage to base parts, and .5x will halve them. Note, safes currently have 20,000 15,000 and 10,000 HP.
-
-### "SafeProjectileDamageMultiplier"
-Float. It is a damage multiplier for all bullet type damages to Expansion base parts. For example with the default value of 2, a bullet that does 65 damage will do 65 * 2 damage to the safe, so 130.** Less than 1 values work here as well, so 0x will disable damage** to base parts, and .5x will halve them. Note, safes currently have 20,000 15,000 and 10,000 HP.
 
 ### "CodeLockLength"
 Integer. The length of passwords you can put into your code locks.
@@ -219,7 +195,33 @@ Float. The number of damage the player will take when he types a wrong code lock
             ],
             "ServerName": "SERVER NAME"
         },
-        "ServerRules": {},
+        "ServerRules": {
+            "RuleSections": [
+                {
+                    "Lable": "General Rules",
+                    "RulesPages": [
+                        {
+                            "HeadText": "Rule 1",
+                            "BodyText": "This is a simple test text."
+                        },
+                        {
+                            "HeadText": "Rule 2",
+                            "BodyText": "This is a simple test text."
+                        }
+                    ],
+                    "PageSections": [
+                        {
+                            "Left": 0,
+                            "Right": 0
+                        },
+                        {
+                            "Left": 0,
+                            "Right": 1
+                        }
+                    ]
+                }
+            ]
+        },
         "ServerLogoPath": "set:expansion_gui_logos image:expansion_logo_black"
     }
 
