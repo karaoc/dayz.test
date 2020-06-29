@@ -862,10 +862,10 @@ Float. It is a damage multiplier for all explosion type damages to Expansion bas
 ### "SafeProjectileDamageMultiplier"
 Float. It is a damage multiplier for all bullet type damages to Expansion base parts. For example with the default value of 2, a bullet that does 65 damage will do 65 * 2 damage to the safe, so 130.** Less than 1 values work here as well, so 0x will disable damage** to base parts, and .5x will halve them. Note, safes currently have 20,000 15,000 and 10,000 HP.
 
-### "AllowMeleeRaidingOnVanilla"
+### "AllowMeleeRaidingOnVanilla" -- CURRENTLY NOT WORKING
 Bool. If set to 1, allow melee items to raid vanilla basebuilding.
 
-### "AllowMeleeRaidingOnExpansion"
+### "AllowMeleeRaidingOnExpansion" -- CURRENTLY NOT WORKING
 Bool. If set to 1, allow melee items to raid Expansion basebuilding.
 
 # SafeZoneSettings
