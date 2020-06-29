@@ -90,8 +90,14 @@ Bool. If set to 1, allow to build any where.
 ### "AllowBuildingWithoutATerritory"
 Bool. Previously known as TerritoryMode, if set to one allow to build without the need of a territory
 
-### "AllowedItemsToPlaceEveryWhereButNotInEnemyTerritory"
+### "DeployableOutsideATerritory"
 Array of string. Only used if TerritoryMode is set to 1. Put every classname of the item, you want to be able to be placed outside of the territory.
+
+### "DeployableInsideAEnemyTerritory"
+Array of string. Put every classname of the item, you want to be able to be placed in the territory where you are not a member of him.
+
+### "AllowedItemsToPlaceEveryWhereButNotInEnemyTerritory"
+Array of string. Only used if AllowBuildingWithoutATerritory is set to 1. Put every classname of the item, you want to be able to be placed outside of the territory.
 
 ### "AllowedItemsToPlaceInEnemyTerritory"
 Array of string. Put every classname of the item, you want to be able to be placed in the territory where you are not a member of him.
