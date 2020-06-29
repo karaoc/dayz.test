@@ -488,10 +488,6 @@ Array. Allow server owners to display server markers on the map. See [this tutor
         "Missions": [
             {
                 "MissionType": "ExpansionMissionEventAirdrop",
-                "MissionPath": "$profile:ExpansionMod\\Missions\\NameOfMyCustomAirdrop.json"
-            },
-            {
-                "MissionType": "ExpansionMissionEventAirdrop",
                 "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_NWAF.json"
             },
             {
