@@ -255,6 +255,16 @@ Bool. If enabled, the territory tab will be available.
 ### "ShowServerSettings"
 Bool. If enabled, the server settings will be visible in the server tab.
 
+### "ServerInfo"
+Array. Allow to write multiple paragraph to share informations about the server. A guide is [available here](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Server-Book-Tab)
+
+### "ServerRules"
+Array. This where you will organize and list your rules for your server. **This feature is currently NOT finished and NOT ready**.
+
+### "ServerLogoPath"
+String. Parameter for the logo of the server. Need to be in EDDS format and inside a mod. a url won't work.
+
+
 # GeneralSettings
 
     {
