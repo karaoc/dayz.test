@@ -422,7 +422,7 @@ Bool. If set to 1, allow the player to use the autorun feature.
 Bool. If enabled, make stamina unlimited.
 
 ### "DisableDamagedHeliSpin"
-Bool. If set to 1, will disable helicopters from taking any damage.
+Bool. If set to 1, will disable helicopters from spinning when damaged.
 
 # MapSettings
 
