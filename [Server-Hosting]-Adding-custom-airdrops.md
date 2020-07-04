@@ -41,7 +41,7 @@ Inside your airdrop.json file you just created copy and paste the following line
         "Container": "ExpansionAirdropContainer_Military",
         "DropLocation": {
             "x": 5043,
-            "y": 2505,
+            "Z": 2505,
             "Name": "Name to display",
             "Radius": 100
         },
