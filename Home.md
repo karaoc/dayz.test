@@ -27,6 +27,7 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 * [Adding server markers](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-server-markers)
 
 ### Modding
+* [Adding custom loading screen](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-custom-loading-screen)
 * [Adding flags textures](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-flag-textures)
 * [Adding skins](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-skins)
 * [Adding mission events](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-mission-events)
