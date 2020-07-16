@@ -1,7 +1,9 @@
-Todo.
+![craft FlagKit](https://i.imgur.com/DpUC44W.png)
 
-* Flagkit = 2 sticks + 1 rag
-* WallKit= 2 sticks + 1 rope (P.S. the wall kit is used for walls, windows, doors and gates)
-* FloorKit = 2 sticks + 1 rope
-* RampKit = 2 sticks + 1 rope
-* StairKit = 2 sticks + 1 rope
+![craft FloorKit](https://i.imgur.com/191F1wl.png)
+
+![craft WallKit](https://i.imgur.com/flBbHUn.png)
+
+![craft StairKit](https://i.imgur.com/TpoV4O8.png)
+
+![craft RampKit](https://i.imgur.com/dHcHW9x.png)
