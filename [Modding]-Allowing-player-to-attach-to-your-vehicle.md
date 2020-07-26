@@ -12,5 +12,7 @@ In your vehicle config add the following :
 			return false;
 
 		return true;
+		#else
+		return false;
 		#endif
 	}
