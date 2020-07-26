@@ -4,11 +4,11 @@
 
 - [Creating a Territory](#creating-a-territory) TODO
 
-- [How do a Territory work ?](#setting-up-roles) TODO
+- [How do a Territory work ?](#how-do-a-territory-work-) TODO
 
-- [Building your Base](#setting-up-permisisons) TODO
+- [Building your Base](#building-your-base) TODO
 
-- [How do raiding a base work ?](#setting-up-permisisons) TODO
+- [How do raiding a base work ?](#building-your-base) TODO
 
 - [Troubleshooting](#troubleshooting) TODO
 
