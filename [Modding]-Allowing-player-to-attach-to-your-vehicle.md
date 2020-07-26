@@ -15,6 +15,6 @@ In your vehiclename.c add the following :
 		#endif
 	}
 
-Here is a example !
+Here is a example from our UAZ car !
 
 ![CanObjectAttach example](https://i.imgur.com/JoSRgNm.png)
