@@ -1,5 +1,6 @@
 ![Weaponary](https://i.imgur.com/Ux80A0e.png)
 
+* Expansion_ANPEQ15_Red
 * ExpansionDeltapointOptic
 * ExpansionEXPS3HoloOptic
 * ExpansionHAMROptic
@@ -185,13 +186,18 @@
 ![Misc](https://i.imgur.com/M9dwu2w.jpg)
 
 * ExpansionSpraycanGreen
+* ExpansionSpraycanRed
 * ExpansionSpraycanBlue
 * ExpansionSpraycanWhite
-* ExpansionSpraycanRed
 * ExpansionSpraycanBlack
 * ExpansionSpraycanGrey
-* ExpansionSpraycanWine
 * ExpansionSpraycanYellow
+* ExpansionSpraycanOrange
+* ExpansionSpraycanBrown
+* ExpansionSpraycanPink
+* ExpansionSpraycanEngraved
+* ExpansionSpraycanClean
+* ExpansionSpraycanWine
 * ExpansionSpraycanWeeb
 * ExpansionSpraycanDahoman
 * ExpansionSpraycanIon
