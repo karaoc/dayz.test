@@ -1,4 +1,4 @@
-![DayZ Expansion](https://i.imgur.com/cTbqjAr.png)
+![DayZ Expansion](https://steamuserimages-a.akamaihd.net/ugc/1035212097700942933/A04B4D3A9BC05C3C25337D27D8A010F70DB8B42D/)
 
 ## Contents
 
