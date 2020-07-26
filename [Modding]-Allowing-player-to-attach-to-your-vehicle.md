@@ -1,4 +1,4 @@
-In your vehicle config add the following :
+In your vehiclename.c add the following :
 
 	override bool CanObjectAttach( Object obj )
 	{
@@ -14,3 +14,7 @@ In your vehicle config add the following :
 		return false;
 		#endif
 	}
+
+Here is a example !
+
+![CanObjectAttach example](https://i.imgur.com/JoSRgNm.png)
