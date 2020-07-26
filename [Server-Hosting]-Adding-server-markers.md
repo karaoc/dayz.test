@@ -57,6 +57,17 @@ What Icon will be used for the marker. Good news is, it's easy to know which one
 11. Base
 12. Boat
 13. Fishing
+14. Map Marker 2
+15. Water 2
+16. Questionmark
+17. Person
+18. Hearth
+19. Eye
+20. Claw
+21. Bear
+22. Skull 2
+23. Skull 3
+24. Tent
 
 #### m_Color
 
