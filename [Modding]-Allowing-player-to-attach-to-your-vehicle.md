@@ -1,7 +1,10 @@
 TODO.
 
+In your vehicle config add the following :
+
 	override bool CanObjectAttach( Object obj )
 	{
+		#ifdef EXPANSIONMOD
 		if ( !obj.IsInherited( PlayerBase ) ) 
 			return false;
 
@@ -9,4 +12,5 @@ TODO.
 			return false;
 
 		return true;
+		#endif
 	}
