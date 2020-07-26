@@ -15,7 +15,11 @@
 
 ## Creating a Territory
 
-## Creating a Territory
+## How do a Territory work ?
 
-## Creating a Territory
+## Building your Base
+
+## How do raiding a base work ?
+
+## Troubleshooting
 
