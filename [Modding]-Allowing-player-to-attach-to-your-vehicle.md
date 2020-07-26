@@ -1,5 +1,3 @@
-TODO.
-
 In your vehicle config add the following :
 
 	override bool CanObjectAttach( Object obj )
