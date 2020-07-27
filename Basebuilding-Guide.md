@@ -57,11 +57,17 @@ You will need planks, nails and lumber. Lumber can be crafted from logs sawed by
 
 Most kits have multiple uses, for example the wall kit can become a wall, window, door, gate. You will get the option after building the frame of the base building element as show in the videos.
 
+To build you can use a hatchet or a hammer.
+
 [![Building your Base](https://i.imgur.com/uckL4I0.jpg)](https://www.youtube.com/watch?v=-U8eEfrgO60)
+
+You can also attach codelocks to doors and gates. By default they are 4 digits but can be changed by server hosters. You can tell how many digits the codelock is by the message "PIN CODES(X)" x being the number of digits.
 
 [![Building your Base - Codelock](https://i.imgur.com/Ea0JQSb.png)](https://www.youtube.com/watch?v=KJSpmUZQwvQ)
 
 ## Dismantling your Base
+
+To dismantle, you need to be on the soft side and use a crowbar or a hatchet. You need to look at the part to get the option to dismantle as shown in the video.
 
 [![Dismantling your Base](https://i.imgur.com/dhK16Wh.jpg)](https://www.youtube.com/watch?v=NpJciBgeIXM)
 
