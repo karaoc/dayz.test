@@ -75,5 +75,9 @@ To dismantle, you need to be on the soft side and use a **crowbar **or a **hatch
 
 ## How do raiding a base work ?
 
+I'm away for a couple of weeks so instead of a nice tutorial here is a tldr :
+
+Explosives and projectiles (bullets) can damage basebuilding elements and safes. This can be tweaked or even disabled by server hosters.
+
 ## Troubleshooting
 
