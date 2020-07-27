@@ -35,6 +35,8 @@
 
 ## Dismantling your Base
 
+[![Dismantling your Base](https://i9.ytimg.com/vi/NpJciBgeIXM/mq2.jpg?sqp=CLj1-vgF&rs=AOn4CLAwGiyPHVASm8UmmUYVP_AL1hmw7w)](https://www.youtube.com/watch?v=NpJciBgeIXM)
+
 ## How do raiding a base work ?
 
 ## Troubleshooting
