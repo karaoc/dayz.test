@@ -132,6 +132,10 @@ The Amount of loading screens you are adding
 
 	const int LOADING_SCREENS_COUNT = 2;
 
+If you only want your loading screen pictures to show add this line after each **super.Init();**
+
+	m_Backgrounds.Clear();
+
 ## Converting your image to edds
 
 Use Workbench to convert .tga files to .edds. Simply add the .tga files to the dir you wish, right click, and "Register Resource and import" 
