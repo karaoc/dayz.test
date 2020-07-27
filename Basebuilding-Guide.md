@@ -31,6 +31,8 @@
 
 [![Building your Base](https://i9.ytimg.com/vi/-U8eEfrgO60/mq2.jpg?sqp=CIih-vgF&rs=AOn4CLAUMGHWG4nc19QKkFH7_UKKmQXS5Q)](https://www.youtube.com/watch?v=-U8eEfrgO60)
 
+[![Building your Base - Codelock](https://i9.ytimg.com/vi/KJSpmUZQwvQ/mq2.jpg?sqp=CLSj-vgF&rs=AOn4CLBZO1itnIynj1aNiCmhNBcNgeKueQ)](https://www.youtube.com/watch?v=KJSpmUZQwvQ)
+
 ## Dismantling your Base
 
 ## How do raiding a base work ?
