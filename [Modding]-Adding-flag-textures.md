@@ -5,6 +5,8 @@ Click on the picture to be redirected on our sample flag textures mod.
 
 You will need to setup a mod with the usual **config.cpp** for a basic mod. All the files we will create will need to add new flags.
 
+![Hierachy mod](https://i.imgur.com/lV22bA9.png)
+
 	class CfgPatches
 	{
 		class **ModName**
