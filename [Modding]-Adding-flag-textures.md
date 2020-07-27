@@ -4,9 +4,9 @@ Click on the picture to be redirected on our sample flag textures mod.
 
 ## Contents
 
-- [Config.cpp](#config.cpp)
+- [Config.cpp](#configcpp)
 
-- [FlagSample.c](#flagsample.c)
+- [FlagSample.c](#flagsamplec)
 
 - [Flag dimenssions](#flag-dimenssions)
 
