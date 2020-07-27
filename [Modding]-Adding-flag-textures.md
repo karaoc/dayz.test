@@ -88,7 +88,7 @@ It should look like this
 
 If you want to add another flag, add another "AddFlagTexture" like you just did.
 
-	AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName"); //AddFlagTexture(Path to texture, Name)
+	AddFlagTexture("ModName\\data\\flag_name2_co.paa", "MyFlagName2"); //AddFlagTexture(Path to texture, Name)
 
 If you want to remove a flag already ingame you will need to add the following line :
 
@@ -103,6 +103,7 @@ In this example, we are now removing the expansion flag :
 			super.LoadFlagTextures();
 			// This is where you want to add or remove flags !
 			AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName");
+			AddFlagTexture("ModName\\data\\flag_name2_co.paa", "MyFlagName2");
 			RemoveFlagTexture("DayZExpansion\\Objects\\Structures\\Flags\\data\\logos\\flag_expansion_co.paa");
 		};
 	};
