@@ -39,10 +39,6 @@ Multiple settings can be tweaked or enabled/disabled to help server hosters foll
 
 ## Crafting your BaseBuilding kits
 
-[![Crafting your BaseBuilding kits](https://i.imgur.com/CR3lBDg.jpg)](https://www.youtube.com/watch?v=IGuFwx-l4uE)
-
-## Building your Base
-
 To create your base you first need basebuilding kits ! All the recipes are 1 stick and 1 rope !
 
 ![craft FloorKit](https://i.imgur.com/mofQPkX.png)
@@ -52,6 +48,10 @@ To create your base you first need basebuilding kits ! All the recipes are 1 sti
 ![craft StairKit](https://i.imgur.com/M81NIwn.png)
 
 ![craft RampKit](https://i.imgur.com/KR2Mupw.png)
+
+[![Crafting your BaseBuilding kits](https://i.imgur.com/CR3lBDg.jpg)](https://www.youtube.com/watch?v=IGuFwx-l4uE)
+
+## Building your Base
 
 [![Building your Base](https://i.imgur.com/uckL4I0.jpg)](https://www.youtube.com/watch?v=-U8eEfrgO60)
 
