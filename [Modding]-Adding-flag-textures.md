@@ -12,7 +12,7 @@ The hierarchy of the mod we have provided looks like this.
 
 	class CfgPatches
 	{
-		class **ModName**
+		class ModName
 		{
 			units[]={};
 			weapons[]={};
@@ -25,16 +25,16 @@ The hierarchy of the mod we have provided looks like this.
 	};
 	class CfgMods
 	{
-		class **ModName**
+		class ModName
 		{
-			dir="**ModName**";
+			dir="ModName";
 			picture="";
 			action="";
 			hideName=1;
 			hidePicture=1;
-			name="**ModName**";
-			credits="_**AuthorName**_";
-			author="_**AuthorName**_";
+			name="ModName";
+			credits="AuthorName";
+			author="AuthorName";
 			authorID="0";
 			version="1.0";
 			extra=0;
@@ -52,7 +52,7 @@ The hierarchy of the mod we have provided looks like this.
 					value="";
 					files[]=
 					{
-						"**ModName**/Scripts/3_Game"
+						"ModName/Scripts/3_Game"
 					};
 				};
 			};
@@ -72,7 +72,7 @@ The hierarchy of the mod we have provided looks like this.
 
 To add a flag you need to add the following line
 
-			AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName"); //AddFlagTexture(Path to texture, Name)
+	AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName"); //AddFlagTexture(Path to texture, Name)
 
 It should look like this
 
@@ -82,6 +82,6 @@ It should look like this
 		{
 			super.LoadFlagTextures();
 			// This is where you want to add or remove flags !
-			AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName"); //AddFlagTexture(Path to texture, Name)
+			AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName");
 		};
 	};
