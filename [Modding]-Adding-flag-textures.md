@@ -85,3 +85,24 @@ It should look like this
 			AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName");
 		};
 	};
+
+If you want to add another flag, add another "AddFlagTexture" like you just did.
+
+	AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName"); //AddFlagTexture(Path to texture, Name)
+
+If you want to remove a flag already ingame you will need to add the following line :
+
+	RemoveFlagTexture("DayZExpansion\\Objects\\Structures\\Flags\\data\\logos\\flag_expansion_co.paa"); //If you have a flag you want removed, simply run this with the path to the texture as the argument. 
+
+In this example, we are now removing the expansion flag :
+
+	modded class ExpansionStatic
+	{
+		override void LoadFlagTextures()
+		{
+			super.LoadFlagTextures();
+			// This is where you want to add or remove flags !
+			AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName");
+			RemoveFlagTexture("DayZExpansion\\Objects\\Structures\\Flags\\data\\logos\\flag_expansion_co.paa");
+		};
+	};
