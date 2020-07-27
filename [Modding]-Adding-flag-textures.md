@@ -12,7 +12,7 @@ We are not going to teach you how to create a mod or convert to paa. Youtube alr
 
 - [FlagSample.c](#flagsamplec)
 
-- [Flag dimenssions](#flag-dimenssions)
+- [Flag dimensions](#flag-dimensions)
 
 You will need to setup a mod with the usual **config.cpp** for a basic mod. All the files we will create will need to add new flags.
 
@@ -120,8 +120,8 @@ In this example, we are now removing the expansion flag :
 		};
 	};
 
-## Flag dimenssions
+## Flag dimensions
 
-The texture need to be 128 pixels by 256 pixels
+The texture need to have **2:1** dimensions. For example a texture of **128 pixels** by **256 pixels** will work.
 
 ![dimenssions](https://i.imgur.com/hKIQy5j.jpg)
