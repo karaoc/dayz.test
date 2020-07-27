@@ -25,7 +25,7 @@ To create a territory you need to craft a flag. The recipe is 1 stick and 1 rag 
 
 Once crafted, deploy the flag where you want your territory to be and interact with the flag to create the territory.
 
-[![Creating a Territory](https://i9.ytimg.com/vi/hQ9DTO_aYIE/mq3.jpg?sqp=CISa-vgF&rs=AOn4CLBifegh2ENaywlZAcmCzTq6GS-WJA)](https://www.youtube.com/watch?v=hQ9DTO_aYIE)
+[![Creating a Territory](https://i.imgur.com/y8mFtck.png)](https://www.youtube.com/watch?v=hQ9DTO_aYIE)
 
 ## How do a Territory work ?
 
@@ -39,7 +39,7 @@ Multiple settings can be tweaked or enabled/disabled to help server hosters foll
 
 ## Crafting your BaseBuilding kits
 
-[![Crafting your BaseBuilding kits](https://i9.ytimg.com/vi/IGuFwx-l4uE/mq1.jpg?sqp=CISa-vgF&rs=AOn4CLCMRmpjjbYp0_iNONGBUMj4ktGSDQ)](https://www.youtube.com/watch?v=IGuFwx-l4uE)
+[![Crafting your BaseBuilding kits](https://i.imgur.com/CR3lBDg.jpg)](https://www.youtube.com/watch?v=IGuFwx-l4uE)
 
 ## Building your Base
 
@@ -53,13 +53,13 @@ To create your base you first need basebuilding kits ! All the recipes are 1 sti
 
 ![craft RampKit](https://i.imgur.com/KR2Mupw.png)
 
-[![Building your Base](https://i9.ytimg.com/vi/-U8eEfrgO60/mq2.jpg?sqp=CIih-vgF&rs=AOn4CLAUMGHWG4nc19QKkFH7_UKKmQXS5Q)](https://www.youtube.com/watch?v=-U8eEfrgO60)
+[![Building your Base](https://i.imgur.com/uckL4I0.jpg)](https://www.youtube.com/watch?v=-U8eEfrgO60)
 
-[![Building your Base - Codelock](https://i9.ytimg.com/vi/KJSpmUZQwvQ/mq2.jpg?sqp=CLSj-vgF&rs=AOn4CLBZO1itnIynj1aNiCmhNBcNgeKueQ)](https://www.youtube.com/watch?v=KJSpmUZQwvQ)
+[![Building your Base - Codelock](https://i.imgur.com/Ea0JQSb.png)](https://www.youtube.com/watch?v=KJSpmUZQwvQ)
 
 ## Dismantling your Base
 
-[![Dismantling your Base](https://i9.ytimg.com/vi/NpJciBgeIXM/mq2.jpg?sqp=CLj1-vgF&rs=AOn4CLAwGiyPHVASm8UmmUYVP_AL1hmw7w)](https://www.youtube.com/watch?v=NpJciBgeIXM)
+[![Dismantling your Base](https://i.imgur.com/dhK16Wh.jpg)](https://www.youtube.com/watch?v=NpJciBgeIXM)
 
 ## How do raiding a base work ?
 
