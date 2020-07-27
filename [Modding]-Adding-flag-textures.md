@@ -5,51 +5,51 @@ Click on the picture to be redirected on our sample flag textures mod.
 
 You will need to setup a mod with the usual **config.cpp** for a basic mod. All the files we will create will need to add new flags.
 
-		class CfgPatches
+	class CfgPatches
+	{
+		class **ModName**
 		{
-			class **ModName**
+			units[]={};
+			weapons[]={};
+			requiredVersion=0.1;
+			requiredAddons[]=
 			{
-				units[]={};
-				weapons[]={};
-				requiredVersion=0.1;
-				requiredAddons[]=
-				{
-					"DayZExpansion_Scripts"
-				};
+				"DayZExpansion_Scripts"
 			};
 		};
-		class CfgMods
+	};
+	class CfgMods
+	{
+		class **ModName**
 		{
-			class **ModName**
+			dir="**ModName**";
+			picture="";
+			action="";
+			hideName=1;
+			hidePicture=1;
+			name="**ModName**";
+			credits="_**AuthorName**_";
+			author="_**AuthorName**_";
+			authorID="0";
+			version="1.0";
+			extra=0;
+			type="mod";
+			dependencies[]=
 			{
-				dir="**ModName**";
-				picture="";
-				action="";
-				hideName=1;
-				hidePicture=1;
-				name="**ModName**";
-				credits="_**AuthorName**_";
-				author="_**AuthorName**_";
-				authorID="0";
-				version="1.0";
-				extra=0;
-				type="mod";
-				dependencies[]=
+				"Game",
+				"World",
+				"Mission"
+			};
+			class defs
+			{
+				class gameScriptModule
 				{
-					"Game",
-					"World",
-					"Mission"
-				};
-				class defs
-				{
-					class gameScriptModule
+					value="";
+					files[]=
 					{
-						value="";
-						files[]=
-						{
-							"**ModName**/Scripts/3_Game"
-						};
+						"**ModName**/Scripts/3_Game"
 					};
 				};
 			};
 		};
+	};
