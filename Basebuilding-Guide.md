@@ -4,11 +4,7 @@
 
 - [Creating a Territory](#creating-a-territory)
 
-[![Creating a Territory](https://i9.ytimg.com/vi/hQ9DTO_aYIE/mq3.jpg?sqp=CISa-vgF&rs=AOn4CLBifegh2ENaywlZAcmCzTq6GS-WJA)](https://www.youtube.com/watch?v=hQ9DTO_aYIE)
-
 - [How do a Territory work ?](#how-do-a-territory-work-)
-
-[![How do a Territory work ?](https://i9.ytimg.com/vi/IGuFwx-l4uE/mq1.jpg?sqp=CISa-vgF&rs=AOn4CLCMRmpjjbYp0_iNONGBUMj4ktGSDQ)](https://www.youtube.com/watch?v=IGuFwx-l4uE)
 
 - [Building your Base](#building-your-base)
 
@@ -21,7 +17,11 @@
 
 ## Creating a Territory
 
+[![Creating a Territory](https://i9.ytimg.com/vi/hQ9DTO_aYIE/mq3.jpg?sqp=CISa-vgF&rs=AOn4CLBifegh2ENaywlZAcmCzTq6GS-WJA)](https://www.youtube.com/watch?v=hQ9DTO_aYIE)
+
 ## How do a Territory work ?
+
+[![How do a Territory work ?](https://i9.ytimg.com/vi/IGuFwx-l4uE/mq1.jpg?sqp=CISa-vgF&rs=AOn4CLCMRmpjjbYp0_iNONGBUMj4ktGSDQ)](https://www.youtube.com/watch?v=IGuFwx-l4uE)
 
 ## Building your Base
 
