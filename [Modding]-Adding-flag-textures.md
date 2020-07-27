@@ -2,10 +2,13 @@
 
 Click on the picture to be redirected on our sample flag textures mod.
 
-
 You will need to setup a mod with the usual **config.cpp** for a basic mod. All the files we will create will need to add new flags.
 
+The hierarchy of the mod we have provided looks like this.
+
 ![Hierachy mod](https://i.imgur.com/lV22bA9.png)
+
+## Config.cpp
 
 	class CfgPatches
 	{
@@ -53,5 +56,32 @@ You will need to setup a mod with the usual **config.cpp** for a basic mod. All 
 					};
 				};
 			};
+		};
+	};
+
+## FlagSample.c
+
+	modded class ExpansionStatic
+	{
+		override void LoadFlagTextures()
+		{
+			super.LoadFlagTextures();
+			// This is where you want to add or remove flags !
+		};
+	};
+
+To add a flag you need to add the following line
+
+			AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName"); //AddFlagTexture(Path to texture, Name)
+
+It should look like this
+
+	modded class ExpansionStatic
+	{
+		override void LoadFlagTextures()
+		{
+			super.LoadFlagTextures();
+			// This is where you want to add or remove flags !
+			AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName"); //AddFlagTexture(Path to texture, Name)
 		};
 	};
