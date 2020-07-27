@@ -2,6 +2,18 @@
 
 Click on the picture to be redirected on our sample flag textures mod.
 
+## Contents
+
+- [Config.cpp](#config.cpp)
+
+- [FlagSample.c](#flagsample.c)
+
+- [Flag dimenssions](#flag-dimenssions)
+
+- [Converting your flag to paa](#converting-your-flag-to-paa)
+
+- [Troubleshooting](#troubleshooting)
+
 You will need to setup a mod with the usual **config.cpp** for a basic mod. All the files we will create will need to add new flags.
 
 The hierarchy of the mod we have provided looks like this.
@@ -107,3 +119,9 @@ In this example, we are now removing the expansion flag :
 			RemoveFlagTexture("DayZExpansion\\Objects\\Structures\\Flags\\data\\logos\\flag_expansion_co.paa");
 		};
 	};
+
+## Flag dimenssions
+
+The texture need to be 128 pixels by 256 pixels
+
+![dimenssions](https://i.imgur.com/hKIQy5j.jpg)
