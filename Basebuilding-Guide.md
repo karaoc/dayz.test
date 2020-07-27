@@ -19,7 +19,7 @@
 
 ## Creating a Territory
 
-To create a territory you need to craft a flag. The recipe is 1 **stick **and 1 **rag** !
+To create a territory you need to craft a flag. The recipe is 1 **stick** and 1 **rag** !
 
 ![craft FlagKit](https://i.imgur.com/zGuVGLM.png)
 
@@ -39,7 +39,7 @@ Multiple settings can be tweaked or enabled/disabled to help server hosters foll
 
 ## Crafting your BaseBuilding kits
 
-To create your base you first need basebuilding kits ! All the recipes are 1 **stick **and 1 **rope **!
+To create your base you first need basebuilding kits ! All the recipes are 1 **stick** and 1 **rope** !
 
 ![craft FloorKit](https://i.imgur.com/mofQPkX.png)
 
@@ -53,7 +53,7 @@ To create your base you first need basebuilding kits ! All the recipes are 1 **s
 
 ## Building your Base
 
-You will need **planks**, **nails **and **lumber**. **Lumber **can be crafted from logs sawed by a **hacksaw **or a **handsaw**.
+You will need **planks**, **nails** and **lumber**. **Lumber** can be crafted from logs sawed by a **hacksaw** or a **handsaw**.
 
 Most kits have multiple uses, for example the wall kit can become a wall, window, door, gate. You will get the option after building the frame of the base building element as show in the videos.
 
