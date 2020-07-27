@@ -64,7 +64,7 @@ _**Disclaimer**, this part is more advanced and does not require you to do the f
 
 ##### I only see vanilla vehicles in my spawnlist !
 
-**PICTURE HERE**
+![vehicle spawner only vanilla](https://cdn.discordapp.com/attachments/538688046670020620/737339127757930516/unknown.png)
 
 Go inside your server config at `YourDayZServer\Profile(or config)\` and delete the `CommunityOnlineTool` folder. It will force the admin tool to regenerate the list !
 
