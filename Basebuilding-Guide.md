@@ -69,7 +69,7 @@ You can also attach codelocks to doors and gates. By default they are 4 digits b
 
 ## Dismantling your Base
 
-To dismantle, you need to be on the soft side and use a **crowbar **or a **hatchet**. You need to look at the part to get the option to dismantle as shown in the video.
+To dismantle, you need to be on the soft side and use a **crowbar** or a **hatchet**. You need to look at the part to get the option to dismantle as shown in the video.
 
 [![Dismantling your Base](https://i.imgur.com/dhK16Wh.jpg)](https://www.youtube.com/watch?v=NpJciBgeIXM)
 
