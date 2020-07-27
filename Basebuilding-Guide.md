@@ -4,6 +4,8 @@
 
 - [Creating a Territory](#creating-a-territory)
 
+- [Crafting your BaseBuilding kits](#crafting-your-basebuilding-kits)
+
 - [How do a Territory work ?](#how-do-a-territory-work-)
 
 - [Building your Base](#building-your-base)
@@ -21,7 +23,9 @@
 
 ## How do a Territory work ?
 
-[![How do a Territory work ?](https://i9.ytimg.com/vi/IGuFwx-l4uE/mq1.jpg?sqp=CISa-vgF&rs=AOn4CLCMRmpjjbYp0_iNONGBUMj4ktGSDQ)](https://www.youtube.com/watch?v=IGuFwx-l4uE)
+## Crafting your BaseBuilding kits
+
+[![Crafting your BaseBuilding kits](https://i9.ytimg.com/vi/IGuFwx-l4uE/mq1.jpg?sqp=CISa-vgF&rs=AOn4CLCMRmpjjbYp0_iNONGBUMj4ktGSDQ)](https://www.youtube.com/watch?v=IGuFwx-l4uE)
 
 ## Building your Base
 
