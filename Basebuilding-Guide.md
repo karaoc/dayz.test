@@ -4,7 +4,7 @@
 
 - [Creating a Territory](#creating-a-territory)
 
-[![Creating a Territory](https://i.ytimg.com/vi/hQ9DTO_aYIE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAuCnlw1EYArK1MFWy-NnKK0GtCDg)](https://www.youtube.com/watch?v=hQ9DTO_aYIE)
+[![Creating a Territory](https://i9.ytimg.com/vi/hQ9DTO_aYIE/mq3.jpg?sqp=CISa-vgF&rs=AOn4CLBifegh2ENaywlZAcmCzTq6GS-WJA)](https://www.youtube.com/watch?v=hQ9DTO_aYIE)
 
 - [How do a Territory work ?](#how-do-a-territory-work-)
 
