@@ -4,6 +4,7 @@
 * ExpansionDeltapointOptic
 * ExpansionEXPS3HoloOptic
 * ExpansionHAMROptic
+* ExpansionKar98ScopeOptic
 * Expansion_PMII25Optic
 * ExpansionReflexMRSOptic
 * Expansion_M1A_RailAtt
@@ -14,18 +15,22 @@
 * Expansion_M79
 * ExpansionFlaregun
 * Expansion_M9
+* Expansion_Taser_Yellow
+* Expansion_Taser_Black
 * Expansion_G36
 * Expansion_MPX
+* Expansion_VityazSN
 * Expansion_MP5
 * Expansion_MP7
 * Expansion_Kedr
+* Expansion_M14
 * Expansion_M16
 * Expansion_M1A
 * Expansion_DT11
+* Expansion_Kar98
 * Expansion_BenelliM4
 * Expansion_AWM
-* AmmoBox_Expansion_46x30_25rnd
-* AmmoBox_Expansion_338_15rnd
+* Expansion_Kar98_Bayonet
 * ExpansionAmmoRPG
 * ExpansionAmmoLAW
 * ExpansionAmmoFlare
@@ -45,7 +50,13 @@
 * Ammo_Expansion_M203_HE
 * Ammo_Expansion_46x30
 * Ammo_Expansion_338
+* Expansion_Ammo_8mm
+* Expansion_Ammo_Taser
 * Expansion_Ammo_ArrowBolt
+* AmmoBox_Expansion_46x30_25rnd
+* AmmoBox_Expansion_338_15rnd
+* Expansion_AmmoBox_8mm_18rnd
+* Mag_Expansion_Taser
 * Mag_Expansion_M14_20Rnd
 * Mag_Expansion_M14_10Rnd
 * Mag_Expansion_M9_15Rnd
@@ -53,6 +64,7 @@
 * Mag_Expansion_G36_30Rnd
 * Mag_Expansion_Kedr_20Rnd
 * Mag_Expansion_MP7_40Rnd
+* Mag_Expansion_Vityaz_30Rnd
 * Mag_Expansion_AWM_5Rnd
 
 ![Helicopters](https://i.imgur.com/piSEZsc.jpg)
