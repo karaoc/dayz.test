@@ -124,4 +124,14 @@ The hierarchy of the mod we have provided looks like this.
 		}
 	}
 
+Change this to the path of your edds files + file names sans the number. Loading Screens must be named "CustomLoading1.edds", "CustomLoading2.edds", etc 
+
+	const string LOADING_SCREENS_PATH = "MyModName/data/CustomLoading";
+
+The Amount of loading screens you are adding
+
+	const int LOADING_SCREENS_COUNT = 2;
+
 ## Converting your image to edds
+
+Use Workbench to convert .tga files to .edds. Simply add the .tga files to the dir you wish, right click, and "Register Resource and import" 
