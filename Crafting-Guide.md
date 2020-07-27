@@ -11,3 +11,5 @@
 ![craft BarbedWireKit](https://i.imgur.com/Uvx61Dy.png)
 
 ![craft Painted Item](https://i.imgur.com/lQQ7zVL.png)
+
+![craft Lumber](https://i.imgur.com/mli1DUl.png)
