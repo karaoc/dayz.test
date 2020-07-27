@@ -55,6 +55,8 @@ To create your base you first need basebuilding kits ! All the recipes are 1 **s
 
 You will need **planks**, **nails** and **lumber**. **Lumber** can be crafted from logs sawed by a **hacksaw** or a **handsaw**.
 
+![craft Lumber](https://i.imgur.com/mli1DUl.png)
+
 Most kits have multiple uses, for example the wall kit can become a wall, window, door, gate. You will get the option after building the frame of the base building element as show in the videos.
 
 To build you can use a hatchet or a hammer.
