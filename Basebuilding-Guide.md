@@ -2,15 +2,17 @@
 
 ## Contents
 
-- [Creating a Territory](#creating-a-territory) TODO
+- [Creating a Territory](#creating-a-territory)
 
-- [How do a Territory work ?](#how-do-a-territory-work-) TODO
+- [How do a Territory work ?](#how-do-a-territory-work-)
 
-- [Building your Base](#building-your-base) TODO
+- [Building your Base](#building-your-base)
 
-- [How do raiding a base work ?](#building-your-base) TODO
+- [Dismantling your Base](#dismantling-your-base)
 
-- [Troubleshooting](#troubleshooting) TODO
+- [How do raiding a base work ?](#building-your-base)
+
+- [Troubleshooting](#troubleshooting)
 
 
 ## Creating a Territory
@@ -18,6 +20,8 @@
 ## How do a Territory work ?
 
 ## Building your Base
+
+## Dismantling your Base
 
 ## How do raiding a base work ?
 
