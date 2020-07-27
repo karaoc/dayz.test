@@ -2,6 +2,10 @@
 
 Click on the picture to be redirected on our sample flag textures mod.
 
+# DISCLAIMER !
+
+We are not going to teach you how to create a mod or convert to paa. Youtube already have enough tutorials for this !
+
 ## Contents
 
 - [Config.cpp](#configcpp)
@@ -9,10 +13,6 @@ Click on the picture to be redirected on our sample flag textures mod.
 - [FlagSample.c](#flagsamplec)
 
 - [Flag dimenssions](#flag-dimenssions)
-
-- [Converting your flag to paa](#converting-your-flag-to-paa)
-
-- [Troubleshooting](#troubleshooting)
 
 You will need to setup a mod with the usual **config.cpp** for a basic mod. All the files we will create will need to add new flags.
 
