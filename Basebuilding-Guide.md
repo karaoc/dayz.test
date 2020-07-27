@@ -21,6 +21,8 @@
 
 To create a territory you need to craft a flag. The recipe is 1 stick and 1 rag !
 
+![craft FlagKit](https://i.imgur.com/zGuVGLM.png)
+
 Once crafted, deploy the flag where you want your territory to be and interact with the flag to create the territory.
 
 [![Creating a Territory](https://i9.ytimg.com/vi/hQ9DTO_aYIE/mq3.jpg?sqp=CISa-vgF&rs=AOn4CLBifegh2ENaywlZAcmCzTq6GS-WJA)](https://www.youtube.com/watch?v=hQ9DTO_aYIE)
@@ -40,6 +42,16 @@ Multiple settings can be tweaked or enabled/disabled to help server hosters foll
 [![Crafting your BaseBuilding kits](https://i9.ytimg.com/vi/IGuFwx-l4uE/mq1.jpg?sqp=CISa-vgF&rs=AOn4CLCMRmpjjbYp0_iNONGBUMj4ktGSDQ)](https://www.youtube.com/watch?v=IGuFwx-l4uE)
 
 ## Building your Base
+
+To create your base you first need basebuilding kits ! All the recipes are 1 stick and 1 rope !
+
+![craft FloorKit](https://i.imgur.com/mofQPkX.png)
+
+![craft WallKit](https://i.imgur.com/DuqgIpH.png)
+
+![craft StairKit](https://i.imgur.com/M81NIwn.png)
+
+![craft RampKit](https://i.imgur.com/KR2Mupw.png)
 
 [![Building your Base](https://i9.ytimg.com/vi/-U8eEfrgO60/mq2.jpg?sqp=CIih-vgF&rs=AOn4CLAUMGHWG4nc19QKkFH7_UKKmQXS5Q)](https://www.youtube.com/watch?v=-U8eEfrgO60)
 
