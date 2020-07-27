@@ -122,6 +122,6 @@ In this example, we are now removing the expansion flag :
 
 ## Flag dimensions
 
-The texture need to have **2:1** dimensions. For example a texture of **128 pixels** by **256 pixels** will work.
+The texture need to have **2:1** dimensions. For example a texture of **256 pixels** by **128 pixels** will work.
 
 ![dimenssions](https://i.imgur.com/hKIQy5j.jpg)
