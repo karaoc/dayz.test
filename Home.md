@@ -20,6 +20,7 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 * [Setting up the server](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Setting-up-the-server)
 * [Setting up Admin Permissions and Tools](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Admin-Permissions-and-Tools)
 * [Setting up the Server Book Tab](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Server-Book-Tab)
+* [Setting up the Rule Book Tab](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Rule-Book-Tab)
 * [Server settings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings)
 * [Updating your mapping to the new method](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Updating-your-mapping-to-the-new-method)
 * [Adding custom map objects](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-custom-mapping)
