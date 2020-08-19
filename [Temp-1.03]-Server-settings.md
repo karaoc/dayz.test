@@ -2,9 +2,6 @@
 
 ### Please think to update your server settings after each updates !
 
-* [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/tree/master/ServerProfile/ExpansionMod/Settings) to see the server settings files
-* [Click me](https://github.com/salutesh/DayZ-Expansion-Scripts/commit/24634c90ae731210e6412870036e642cc9901c3e#diff-2f8be44bd5e18a90329d37c2aabe4a0a) to see the lastest changes on the server settings files
-
 ## Contents
 
 - [AirdropSettings](#AirdropSettings)
