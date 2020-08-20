@@ -55,7 +55,7 @@
 * Expansion_Ammo_ArrowBolt
 * AmmoBox_Expansion_46x30_25rnd
 * AmmoBox_Expansion_338_15rnd
-* Expansion_AmmoBox_8mm_18rnd
+* Expansion_AmmoBox_8mm_15rnd
 * Mag_Expansion_Taser
 * Mag_Expansion_M14_20Rnd
 * Mag_Expansion_M14_10Rnd
