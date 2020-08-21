@@ -6,9 +6,6 @@
 - [DayZ-Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222)
 - [DayZ-Expansion-Licensed](https://steamcommunity.com/workshop/filedetails/?id=2116157322)
 
-# Warning !
-The lastest Expansion updates doesn't provide the mission file inside the mod but instead here : https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/releases
-
 Download and install the mods listed above where your server is installed (as shown on the first picture). If you do not know how to get the mods follow the step 1 to 5 but don't go inside the Missions folder ! [Click me to see the tutorial page](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-offline-mode#getting-the-mission)
 
 Inside each mods you should find a "key" folder with a bikey for each mods. Copy all this keys and paste them inside your keys folder (visible on the picture)
@@ -36,7 +33,9 @@ Make sure your bat file is inside your server folder as shown with the picture a
 
 ## Mission files
 
-Inside the mod "@DayZ-Expansion" take the mission files **who don't have COM in their name**.
+Download the lastest missions at [https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/releases](https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/releases) and extract the content of the zip file.
+
+Take the mission files **who don't have COM in their name**.
 
 ![](https://i.imgur.com/yVtrGnb.png)
 
