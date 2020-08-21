@@ -102,6 +102,7 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 * Spray cans
 * Igniter plug
 * Hydraulic hoses
+* ANPEQ Laser
 
 ### ➤⠀Food
 
@@ -111,6 +112,7 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 ### ➤⠀Weapons
 
 * M9
+* Taser
 * MP5
 * MP7
 * M79
@@ -118,9 +120,16 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 * LAW
 * MPX
 * Kedr
+* Vityaz SN
+* M14
+* M1A
 * M16A4
+* G36C
 * Flaregun
 * Benelli M4
+* DT-11
+* AWM
+* Kar 98
 
 ### ➤⠀Animals
 
@@ -137,6 +146,9 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 * Book System
 * [Skin](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-skins) System
 * Map System
+* KillFeed System
+* Towing System
+* Player Attachement
 
 ![feedback](https://i.imgur.com/Acaxhte.png)
 
