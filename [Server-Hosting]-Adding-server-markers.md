@@ -113,63 +113,42 @@ The position of the marker in XYZ coordinates.
 
 ## Some examples !
 
-        {
-            "m_IsPartyMarker": 0,
-            "m_Is3DMarker": 1,
-            "m_Text": "Hero Trader-Zone",
-            "m_IconIndex": 5,
-            "m_Color": -13710223,
-            "m_Position": [
-                11844.7,
-                0,
-                12466.8
-            ]
-        },
-        {
-            "m_IsPartyMarker": 0,
-            "m_Is3DMarker": 1,
-            "m_Text": "Bandit Trader-Zone",
-            "m_IconIndex": 5,
-            "m_Color": -1618884,
-            "m_Position": [
-                1127.14,
-                0,
-                2419.87
-            ]
-        },
-        {
-            "m_IsPartyMarker": 0,
-            "m_Is3DMarker": 1,
-            "m_Text": "Boat Trader",
-            "m_IconIndex": 5,
-            "m_Color": -13330213,
-            "m_Position": [
-                14355.7,
-                0,
-                13231.1
-            ]
-        },
-        {
-            "m_IsPartyMarker": 0,
-            "m_Is3DMarker": 1,
-            "m_Text": "Boat Trader",
-            "m_IconIndex": 5,
-            "m_Color": -13330213,
-            "m_Position": [
-                1755.13,
-                0,
-                2027.91
-            ]
-        },
-        {
-            "m_IsPartyMarker": 0,
-            "m_Is3DMarker": 1,
-            "m_Text": "Aircraft Trader",
-            "m_IconIndex": 5,
-            "m_Color": -13350562,
-            "m_Position": [
-                4971.66,
-                0,
-                2438.66
-            ]
-        }
+    {
+        "m_UID": "Green Mountain Trader",
+        "m_Visibility": 6,
+        "m_Is3D": 1,
+        "m_Text": "Green Mountain Trader",
+        "m_IconName": "Trader",
+        "m_Color": -13710223,
+        "m_Position": [
+            3697,
+            402.13,
+            5987
+        ]
+    },
+    {
+        "m_UID": "Eastwatch Trader",
+        "m_Visibility": 6,
+        "m_Is3D": 1,
+        "m_Text": "Eastwatch Trader",
+        "m_IconName": "Trader",
+        "m_Color": -13710223,
+        "m_Position": [
+            14303,
+            5,
+            13275
+        ]
+    },
+    {
+        "m_UID": "Black Market Trader",
+        "m_Visibility": 6,
+        "m_Is3D": 1,
+        "m_Text": "Black Market Trader",
+        "m_IconName": "Trader",
+        "m_Color": -13710223,
+        "m_Position": [
+            1362,
+            345,
+            9310
+        ]
+    }
