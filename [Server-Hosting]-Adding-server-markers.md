@@ -28,11 +28,15 @@ Inside this file you should have something similar except you don't have the lin
 
 **REMOVE** the `,` from `},` to the last marker config (look at the [example](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-server-markers#some-examples-) at the end of the page)
 
-#### m_IsPartyMarker
+#### m_UID
+
+The UID is the unique identity of a marker, this mean it need a unique ID to be valid. This ID can have numbers or letters 
+
+#### m_Visibility
 
 If set to 1, your marker will be seen by everyone as a party marker.
 
-#### m_Is3DMarker
+#### m_Is3D
 
 If set to 1, your marker will be seen by everyone within the world. Be caution this can be quickly be a pain for players to have too much 3d markers displayed on their screen.
 
@@ -40,7 +44,7 @@ If set to 1, your marker will be seen by everyone within the world. Be caution t
 
 This is where you will write the name of your marker !
 
-#### m_IconIndex
+#### m_IconName
 
 What Icon will be used for the marker. Good news is, it's easy to know which one to use since they are in the correct order ingame :)
 
