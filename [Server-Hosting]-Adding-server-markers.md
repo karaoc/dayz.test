@@ -24,17 +24,17 @@ Inside this file you should have something similar except you don't have the lin
             Y,
             Z
         ]
-    }
+    },
 
 **REMOVE** the `,` from `},` to the last marker config (look at the [example](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-server-markers#some-examples-) at the end of the page)
 
 #### m_UID
 
-The UID is the unique identity of a marker, this mean it need a unique ID to be valid. This ID can have numbers or letters 
+The UID is the unique identity of a marker, this mean it need a unique ID to be valid. This ID can have numbers or letters.
 
 #### m_Visibility
 
-If set to 1, your marker will be seen by everyone as a party marker.
+TODO
 
 #### m_Is3D
 
