@@ -44,12 +44,22 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 
 ### ➤ Integrated mods
 
+(or similar mods Expansion already have)
+
 * Builderitems
 * Gravecross
 * KillFeed
 * Notifications
 * Gravecross
 * Horn
+* Autorun
+* No stamina
+* MoreGuns
+* Street lights
+* Car Keys
+* CodeLock
+* Map UI and 2D/3D Markers
+* Global/Transport/Party Chat
 
 ### ➤ Air Vehicles
 
@@ -146,15 +156,17 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 
 ### ➤⠀Misc
 
-* Global Chat
+* Global, Admin, Party and Transport Chat
 * [Airdrops](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-custom-airdrops)
 * Notification System
 * Territories System
 * Auto-run System
+* No Stamina System
+* Safezone System
 * [Mission](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-mission-events) System
-* Book System
+* Book ([Server Info](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Server-Book-Tab), [Rules](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Rule-Book-Tab), player stats, party management , territory management) System
 * [Skin](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-skins) System
-* Map System
+* Map UI and 2D/3D Markers System
 * KillFeed System
 * Towing System
 * Player Attachement
