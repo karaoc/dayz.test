@@ -21,9 +21,9 @@ Download the lastest missions at [https://github.com/ExpansionModTeam/DayZ-Expan
 
 ![Mission files](https://i.imgur.com/43frfQV.png)
 
-##### 3. As show on this picture go back to the dayz root folder and go inside the "Missions" folder.
+##### 3. Now go where dayz is installed and go inside the folder "Missions" or create it if doesn't exist.
 
-![Root](https://i.imgur.com/kEP7isg.png)
+![Root](https://i.imgur.com/pZhg1h4.png)
 
 ![going inside Missions root folder](https://i.imgur.com/wUsvDiu.png)
 
