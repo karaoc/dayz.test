@@ -42,6 +42,15 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 
 DayZ Expansion mod alongside its main features has many smaller features and changes to the base game so it would be impossible to list all of those smaller changes and features, but you will discover them when playing the game.
 
+### ➤ Integrated mods
+
+* Builderitems
+* Gravecross
+* KillFeed
+* Notifications
+* Gravecross
+* Horn
+
 ### ➤ Air Vehicles
 
 * MH-6 Little Bird
@@ -51,9 +60,9 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 
 ### ➤⠀Water Vehicles
 
-* Zodiac Boat
-* Utility Boat
-* Vodnik
+* PBX Boat
+* RHIB Boat
+* Vodnik (amphibious)
 
 ### ➤⠀Ground Vehicles
 
@@ -89,7 +98,7 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 * Custom lighting
 * Custom interiors
 * Custom ocean
-* Street lights
+* Working Street lights
 
 ### ➤⠀Items
 
