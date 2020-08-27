@@ -44,7 +44,7 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 
 ### ➤ Integrated mods
 
-(or similar mods Expansion already have)
+(or similar mods Expansion already have in some way)
 
 * Builderitems
 * Gravecross
