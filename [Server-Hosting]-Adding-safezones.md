@@ -147,7 +147,7 @@ Think to remove the , in }, at the last bracket. At the end of the page a couple
 
 ## Some Examples
 
-           {
+    {
     "Enabled": 0,
     "EnableVehicleinvincibleInsideSafeZone": 1,
     "FrameRateCheckSafeZoneInMs": 5000,
