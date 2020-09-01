@@ -7,8 +7,8 @@ First go to your server Expansion settings and open the SafeZoneSettings.json fi
 ![Server Expansion Settings Path](https://i.imgur.com/XfGvp38.png)
 
 Inside this file you should have all the already configured safezones for ChernaruPlus. The already configured safezones are :
-- One Circular SafeZone is located at NEAF airstrip where the expansion trader will be located in the futur
-- One Polygon SafeZone is located at the town "Chernogorsk". Nothing is planned in this area.
+- One Circular SafeZone located at NEAF airstrip where the expansion trader will be located in the futur
+- One Polygon SafeZone located at the town "Chernogorsk". Nothing is planned in this area.
 
 ![SafeZoneSettings file](https://i.imgur.com/W7XW2mQ.png)
 
