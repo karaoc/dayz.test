@@ -10,6 +10,8 @@ Inside this file you should have all the already configured safezones for Cherna
 - One Circular SafeZone located at NEAF airstrip where the expansion trader will be located in the futur
 - One Polygon SafeZone located at the town "Chernogorsk". Nothing is planned in this area.
 
+The file should look like this :
+
     {
         "Enabled": 0,
         "EnableVehicleinvincibleInsideSafeZone": 1,
