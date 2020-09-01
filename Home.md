@@ -25,16 +25,18 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 * [Updating your mapping to the new method](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Updating-your-mapping-to-the-new-method)
 * [Adding custom map objects](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-custom-mapping)
 * [Adding custom airdrops](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-custom-airdrops)
+* PLANNED [Adding safezones](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-safezones)
 * [Adding server markers](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-server-markers)
+* PLANNED [Trader Mod unofficial config](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Trader-Mod-unofficial-config)
 
 ### Modding
 * [Adding custom loading screen](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-custom-loading-screen)
 * [Adding flags textures](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-flag-textures)
-* [Adding skins](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-skins)
+* PLANNED [Adding skins](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-skins)
 * [Adding mission events](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-mission-events)
 * [Adding Image for the server tab in the book](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-image-book-server-tab)
 * [Adding a Boat](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-a-Boat)
-* [Adding a Plane](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-a-Plane)
+* PLANNED [Adding a Plane](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-a-Plane)
 * [Adding a Helicopter](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-a-Helicopter)
 * [Allowing player to attach to your vehicle](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Allowing-player-to-attach-to-your-vehicle)
 
