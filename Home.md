@@ -27,7 +27,7 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 * [Adding custom airdrops](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-custom-airdrops)
 * PLANNED [Adding safezones](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-safezones)
 * [Adding server markers](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-server-markers)
-* PLANNED [Trader Mod unofficial config](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Trader-Mod-unofficial-config)
+* [Trader Mod unofficial config](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Trader-Mod-unofficial-config)
 
 ### Modding
 * [Adding custom loading screen](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-custom-loading-screen)
