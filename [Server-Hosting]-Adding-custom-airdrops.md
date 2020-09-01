@@ -25,7 +25,7 @@ Now go to `\Profile (or config)\ExpansionMod\Missions` and create a file with th
 
 ## Configuring a airdrop
 
-Inside your airdrop.json file you just created copy and paste the following lines :
+Inside your NameOfMyCustomAirdrop.json file you just created copy and paste the following lines :
 
         {
         "Enabled": 1,
