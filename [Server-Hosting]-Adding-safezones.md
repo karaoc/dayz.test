@@ -4,11 +4,11 @@
 
 First go to your server Expansion settings and open the SafezoneSettings.json file `\Profile (or config)\ExpansionMod\Settings`
 
-![Server Expansion Settings Path](https://i.imgur.com/FXjTRN8.png)
+![Server Expansion Settings Path](https://i.imgur.com/XfGvp38.png)
 
 Inside this file you should have all the already configured safezones for ChernaruPlus (the polygon safezone is a chernogorsk safezone for example, you maybe do not want that so think to replace them if you feel the need to).
 
-![MissionSettings file](https://i.imgur.com/r8xjgjp.png)
+![SafezoneSettings file](https://i.imgur.com/W7XW2mQ.png)
 
 Add the following lines (you have a picture to show how it should be done)
 
@@ -16,12 +16,6 @@ Add the following lines (you have a picture to show how it should be done)
             "MissionType": "ExpansionMissionEventAirdrop",
             "MissionPath": "$profile:ExpansionMod\\Missions\\NameOfMyCustomAirdrop.json"
         },
-
-![Configured mission settings](https://i.imgur.com/TOaQuVC.png)
-
-Now go to `\Profile (or config)\ExpansionMod\Missions` and create a file with the name you choosed to
-
-![creating a json file](https://i.imgur.com/MLJNdqM.png)
 
 ## Configuring a airdrop
 
