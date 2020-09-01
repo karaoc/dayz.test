@@ -1,25 +1,16 @@
 ![DayZ Expansion](https://i.imgur.com/cTbqjAr.png)
 
-## Adding a circular safezone
+## Where to find the SafeZoneSettings
 
-First go to your server Expansion settings and open the SafezoneSettings.json file `\Profile (or config)\ExpansionMod\Settings`
+First go to your server Expansion settings and open the SafeZoneSettings.json file `\Profile (or config)\ExpansionMod\Settings`
 
 ![Server Expansion Settings Path](https://i.imgur.com/XfGvp38.png)
 
-Inside this file you should have all the already configured safezones for ChernaruPlus (the polygon safezone is a chernogorsk safezone for example, you maybe do not want that so think to replace them if you feel the need to).
+Inside this file you should have all the already configured safezones for ChernaruPlus. The already configured safezones are :
+- The Circular SafeZone is located at NEAF airstrip where the expansion trader will be located in the futur
+- The Polygon SafeZone is located at the town "Chernogorsk". Nothing is planned in this area.
 
-![SafezoneSettings file](https://i.imgur.com/W7XW2mQ.png)
-
-Add the following lines (you have a picture to show how it should be done)
-
-        {
-            "MissionType": "ExpansionMissionEventAirdrop",
-            "MissionPath": "$profile:ExpansionMod\\Missions\\NameOfMyCustomAirdrop.json"
-        },
-
-## Configuring a airdrop
-
-Inside your NameOfMyCustomAirdrop.json file you just created copy and paste the following lines :
+![SafeZoneSettings file](https://i.imgur.com/W7XW2mQ.png)
 
     {
         "Enabled": 0,
@@ -92,3 +83,21 @@ Array.
 - Positions: A array of positions to draw this polygon.
 - CenterPolygon: where the zone should be on the map
 - RadiusPolygon: Size of the zone
+
+## Adding a circular safezone
+
+Add the following lines (you have a picture to show how it should be done)
+
+        {
+            "Type": 1,
+            "Center": [
+                11849.6,
+                0,
+                12471.6
+            ],
+            "Radius": 500
+        },
+
+Currently circular safezones can only be **Type** of "1".
+**Center** is a array where you will need to specify the X Y Z coordinates of your safezone.
+**Radius** is the size in other words of your safezone.
