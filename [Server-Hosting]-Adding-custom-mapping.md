@@ -37,7 +37,7 @@ Expansion.WORLDNAME\expansion\objects and paste in the exported lines.
 
 # Mission Setup:
 By default the objects spawn system within the mission is disabled. 
-To make sure that the mission spawns all objects you need to make sure you allow that by setting a boolean to true within the **Expansion.WORLDNAME\init.c** file called:
+To make sure that the mission spawns all objects you need to make sure you allow that by setting a boolean to true within the **Expansion.WORLDNAME\init.c** (also work ExpansionCOM missions) for  file called:
 
 `bool loadTraderObjects = true;`
 
