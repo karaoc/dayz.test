@@ -15,7 +15,7 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 * [Classname List](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5DList-of-the-classnames)
 * [Crafting Guide](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Crafting-Guide)
 * [Basebuilding Guide](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Basebuilding-Guide)
-* [Vehicle Guide](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Vehicle-Guide)
+* PLANNED [Vehicle Guide](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Vehicle-Guide)
 
 ### Server Hosting
 * [Setting up the server](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Setting-up-the-server)
