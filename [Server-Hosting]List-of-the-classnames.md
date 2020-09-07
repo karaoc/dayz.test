@@ -1,5 +1,6 @@
 ![Weaponary](https://i.imgur.com/Ux80A0e.png)
 
+* Expansion_ANPEQ15_Green
 * Expansion_ANPEQ15_Red
 * ExpansionDeltapointOptic
 * ExpansionEXPS3HoloOptic
