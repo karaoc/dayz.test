@@ -1687,7 +1687,10 @@ Bool. If set to 1, show what type of airdrop it is (military, medical for exampl
         "DismantleAnywhere": 0,
         "CodeLockLength": 4,
         "DoDamageWhenEnterWrongCodeLock": 1,
-        "DamageWhenEnterWrongCodeLock": 10
+        "DamageWhenEnterWrongCodeLock": 10,
+        "EnableSimpleFlagBuilding": 1,
+        "AddFlagItem": 1,
+        "EnableFlagMenu": 1
     }
 
 ### "CanBuildAnywhere"
@@ -1731,6 +1734,15 @@ Bool. If set to 0, the player will not take damage if he enters a wrong code loc
 
 ### "DamageWhenEnterWrongCodeLock"
 Float. The number of damage the player will take when he types a wrong code lock.
+
+### "EnableSimpleFlagBuilding"
+Bool. If set to 1, the territory kit will be built once deployed. If you want to build the flag pole by hand, change this setting to 0. 
+
+### "AddFlagItem"
+Bool. If set to 1, the flag item will be added automaticly to the territory and the player won't be able to remove the flag.
+
+### "EnableFlagMenu"
+Bool. If set to 1, the player will be able to use the expansion flag menu to create a territory and choose flag if the flag item is attached to the territory.
 
 # BookSettings
 
@@ -1912,6 +1924,8 @@ Bool. If set to 1, will show markers on the map and the position of each vehicle
     {
         "PlayerLocationNotifier": 1,
         "EnableGlobalChat": 1,
+        "EnablePartyChat": 1,
+        "EnableTransportChat": 1,
         "EnableGravecross": 0,
         "GravecrossDeleteBody": 1,
         "GravecrossTimeThreshold": 1200,
@@ -1974,8 +1988,8 @@ Bool. If set to 1, will show markers on the map and the position of each vehicle
                 "TisyNoCollision"
             ],
             "ObjectsToDelete": [],
-            "InteriorBuilding": 1,
-            "Ivies": 1
+            "BuildingInteriors": 1,
+            "BuildingIvys": 1
         },
         "EnableLamps": 3,
         "EnableGenerators": 0,
@@ -1989,7 +2003,10 @@ Bool. If set to 1, will show markers on the map and the position of each vehicle
         "PlayerTagViewRange": 5,
         "EnablePlayerList": 1,
         "EnableAutoRun": 1,
-        "UnlimitedStamina": 0
+        "UnlimitedStamina": 0,
+        "UseDeathScreen": 1,
+        "UseDeathScreenStatistics": 1,
+        "UseNewsFeedInGameMenu": 1
     }
 
 ### "PlayerLocationNotifier"
@@ -2064,7 +2081,16 @@ Bool. If set to 1, allow players to see the player list.
 Bool. If set to 1, allow the player to use the autorun feature.
 
 ### "UnlimitedStamina"
-Bool. If enabled, make stamina unlimited.
+Bool. If set to 1, the stamina will be unlimited.
+
+### "UseDeathScreen"
+Bool. If set to 1, enable the old school deathscreen (with the bloody hand).
+
+### "UseDeathScreenStatistics"
+Bool. If set to 1, enable the death statistics.
+
+### "UseNewsFeedInGameMenu"
+Bool. If set to 1, enable the expansion newsfeed in the pause menu.
 
 # MapSettings
 
@@ -2079,6 +2105,8 @@ Bool. If enabled, make stamina unlimited.
         "ShowPartyMembersMapMarkers": 1,
         "ShowServerMarkers": 1,
         "CanOpenMapWithKeyBinding": 1,
+        "ShowNameOnServerMarkers": 1,
+        "ShowDistanceOnServerMarkers": 1,
         "ServerMarkers": []
     }
 
@@ -2111,6 +2139,12 @@ Bool. If enabled, show server map markers.
 
 ### "CanOpenMapWithKeyBinding"
 Bool. If enabled, the player can open the map with a keybind instead of interacting with th physical map
+
+### "ShowNameOnServerMarkers"
+Bool. If enabled, show the name of server map markers.
+
+### "ShowDistanceOnServerMarkers"
+Bool. If enabled, show the distance of server map markers.
 
 ### "ServerMarkers"
 Array. Allow server owners to display server markers on the map. See [this tutorial](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-server-markers) for more explaination.
