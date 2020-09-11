@@ -1680,7 +1680,6 @@ Bool. If set to 1, show what type of airdrop it is (military, medical for exampl
         ],
         "CanCraftVanillaBasebuilding": 0,
         "CanCraftExpansionBasebuilding": 1,
-        "CanCraftTerritoryFlag": 1,
         "DestroyFlagOnDismantle": 1,
         "CanDismantleFlag": 1,
         "DismantleOutsideTerritory": 0,
@@ -1710,9 +1709,6 @@ Bool. If set to 0, you can not craft vanilla basebuilding objects (FenceKit and 
 
 ### "CanCraftExpansionBasebuilding"
 Bool. If set to 0, you can not craft DayZ Expansion Basebuilding objects.
-
-### "CanCraftTerritoryFlag"
-Bool. If set to 0, remove the craft recipe for expansion flags which are used for the territory system.
 
 ### "DestroyFlagOnDismantle"
 Bool. If set to 1, destroy the flag after dismantling it.
