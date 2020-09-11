@@ -1,5 +1,3 @@
-![craft FlagKit](https://i.imgur.com/zGuVGLM.png)
-
 ![craft FloorKit](https://i.imgur.com/mofQPkX.png)
 
 ![craft WallKit](https://i.imgur.com/DuqgIpH.png)
