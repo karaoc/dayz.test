@@ -41,7 +41,7 @@ Take the mission files **who don't have COM in their name**.
 
 Copy and paste them inside your mpmission folder of your server. You should have this two new folders in this directory : 
 
-![](https://i.imgur.com/wk7ezm6.png)
+![](https://i.imgur.com/4mLI7NV.png)
 
 Now go back to the dayz server root directory and open your "**serverDZ.cfg**" config file (if you are on a web provider, make sure you can add custom mission or that you have expert mode enabled).
 
