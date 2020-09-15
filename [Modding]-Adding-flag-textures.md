@@ -4,7 +4,7 @@ Click on the picture to be redirected on our sample flag textures mod.
 
 # DISCLAIMER !
 
-We are not going to teach you how to create a mod or convert to paa. Youtube already have enough tutorials for this !
+We are not going to teach you how to create a mod or convert images to .paa/.edds.
 
 ## Contents
 
@@ -13,6 +13,8 @@ We are not going to teach you how to create a mod or convert to paa. Youtube alr
 - [FlagSample.c](#flagsamplec)
 
 - [Flag dimensions](#flag-dimensions)
+
+- [FlagClothSample.c](#flag-clothsample)
 
 You will need to setup a mod with the usual **config.cpp** for a basic mod. All the files we will create will need to add new flags.
 
@@ -122,6 +124,4 @@ In this example, we are now removing the expansion flag :
 
 ## Flag dimensions
 
-The texture need to have **2:1** dimensions. For example a texture of **256 pixels** by **128 pixels** will work.
-
-![dimenssions](https://i.imgur.com/hKIQy5j.jpg)
+The texture need to have **2:1** dimensions. For example a texture of **512 pixels** by **256 pixels** will work.
