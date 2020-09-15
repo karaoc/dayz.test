@@ -8,13 +8,13 @@ We are not going to teach you how to create a mod or convert images to .paa/.edd
 
 ## Contents
 
-- [Config.cpp](#configcpp)
+- [config.cpp](#configcpp)
 
 - [FlagSample.c](#flagsamplec)
 
-- [Flag dimensions](#flag-dimensions)
+- [FlagClothSample.c](#flagclothsamplec)
 
-- [FlagClothSample.c](#flag-clothsample)
+- [Flag dimensions](#flag-dimensions)
 
 You will need to setup a mod with the usual **config.cpp** for a basic mod. All the files we will create will need to add new flags.
 
@@ -22,73 +22,66 @@ The hierarchy of the mod we have provided looks like this.
 
 ![Hierachy mod](https://i.imgur.com/lV22bA9.png)
 
-## Config.cpp
-
+## config.cpp
 	class CfgPatches
 	{
-		class ModName
+		class ExpansionFlagSample
 		{
-			units[]={};
-			weapons[]={};
-			requiredVersion=0.1;
-			requiredAddons[]=
-			{
-				"DayZExpansion_Scripts"
-			};
+			units[] = {};
+			weapons[] = {};
+			requiredVersion = 0.1;
+			requiredAddons[] = {"DZ_Data", "DayZExpansion_Scripts"};
 		};
 	};
 	class CfgMods
 	{
-		class ModName
+		class ExpansionFlagSample
 		{
-			dir="ModName";
-			picture="";
-			action="";
-			hideName=1;
-			hidePicture=1;
-			name="ModName";
-			credits="AuthorName";
-			author="AuthorName";
-			authorID="0";
-			version="1.0";
-			extra=0;
-			type="mod";
-			dependencies[]=
-			{
-				"Game",
-				"World",
-				"Mission"
-			};
+			dir = "ExpansionFlagSample";
+			picture = "";
+			action = "";
+			hideName = 1;
+			hidePicture = 1;
+			name = "ExpansionFlagSample";
+			credits = "Not A Banana";
+			author = "Not A Banana";
+			authorID = "0";
+			version = "1.0";
+			extra = 0;
+			type = "mod";
+			dependencies[] = {"Game","World","Mission"};
 			class defs
 			{
 				class gameScriptModule
 				{
-					value="";
-					files[]=
-					{
-						"ModName/Scripts/3_Game"
-					};
+					value = "";
+					files[] = {"ExpansionFlagSample/scripts/3_Game"};
+				};
+				class worldScriptModule
+				{
+					value = "";
+					files[] = {"ExpansionFlagSample/scripts/4_World"};
 				};
 			};
 		};
 	};
 
-## FlagSample.c
-
-	modded class ExpansionStatic
+	//! Flag cloth item
+	class CfgVehicles
 	{
-		override void LoadFlagTextures()
+		class Flag_Base;
+		class Expansion_Flag_BohemiaInteractive: Flag_Base
 		{
-			super.LoadFlagTextures();
-			// This is where you want to add or remove flags !
+			scope=2;
+			hiddenSelectionsTextures[]=
+			{
+				"\ExpansionFlagSample\data\flag_bohemiainteractive_co.paa"
+			};
 		};
 	};
 
-To add a flag you need to add the following line
-
-	AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName"); //AddFlagTexture(Path to texture, Name)
-
-It should look like this
+## FlagSample.c
+To add a flag texture you need to add the following lines and modifications to your mod within the game script module (3_Game):
 
 	modded class ExpansionStatic
 	{
@@ -99,16 +92,16 @@ It should look like this
 			AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName");
 		};
 	};
+To add a flag you need to add the following line:
 
-If you want to add another flag, add another "AddFlagTexture" like you just did.
+        AddFlagTexture("ModName\\data\\flag_name_co.paa", "MyFlagName"); //AddFlagTexture(Path to texture, Name);
 
-	AddFlagTexture("ModName\\data\\flag_name2_co.paa", "MyFlagName2"); //AddFlagTexture(Path to texture, Name)
+If you want to remove a flag that is arleady added by expansion you will need to add the following line to that modification:
 
-If you want to remove a flag already ingame you will need to add the following line :
+        //If you have a flag you want removed, simply run this with the path to the texture as the argument. 
+	RemoveFlagTexture("DayZExpansion\\Objects\\Structures\\Flags\\data\\logos\\flag_expansion_co.paa");
 
-	RemoveFlagTexture("DayZExpansion\\Objects\\Structures\\Flags\\data\\logos\\flag_expansion_co.paa"); //If you have a flag you want removed, simply run this with the path to the texture as the argument. 
-
-In this example, we are now removing the expansion flag :
+This is an example for adding 2 new flags and remove the expansion logo flag from the expansion mod:
 
 	modded class ExpansionStatic
 	{
@@ -121,6 +114,12 @@ In this example, we are now removing the expansion flag :
 			RemoveFlagTexture("DayZExpansion\\Objects\\Structures\\Flags\\data\\logos\\flag_expansion_co.paa");
 		};
 	};
+
+## FlagClothSample.c
+To add the flag cloth item (#config.cpp contains the configuration) you need to add the class name of that new item to the world script module.
+Simply define your item class with the correct class name like this:
+
+	class Expansion_Flag_BohemiaInteractive extends Flag_Base {};
 
 ## Flag dimensions
 
