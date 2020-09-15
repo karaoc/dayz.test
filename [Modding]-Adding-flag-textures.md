@@ -98,7 +98,6 @@ To add a flag you need to add the following line:
 
 If you want to remove a flag that is arleady added by expansion you will need to add the following line to that modification:
 
-        //If you have a flag you want removed, simply run this with the path to the texture as the argument. 
 	RemoveFlagTexture("DayZExpansion\\Objects\\Structures\\Flags\\data\\logos\\flag_expansion_co.paa");
 
 This is an example for adding 2 new flags and remove the expansion logo flag from the expansion mod:
