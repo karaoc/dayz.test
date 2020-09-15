@@ -75,3 +75,7 @@ For some reason, your ExpansionMod settings are broken. Revert the changes you h
 #### BattlEye initialization failed
 
 The battle eye dll is missing from the battle eye folder of your server profile. A copy paste of this missing dll should do the job in most cases.
+
+#### !!! String CORRUPTED - FIX OnStoreLoad() !!!
+
+Your "storage_x" (x being a number) is using the vanilla storage format. Wipe this folder to use the Expansion storage format. This will wipe all player progression however.
