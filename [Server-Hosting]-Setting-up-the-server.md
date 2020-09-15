@@ -75,7 +75,3 @@ For some reason, your ExpansionMod settings are broken. Revert the changes you h
 #### BattlEye initialization failed
 
 The battle eye dll is missing from the battle eye folder of your server profile. A copy paste of this missing dll should do the job in most cases.
-
-#### !!! String CORRUPTED - FIX OnStoreLoad() !!!
-
-The folder "storage_x" (x being a number) inside your mission have corrupted string(s). Delete/rename this folder and try again.
