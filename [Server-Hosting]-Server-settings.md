@@ -6,11 +6,11 @@
 
 - [BaseBuildingSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-BaseBuildingSettings)
 
-- [BookSettings](#BookSettings)
+- [BookSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-BookSettings)
 
-- [DebugSettings](#DebugSettings)
+- [DebugSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-DebugSettings)
 
-- [GeneralSettings](#GeneralSettings)
+- [GeneralSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-GeneralSettings)
 
 - [MapSettings](#MapSettings)
 
