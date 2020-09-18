@@ -100,6 +100,8 @@ Bool.
 - 0 = The player will not get his kit after building his territory flag.
 - 1 = The player will get his kit back after building the first stage of the territory flag.
 
+Since this is currently the last setting you don't need the comma at the end !
+
 ***
 
     {
