@@ -1,7 +1,10 @@
 Last updated the 18th of September 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
 
-# AirdropSettings
 **WARNING** - The AirdropSettings only affect personnal airdrops and NOT mission airdrops from the mission file. Even if they seems to be the same they are not overriding the airdrop missions. If you want to customize airdrop mission please follow [this guide](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-custom-airdrops)
+
+
+***
+
 
 ### "ServerMarkerOnDropLocation"
 Bool.
