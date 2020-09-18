@@ -103,6 +103,7 @@ Bool.
 Since this is currently the last setting you don't need the comma at the end !
 
 ***
+# Raw file
 
     {
         "CanBuildAnywhere": 1,
