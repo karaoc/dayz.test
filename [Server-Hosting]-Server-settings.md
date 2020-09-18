@@ -4,7 +4,7 @@
 
 - [AirdropSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-AirdropSettings)
 
-- [BaseBuildingSettings](#BaseBuildingSettings)
+- [BaseBuildingSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-BaseBuildingSettings)
 
 - [BookSettings](#BookSettings)
 
@@ -33,83 +33,6 @@
 
 ***
 
-
-# BaseBuildingSettings
-
-    {
-        "CanBuildAnywhere": 1,
-        "AllowBuildingWithoutATerritory": 1,
-        "DeployableOutsideATerritory": [
-            "ExpansionSatchel",
-            "Fireplace",
-            "ExpansionFlagKitBase"
-        ],
-        "DeployableInsideAEnemyTerritory": [
-            "ExpansionSatchel",
-            "LandMineTrap",
-            "BearTrap"
-        ],
-        "CanCraftVanillaBasebuilding": 0,
-        "CanCraftExpansionBasebuilding": 1,
-        "DestroyFlagOnDismantle": 1,
-        "CanDismantleFlag": 1,
-        "DismantleOutsideTerritory": 0,
-        "DismantleAnywhere": 0,
-        "CodeLockLength": 4,
-        "DoDamageWhenEnterWrongCodeLock": 1,
-        "DamageWhenEnterWrongCodeLock": 10,
-        "EnableSimpleFlagBuilding": 1,
-        "AddFlagItem": 1,
-        "EnableFlagMenu": 1
-    }
-
-### "CanBuildAnywhere"
-Bool. If set to 1, allow to build any where.
-
-### "AllowBuildingWithoutATerritory"
-Bool. Previously known as TerritoryMode, if set to one allow to build without the need of a territory
-
-### "DeployableOutsideATerritory"
-Array of string. Only used if TerritoryMode is set to 1. Put every classname of the item, you want to be able to be placed outside of the territory.
-
-### "DeployableInsideAEnemyTerritory"
-Array of string. Put every classname of the item, you want to be able to be placed in the territory where you are not a member of him.
-
-### "CanCraftVanillaBasebuilding"
-Bool. If set to 0, you can not craft vanilla basebuilding objects (FenceKit and WatchTowerKit). If 1, you can.
-
-### "CanCraftExpansionBasebuilding"
-Bool. If set to 0, you can not craft DayZ Expansion Basebuilding objects.
-
-### "DestroyFlagOnDismantle"
-Bool. If set to 1, destroy the flag after dismantling it.
-
-### "CanDismantleFlag"
-Bool. If set to 1, allow the player to dismantle flags.
-
-### "DismantleOutsideTerritory"
-Bool. If set to 1, allow to dismantle outside territories.
-
-### "DismantleAnywhere"
-Bool. If set to 1, allow to dismantle from anywhere and not only on the weak side but will still follow the territory restrictions.
-
-### "CodeLockLength"
-Integer. The length of passwords you can put into your code locks.
-
-### "DoDamageWhenEnterWrongCodeLock"
-Bool. If set to 0, the player will not take damage if he enters a wrong code lock. If set to 1, he will take damage.
-
-### "DamageWhenEnterWrongCodeLock"
-Float. The number of damage the player will take when he types a wrong code lock.
-
-### "EnableSimpleFlagBuilding"
-Bool. If set to 1, the territory kit will be built once deployed. If you want to build the flag pole by hand, change this setting to 0. 
-
-### "AddFlagItem"
-Bool. If set to 1, the flag item will be added automaticly to the territory and the player won't be able to remove the flag.
-
-### "EnableFlagMenu"
-Bool. If set to 1, the player will be able to use the expansion flag menu to create a territory and choose flag if the flag item is attached to the territory.
 
 # BookSettings
 
