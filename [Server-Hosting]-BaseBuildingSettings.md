@@ -49,7 +49,7 @@ Bool.
 - 1 = The dismantle action will be available from anywhere. If you are in the territory of someone else, you won't be able to dismantle.
 
 ### "CodeLockLength"
-Integer. The length of passwords you can put into your code locks.
+Integer. The length of passwords you can put into your code locks. If you want to only allow 6 digits password in the codelocks set it to 6 for example.
 
 ### "DoDamageWhenEnterWrongCodeLock"
 Bool.
