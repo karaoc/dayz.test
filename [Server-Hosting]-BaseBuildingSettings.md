@@ -15,8 +15,20 @@ Bool.
 ### "DeployableOutsideATerritory"
 Array of string. Only used if AllowBuildingWithoutATerritory is set to 0. This list of classnames are the items you will be able to deploy outside the territories.
 
+    "DeployableOutsideATerritory": [
+        "classname01_withaCommaAtTheEnd",
+        "classname02_withaCommaAtTheEnd",
+        "classname03_withoutCommaAtTheEndBecauseItsTheLastOne"
+    ],
+
 ### "DeployableInsideAEnemyTerritory"
 Array of string. This list is used for raiding purposes. All the classnames listed here will be deployable inside the territory of your ennemies. It's recommended to only allow raiding devices or traps.
+
+    "DeployableInsideAEnemyTerritory": [
+        "classname01_withaCommaAtTheEnd",
+        "classname02_withaCommaAtTheEnd",
+        "classname03_withoutCommaAtTheEndBecauseItsTheLastOne"
+    ],
 
 ### "CanCraftVanillaBasebuilding"
 Bool.
