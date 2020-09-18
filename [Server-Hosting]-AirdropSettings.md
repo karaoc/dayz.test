@@ -2,9 +2,7 @@ Last updated the 18th of September 2020 - [Return to the summary](https://github
 
 **WARNING** - The AirdropSettings only affect personnal airdrops and NOT mission airdrops from the mission file. Even if they seems to be the same they are not overriding the airdrop missions. If you want to customize airdrop mission please follow [this guide](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-custom-airdrops)
 
-
 ***
-
 
 ### "ServerMarkerOnDropLocation"
 Bool.
@@ -38,6 +36,7 @@ What loot could spawn inside this classname.
 
 Please make sure the last } of the loot list doesn't have the , in }, like in the example !
 
+***
 
     {
         "ServerMarkerOnDropLocation": 1,
