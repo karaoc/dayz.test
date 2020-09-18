@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [AirdropSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-settings%5D-AirdropSettings)
+- [AirdropSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-AirdropSettings)
 
 - [BaseBuildingSettings](#BaseBuildingSettings)
 
