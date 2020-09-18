@@ -46,7 +46,7 @@ The following setting got renamed
 
 | Before | After | Why |
 |---|---|---|
-| ShowServerMarkers | EnableServerMarkers | To follow the same naming format used | 
+| ShowServerMarkers | EnableServerMarkers | To follow the same naming format used everywhere | 
 
 To see the complete file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-BaseBuildingSettings#raw-file)
 
@@ -57,7 +57,13 @@ The following settings got their name changed !
 | Before | After | Why |
 |---|---|---|
 | MaxInParty | MaxMembersInParty | Goal is to make this setting easier to understand for new users | 
-| ShowPartyMembers3DMarkers | ShowPartyMembersMapMarkers | To follow the same naming format used | 
-| AddFlagItem | AutomaticFlagOnCreation | To follow the same naming format used | 
+| ShowPartyMembers3DMarkers | EnablePartyMembersMapMarkers | To follow the same naming format used everywhere |
+
+| Added| Why |
+|---|---|
+| EnablePartyMemberMarker | To follow the same naming format used | 
+| ShowDistanceUnderPartyMembersMarkers | Requested by a Server Owner | 
+| ShowNameOnPartyMembersMarkers | Requested by a Server Owner | 
+| CanCreatePartyMarkers | Because it's easier to config parties if everything related to parties are in the same file | 
 
 To see the complete file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-BaseBuildingSettings#raw-file)
