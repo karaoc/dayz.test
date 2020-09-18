@@ -36,7 +36,7 @@ What loot could spawn inside this classname.
 
 Please make sure the last } of the loot list doesn't have the , in }, like in the example !
 
-***
+# Raw file
 
     {
         "ServerMarkerOnDropLocation": 1,
