@@ -189,7 +189,9 @@ Bool.
 
 ### "EnableKillFeedDiscordMsg"
 Bool.
+
 **THIS SYSTEM DOES NOT WORK CORRECTLY AS INTEDED SO FAR AND IS DISABLED BY DEFAULT!**
+
 - 0 = Disables the display of kill-feed discord messages when the CF webhook has been configured correctly
 - 1 = Displays kill-feed discord messages when the CF webhook has been configured correctly
 
