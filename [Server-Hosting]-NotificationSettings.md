@@ -69,32 +69,32 @@ Bool.
 
 ### "KillFeedMessageType"
 Bool.
-- 0 =
-- 1 =
+- 0 = Kill-feed notification will be displayed in the chat
+- 1 = Kill-feed notification will be displayed as a notification on the top left corner of your screen
 
 ### "KillFeedFall"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by fall damage
+- 1 = Displays kill-feed notifications related to player deaths by fall damage
 
 ### "KillFeedCarHitDriver"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by an car hit with a driver in the car
+- 1 = Displays kill-feed notifications related to player deaths by a car hit with a driver in the car
 
 ### "KillFeedCarHitNoDriver"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by an car hit with no driver in the car
+- 1 = Displays kill-feed notifications related to player deaths by an car hit with no driver in the car
 
 ### "KillFeedCarCrash"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by an car crash.
+- 1 = Displays kill-feed notifications related to player deaths by an car crash
 
 ### "KillFeedCarCrashCrew"
 Bool.
-- 0 =
+- 0 = 
 - 1 =
 
 ### "KillFeedHeliHitDriver"
@@ -129,23 +129,18 @@ Bool.
 
 ### "KillFeedBarbedWire"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by hit damage from barbed wires
+- 1 = Displays kill-feed notifications related to player deaths by hit damage from barbed wires
 
 ### "KillFeedFire"
 Bool.
-- 0 =
-- 1 =
-
-### "KillFeedSpecialExplosion"
-Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by hit damage from fireplaces
+- 1 = Displays kill-feed notifications related to player deaths by hit damage from fireplaces
 
 ### "KillFeedWeaponExplosion"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by hit damage from a weapon explosion (granades, satchels..)
+- 1 = Displays kill-feed notifications related to player deaths by hit damage from a weapon explosion
 
 ### "KillFeedDehydration"
 Bool.
