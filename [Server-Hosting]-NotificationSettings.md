@@ -29,23 +29,23 @@ Integrer.
 
 ### "ShowAirdropStarted"
 Bool.
-- 0 = 
-- 1 = 
+- 0 = The notification when ever a airdrop event started will not be displayed
+- 1 = Displays the notification when ever a airdrop event started.
 
 ### "ShowAirdropClosingOn"
 Bool.
-- 0 =
-- 1 =
+- 0 = The notification when ever a airdrop plane gets close to the drop location will not be displayed
+- 1 = Displays the notification when ever a airdrop plane gets close to the drop location
 
 ### "ShowAirdropDropped"
 Bool.
-- 0 =
-- 1 =
+- 0 = The notification when ever a airdrop has been droped on the drop location will not be displayed
+- 1 = Displays the notification when ever a airdrop has been droped on the drop location
 
 ### "ShowPlayerAirdropStarted"
 Bool.
-- 0 =
-- 1 =
+- 0 = The notification when ever a player calls an airdop with the airdrop flare will not get displayed
+- 1 = Displays the notification when ever a player calls an airdop with the airdrop flare
 
 ### "ShowPlayerAirdropClosingOn"
 Bool.
