@@ -7,6 +7,8 @@ Bool.
 - 0 = The player will not get any notifications telling him where he is and what time is it.
 - 1 = The player will get a dayz mod styled notification with the town name and time and date.
 
+![Player Location Notifier](https://i.imgur.com/oRrvBRE.png)
+
 ### "EnableGlobalChat"
 Bool.
 - 0 = The global chat (blue chat) will be disabled.
@@ -17,10 +19,14 @@ Bool.
 - 0 = The party chat (green chat) will be disabled.
 - 1 = It will enable the party chat. The party chat allow players to talk to anyone in their group from anyone on the map.
 
+![GlobalChat](https://i.imgur.com/I7hm3MC.png)
+
 ### "EnableTransportChat"
 Bool.
 - 0 = The transport chat (yellow chat) will be disabled.
 - 1 = It will enable the transport chat. The transport chat allow players to talk to anyone inside the same vehicle than you.
+
+![Transport Chat](https://i.imgur.com/jozvbpW.png)
 
 ### "EnableGravecross"
 Bool.
