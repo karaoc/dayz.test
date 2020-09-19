@@ -4,33 +4,33 @@ Last updated the 19th of September 2020 - [Return to the summary](https://github
 
 ### "EnableNotification"
 Bool.
-- 0 =
-- 1 =
+- 0 = All the notifications will be disabled.
+- 1 = Notifications will be enabled.
 
 ### "ShowPlayerJoinServer"
 Bool.
-- 0 =
-- 1 =
+- 0 = The "Player Joined the server" notification will not be displayed
+- 1 = The "Player Joined the server" notification will be enabled
 
 ### "JoinMessageType"
-Bool.
-- 0 =
-- 1 =
+Integrer.
+- 0 = The notification will be displayed in the chat
+- 1 = The notification will be displayed as a notification on the top left corner of your screen
 
 ### "ShowPlayerLeftServer"
 Bool.
-- 0 =
-- 1 =
+- 0 = The "Player left the server" notification will not be displayed
+- 1 = The "Player left the server" notification will be enabled
 
 ### "LeftMessageType"
-Bool.
-- 0 =
-- 1 =
+Integrer.
+- 0 = The notification will be displayed in the chat
+- 1 = The notification will be displayed as a notification on the top left corner of your screen
 
 ### "ShowAirdropStarted"
 Bool.
-- 0 =
-- 1 =
+- 0 = 
+- 1 = 
 
 ### "ShowAirdropClosingOn"
 Bool.
