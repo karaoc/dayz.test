@@ -12,7 +12,7 @@
 
 - [GeneralSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-GeneralSettings)
 
-- [MapSettings](#MapSettings)
+- [MapSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-MapSettings)
 
 - [MissionSettings](#MissionSettings)
 
@@ -32,63 +32,6 @@
 
 
 ***
-
-# MapSettings
-
-    {
-        "EnableMap": 1,
-        "UseMapOnMapItem": 1,
-        "CanCreateMarker": 1,
-        "ShowPlayerPosition": 1,
-        "CanCreatePartyMarkers": 1,
-        "ShowMapStats": 1,
-        "CanCreate3DMarker": 1,
-        "ShowPartyMembersMapMarkers": 1,
-        "ShowServerMarkers": 1,
-        "CanOpenMapWithKeyBinding": 1,
-        "ShowNameOnServerMarkers": 1,
-        "ShowDistanceOnServerMarkers": 1,
-        "ServerMarkers": []
-    }
-
-### "EnableMap"
-Bool. If enabled, 
-
-### "UseMapOnMapItem"
-Bool. If enabled, the default map used for the map item when used will be expansion map.
-
-### "CanCreateMarker"
-Bool. If enabled, allow the player to create markers.
-
-### "ShowPlayerPosition"
-Bool. If enabled, show the player position on the map.
-
-### "CanCreatePartyMarkers"
-Bool. If enabled, allow the player to create party markers.
-
-### "ShowMapStats"
-Bool. If enabled, TODO
-
-### "CanCreate3DMarker"
-Bool. If enabled, allow the player to create 3D markers.
-
-### "ShowPartyMembersMapMarkers"
-Bool. If enabled, show the player teammates position on the map.
-
-### "ShowServerMarkers"
-Bool. If enabled, show server map markers.
-
-### "CanOpenMapWithKeyBinding"
-Bool. If enabled, the player can open the map with a keybind instead of interacting with th physical map
-
-### "ShowNameOnServerMarkers"
-Bool. If enabled, show the name of server map markers.
-
-### "ShowDistanceOnServerMarkers"
-Bool. If enabled, show the distance of server map markers.
-
-### "ServerMarkers"
-Array. Allow server owners to display server markers on the map. See [this tutorial](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-server-markers) for more explaination.
 
 # MissionSettings
 
