@@ -134,63 +134,64 @@ Bool.
 
 ### "KillFeedDehydration"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by dehydration
+- 1 = Displays kill-feed notifications related to player deaths by dehydration
 
 ### "KillFeedStarvation"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by starvation
+- 1 = Displays kill-feed notifications related to player deaths by starvation
 
 ### "KillFeedBleeding"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by blood loss
+- 1 = Displays kill-feed notifications related to player deaths by blood loss
 
 ### "KillFeedSuicide"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by a suicide
+- 1 = Displays kill-feed notifications related to player deaths by a suicide
 
 ### "KillFeedWeapon"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by a fire weapon
+- 1 = Displays kill-feed notifications related to player deaths by a fire weapon
 
 ### "KillFeedMeleeWeapon"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by a melee weapon
+- 1 = Displays kill-feed notifications related to player deaths by a meele weapon
 
 ### "KillFeedBarehands"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by an other player in a fist fight
+- 1 = Displays kill-feed notifications related to player deaths by an other player in a fist fight
 
 ### "KillFeedInfected"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by an infected/zombie
+- 1 = Displays kill-feed notifications related to player deaths by an infected/zombie
 
 ### "KillFeedAnimal"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by an wild animal
+- 1 = Displays kill-feed notifications related to player deaths by an wild animal
 
 ### "KillFeedKilledUnknown"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by and unknown source with an entity
+- 1 = Displays kill-feed notifications related to player deaths by and unknown sourcew ith an entity
 
 ### "KillFeedDiedUnknown"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by and unknown source
+- 1 = Displays kill-feed notifications related to player deaths by and unknown source
 
 ### "EnableKillFeedDiscordMsg"
 Bool.
-- 0 =
-- 1 =
+**THIS SYSTEM DOES NOT WORK CORRECTLY AS INTEDED SO FAR AND IS DISABLED BY DEFAULT!**
+- 0 = Disables the display of kill-feed discord messages when the CF webhook has been configured correctly
+- 1 = Displays kill-feed discord messages when the CF webhook has been configured correctly
 
 # Raw file
 
