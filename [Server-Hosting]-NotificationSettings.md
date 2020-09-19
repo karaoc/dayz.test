@@ -89,43 +89,33 @@ Bool.
 
 ### "KillFeedCarCrash"
 Bool.
-- 0 = Disables the display of kill-feed notifications related to player deaths by an car crash.
-- 1 = Displays kill-feed notifications related to player deaths by an car crash
+- 0 = Disables the display of kill-feed notifications related to player deaths by an car crash as a driver
+- 1 = Displays kill-feed notifications related to player deaths by an car crash as a driver
 
 ### "KillFeedCarCrashCrew"
 Bool.
-- 0 = 
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by an car crash as a passanger
+- 1 = Displays kill-feed notifications related to player deaths by an car crash as a passanger
 
 ### "KillFeedHeliHitDriver"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by an heli hit with a pilot
+- 1 = Displays kill-feed notifications related to player deaths by an heli hit with a pilot
 
 ### "KillFeedHeliHitNoDriver"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by an heli hit with no pilot
+- 1 = Displays kill-feed notifications related to player deaths by an heli hit with no pilot
 
 ### "KillFeedHeliCrash"
 Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by an heli crash as a pilot
+- 1 = Displays kill-feed notifications related to player deaths by an heli crash as a pilot
 
 ### "KillFeedHeliCrashCrew"
 Bool.
-- 0 =
-- 1 =
-
-### "KillFeedBoatCrash"
-Bool.
-- 0 =
-- 1 =
-
-### "KillFeedBoatCrashCrew"
-Bool.
-- 0 =
-- 1 =
+- 0 = Disables the display of kill-feed notifications related to player deaths by an heli crash as a passanger
+- 1 = Displays kill-feed notifications related to player deaths by an heli crash as a passanger
 
 ### "KillFeedBarbedWire"
 Bool.
