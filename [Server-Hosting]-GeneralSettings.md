@@ -1,4 +1,4 @@
-Last updated the 18th of September 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
+Last updated the 19th of September 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
 
 ***
 
@@ -135,9 +135,6 @@ Bool.
         "EnableLamps": 3,
         "EnableGenerators": 0,
         "EnableLighthouses": 1,
-        "EnableHUDGPS": 1,
-        "NeedGPSItemForKeyBinding": 1,
-        "NeedMapItemForKeyBinding": 1,
         "EnableHUDNightvisionOverlay": 1,
         "DisableMagicCrosshair": 1,
         "EnablePlayerTags": 1,
