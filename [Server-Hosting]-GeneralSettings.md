@@ -14,14 +14,10 @@ Bool.
 - 0 = The global chat (blue chat) will be disabled.
 - 1 = It will enable the global chat. The global chat allow players to talk to anyone from anywhere on the map.
 
-![GlobalChat](https://i.imgur.com/I7hm3MC.png)
-
 ### "EnablePartyChat"
 Bool.
 - 0 = The party chat (green chat) will be disabled.
 - 1 = It will enable the party chat. The party chat allow players to talk to anyone in their group from anyone on the map.
-
-![Transport Chat](https://i.imgur.com/jozvbpW.png)
 
 ### "EnableTransportChat"
 Bool.
