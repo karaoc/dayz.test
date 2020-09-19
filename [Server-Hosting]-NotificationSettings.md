@@ -29,43 +29,43 @@ Integrer.
 
 ### "ShowAirdropStarted"
 Bool.
-- 0 = The notification when ever a airdrop event started will not be displayed
+- 0 = The notification when ever an airdrop event started will not be displayed
 - 1 = Displays the notification when ever a airdrop event started.
 
 ### "ShowAirdropClosingOn"
 Bool.
-- 0 = The notification when ever a airdrop plane gets close to the drop location will not be displayed
+- 0 = The notification when ever an airdrop plane gets close to the drop location will not be displayed
 - 1 = Displays the notification when ever a airdrop plane gets close to the drop location
 
 ### "ShowAirdropDropped"
 Bool.
-- 0 = The notification when ever a airdrop has been droped on the drop location will not be displayed
+- 0 = The notification when ever an airdrop has been droped on the drop location will not be displayed
 - 1 = Displays the notification when ever a airdrop has been droped on the drop location
 
 ### "ShowPlayerAirdropStarted"
 Bool.
-- 0 = The notification when ever a player calls an airdop with the airdrop flare will not get displayed
-- 1 = Displays the notification when ever a player calls an airdop with the airdrop flare
+- 0 = The notification when ever a player calls an airdrop with an airdrop flare will not get displayed
+- 1 = Displays the notification when a player calls an airdrop with an airdrop flare.
 
 ### "ShowPlayerAirdropClosingOn"
 Bool.
-- 0 =
-- 1 =
+- 0 = The notification when ever a player calls an airdorop with an airdrop flare and it gets close to the drop location will not be displayed
+- 1 = Displays the notification when ever a player calls an airdorop with an airdrop flare and it gets close to the drop location
 
 ### "ShowPlayerAirdropDropped"
 Bool.
-- 0 =
-- 1 =
+- 0 = The notification when ever a player calls an airdorop with an airdrop flare and it has been droped on the drop location will not be displayed
+- 1 = Displays the notification when ever a player calls an airdorop with an airdrop flare and it has been droped on the drop location
 
 ### "ShowTerritoryNotifications"
 Bool.
-- 0 =
-- 1 =
+- 0 = The notification when ever a player enters an territory will not be displayed
+- 1 = Displays the notification when ever a player enters an territory
 
 ### "EnableKillFeed"
 Bool.
-- 0 =
-- 1 =
+- 0 = All the kill-feed notifications will be disabled
+- 1 = Kill-feed will be enabled
 
 ### "KillFeedMessageType"
 Bool.
