@@ -12,6 +12,16 @@ Bool.
 - 0 = The global chat (blue chat) will be disabled.
 - 1 = It will enable the global chat. The global chat allow players to talk to anyone from anywhere on the map.
 
+### "EnablePartyChat"
+Bool.
+- 0 = The party chat (green chat) will be disabled.
+- 1 = It will enable the party chat. The party chat allow players to talk to anyone in their group from anyone on the map.
+
+### "EnableTransportChat"
+Bool.
+- 0 = The transport chat (yellow chat) will be disabled.
+- 1 = It will enable the transport chat. The transport chat allow players to talk to anyone inside the same vehicle than you.
+
 ### "EnableGravecross"
 Bool.
 - 0 = Gravecross will be disabled. The dead player inventory will stay on him.
@@ -37,12 +47,12 @@ Array. List all the locations with custom mapping made by the mod Expansion. If 
 ### "ObjectsToDelete"
 Array. You can indicate the position and the name of a specific mapped object to be removed. This action can be done to multiple objects.
 
-### "InteriorBuilding"
+### "BuildingInteriors"
 Bool. Have a huge impact on server and player performance !
 - 0 = Interiors won't be filled with new props.
 - 1 = Interiors will be more detailled.
 
-### "Ivies"
+### "BuildingIvys"
 Bool. Only work for ChernarusPlus !
 - 0 = No custom ivies will be added to the map
 - 1 = Custom Ivies in specific locations will be added to the map.
