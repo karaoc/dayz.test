@@ -3,25 +3,39 @@ Last updated the 18th of September 2020 - [Return to the summary](https://github
 ***
 
 ### "EnableBook"
-Bool. If enabled, the book will be available to be opened. 
+Bool.
+- 0 = The book will be disabled.
+- 1 = The book will be enabled, the book is used for party and territory management but also for server rules and informations.
 
 ### "EnableStatusTab"
-Bool. If enabled, the status tab will be available. The status tab contains character info like health, hunger/thirst values, etc. 
+Bool. 
+- 0 = This feature will be removed from the book
+- 1 = The status tab will be available. The status tab contains character info like health, hunger/thirst values, etc. 
 
 ### "EnablePartyTab"
-Bool. If enabled, the party tab will be available.
+Bool.
+- 0 = This feature will be removed from the book.
+- 1 = The party tab will be available allowing players to manage and creating parties and invite players. You can tweak parties in the PartySettings.json
 
 ### "EnableServerInfoTab"
-Bool. If enabled, the server info tab will be available.
+Bool.
+- 0 = This feature will be removed from the book.
+- 1 = A server info page will be available allowing you to provide a description of your server, buttons to redirect the player to your discord, forum or other places.
 
 ### "EnableServerRulesTab"
-Bool. If enabled, the server rules tab will be available.
+Bool.
+- 0 = This feature will be removed from the book.
+- 1 = The server rules tab will be available. This page allow servers to display their rules
 
 ### "EnableTerritoryTab"
 Bool. If enabled, the territory tab will be available.
+- 0 = This feature will be removed from the book.
+- 1 = The territory tab will be available allowing players to manage their territories and invite players. You can tweak territories in the TerritorySettings.json
 
 ### "ShowServerSettings"
-Bool. If enabled, the server settings will be visible in the server tab.
+Bool. Require "EnableServerInfoTab" to be enabled (set to 1)
+- 0 = This feature will be removed from the book.
+- 1 = Some server settings will be displayed, helping the player to know what is enabled on the server.
 
 ### "ServerInfo"
 Array. Allow to write multiple paragraph to share informations about the server. A guide is [available here](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Server-Book-Tab)
