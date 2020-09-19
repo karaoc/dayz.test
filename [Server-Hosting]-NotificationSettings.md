@@ -3,63 +3,209 @@ Last updated the 19th of September 2020 - [Return to the summary](https://github
 ***
 
 ### "EnableNotification"
-Bool. If set to 1, enable to notifications for everyone.
+Bool.
+- 0 =
+- 1 =
 
 ### "ShowPlayerJoinServer"
-Bool. If set to 1, notify the player who joined the server.
+Bool.
+- 0 =
+- 1 =
 
 ### "JoinMessageType"
-Integer. with 2 modes :
-
-0. Will display the player joined message in the globalchat
-1. Will display the player joined message in a notification
+Bool.
+- 0 =
+- 1 =
 
 ### "ShowPlayerLeftServer"
-Bool. If set to 1, notify the player who left the server.
+Bool.
+- 0 =
+- 1 =
 
 ### "LeftMessageType"
-Integer. with 2 modes :
-
-0. Will display the player left message in the globalchat
-1. Will display the player left message in a notification
+Bool.
+- 0 =
+- 1 =
 
 ### "ShowAirdropStarted"
-Bool. If set to 1, will notify the player a airdrop just started.
+Bool.
+- 0 =
+- 1 =
 
 ### "ShowAirdropClosingOn"
-Bool. If set to 1, will notify the player a airdrop is getting closer.
+Bool.
+- 0 =
+- 1 =
 
 ### "ShowAirdropDropped"
-Bool. If set to 1, will notify the player a airdrop dropped the package.
+Bool.
+- 0 =
+- 1 =
 
 ### "ShowPlayerAirdropStarted"
-Bool. If set to 1, will notify the player a airdrop called by a player just started.
+Bool.
+- 0 =
+- 1 =
 
 ### "ShowPlayerAirdropClosingOn"
-Bool. If set to 1, will notify the player a airdrop called by a player is getting closer.
+Bool.
+- 0 =
+- 1 =
 
 ### "ShowPlayerAirdropDropped"
-Bool. If set to 1, will notify the player a airdrop called by a player dropped the package.
+Bool.
+- 0 =
+- 1 =
 
 ### "ShowTerritoryNotifications"
-Bool. If set to 1, will notify the player he entered/left a territory.
+Bool.
+- 0 =
+- 1 =
 
 ### "EnableKillFeed"
-Bool. If set to 1, notify the player of whom got killed and how.
+Bool.
+- 0 =
+- 1 =
 
 ### "KillFeedMessageType"
-Integer. with 2 modes :
+Bool.
+- 0 =
+- 1 =
 
-0. Will display the player left message in the globalchat
-1. Will display the player left message in a notification
+### "KillFeedFall"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedCarHitDriver"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedCarHitNoDriver"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedCarCrash"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedCarCrashCrew"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedHeliHitDriver"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedHeliHitNoDriver"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedHeliCrash"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedHeliCrashCrew"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedBoatCrash"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedBoatCrashCrew"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedBarbedWire"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedFire"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedSpecialExplosion"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedWeaponExplosion"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedDehydration"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedStarvation"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedBleeding"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedSuicide"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedWeapon"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedMeleeWeapon"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedBarehands"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedInfected"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedAnimal"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedKilledUnknown"
+Bool.
+- 0 =
+- 1 =
+
+### "KillFeedDiedUnknown"
+Bool.
+- 0 =
+- 1 =
 
 ### "EnableKillFeedDiscordMsg"
-Bool. If set to 1, display the killfeed messages on a discord hook. A guide will be made later.
-
-### "ShowVehicleDebugMarkers"
 Bool.
-- 0 = Will not do what 1 do and instead do nothing.
-- 1 = Every vehicles on the map will have a marker displayed on the map on their position.
+- 0 =
+- 1 =
 
 # Raw file
 
