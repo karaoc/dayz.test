@@ -24,11 +24,6 @@ Integer. The max amount of members allowed per territories. If <= 0, unlimited t
 ### "MaxTerritoryPerPlayer"
 Integer. The max amount of territories allowed per player. If <= 0, unlimited territory allowed.
 
-### "ShowVehicleDebugMarkers"
-Bool.
-- 0 =
-- 1 =
-
 # Raw file
 
     {
