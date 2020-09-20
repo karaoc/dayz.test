@@ -24,7 +24,7 @@
 
 - [SafeZoneSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-SafeZoneSettings)
 
-- [SpawnSettings](#SpawnSettings)
+- [SpawnSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-SpawnSettings)
 
 - [TerritorySettings](#TerritorySettings)
 
@@ -32,58 +32,6 @@
 
 
 ***
-
-# SpawnSettings
-
-    {
-        "StartingGear": {
-            "UseStartingGear": 1,
-            "UsingUpperGear": 1,
-            "UsingPantsGear": 0,
-            "UsingBackpackGear": 1,
-            "SpawnBackpacks": [
-                "TaloonBag_Blue",
-                "TaloonBag_Green",
-                "TaloonBag_Orange",
-                "TaloonBag_Violet"
-            ],
-            "UpperGear": [
-                "Rag",
-                "Chemlight_White",
-                "StoneKnife",
-                "Apple"
-            ],
-            "PantsGear": [],
-            "BackpackGear": [
-                "SpaghettiCan",
-                "BakedBeansCan"
-            ]
-        }
-    }
-
-### "UseStartingGear"
-Bool. If enabled, will use the starting gear configured in this file
-
-### "UsingUpperGear"
-Bool. If enabled, use the upper gear configured
-
-### "UsingPantsGear"
-Bool. If enabled, use the pants gear configured
-
-### "UsingBackpackGear"
-Bool. If enabled, use the backpack gear configured
-
-### "SpawnBackpacks"
-Array. list of classnames used for the items spawning inside the backpack
-
-### "UpperGear"
-Array. list of classnames used for the upper gear
-
-### "PantsGear"
-Array. list of classnames used for the pants gear
-
-### "BackpackGear"
-Array. list of classnames used for the backpack gear
 
 # TerritorySettings
 
