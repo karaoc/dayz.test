@@ -3,10 +3,14 @@ Last updated the 20th of September 2020 - [Return to the summary](https://github
 ***
 
 ### "Enabled"
-Bool. Enable Safezone when set to 1.
+Bool.
+- 0 = Safezones will be turned off.
+- 1 = Safezones will be enabled, however they still need to be configured.
 
 ### "EnableVehicleinvincibleInsideSafeZone"
-Bool. When enabled, Vehicle damage is disabled.
+Bool.
+- 0 = Vehicles will take damage even when inside safezones.
+- 1 = Vehicles can't be damaged inside safezones.
 
 ### "FrameRateCheckSafeZoneInMs"
 Integrer. How often in ms the server need to check if the player is inside a Safezone.
