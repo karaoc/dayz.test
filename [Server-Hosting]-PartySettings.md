@@ -15,11 +15,6 @@ Bool.
 - 0 = You can only invite players near you.
 - 1 = You can invite everyone from anywhere regardless of the distance.
 
-### "EnablePartyMembersMapMarkers"
-Bool.
-- 0 = You can't see the position of your teammates on the map UI.
-- 1 = You can see a marker on the position of your teammates on the map UI.
-
 ### "EnablePartyMemberMarker"
 Bool.
 - 0 = You can't see any markers above the head of your teammates (sims style).
@@ -61,7 +56,6 @@ Bool.
         "EnableParties": 1,
         "MaxMembersInParty": 10,
         "UseWholeMapForInviteList": 0,
-        "EnablePartyMembersMapMarkers": 1,
         "EnablePartyMemberMarker": 1,
         "ShowDistanceUnderPartyMembersMarkers": 1,
         "ShowNameOnPartyMembersMarkers": 1,
