@@ -15,18 +15,18 @@ Bool.
 - 0 = You can only invite players near you.
 - 1 = You can invite everyone from anywhere regardless of the distance.
 
-### "EnablePartyMemberMarker"
+### "ShowPartyMember3DMarkers"
 Bool.
 - 0 = You can't see any markers above the head of your teammates (sims style).
 - 1 = You can see a marker above the head of your teammates who joined your party.
 
 ### "ShowDistanceUnderPartyMembersMarkers"
-Bool. Require "EnablePartyMemberMarker" to be set to 1
+Bool. Require "ShowPartyMember3DMarkers" to be set to 1
 - 0 = Players won't be able to see the distance under the PartyMember marker above the head of your teammates.
 - 1 = The distance will be displayed under each PartyMember markers.
 
 ### "ShowNameOnPartyMembersMarkers"
-Bool. Require "EnablePartyMemberMarker" to be set to 1
+Bool. Require "ShowPartyMember3DMarkers" to be set to 1
 - 0 = Players won't be able to see the name under the PartyMember marker above the head of your teammates.
 - 1 = The name will be displayed under each PartyMember markers.
 
