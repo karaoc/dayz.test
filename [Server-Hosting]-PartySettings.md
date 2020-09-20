@@ -56,7 +56,7 @@ Bool.
         "EnableParties": 1,
         "MaxMembersInParty": 10,
         "UseWholeMapForInviteList": 0,
-        "EnablePartyMemberMarker": 1,
+        "ShowPartyMember3DMarkers": 1,
         "ShowDistanceUnderPartyMembersMarkers": 1,
         "ShowNameOnPartyMembersMarkers": 1,
         "EnableQuickMarker": 1,
