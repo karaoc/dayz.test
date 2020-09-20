@@ -7,6 +7,7 @@
 Only the init.c changed
 
 https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/releases/
+
 https://github.com/ExpansionModTeam/DayZ-Expansion-Missions
 
 ## SpawnSettings.json
