@@ -1,6 +1,6 @@
 ### Please think to update your server settings after each updates !
 
-# Update 1.04.1100
+# Update 1.04.1107
 
 ## SpawnSettings.json
 
