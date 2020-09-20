@@ -41,7 +41,7 @@ Please make sure the last } of the loot list doesn't have the , in }, like in th
     {
         "ServerMarkerOnDropLocation": 1,
         "Server3DMarkerOnDropLocation": 1,
-        "ShowAirdropTypeOnMarker": 0,
+        "ShowAirdropTypeOnMarker": 1,
         "Height": 750,
         "Speed": 1500,
         "ItemCount": 50,
