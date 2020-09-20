@@ -63,4 +63,4 @@ The following settings got their name changed !
 | ShowNameOnPartyMembersMarkers | Requested by a Server Owner | 
 | CanCreatePartyMarkers | Because it's easier to config parties if everything related to parties are in the same file | 
 
-To see the complete file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-BaseBuildingSettings#raw-file)
+To see the complete file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-PartySettings#raw-file)
