@@ -54,7 +54,10 @@ The following settings got their name changed !
 | Before | After | Why |
 |---|---|---|
 | MaxInParty | MaxMembersInParty | Goal is to make this setting easier to understand for new users | 
-| ShowPartyMembers3DMarkers | EnablePartyMembersMapMarkers | To follow the same naming format used everywhere |
+
+| Removed| Why |
+|---|---|
+| ShowPartyMembers3DMarkers | Confusing, doesn't do what everyone would expect from this setting |
 
 | Added| Why |
 |---|---|
