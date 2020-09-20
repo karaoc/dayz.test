@@ -68,7 +68,7 @@ Integer.
 
 ### "EnableGenerators" - **CURRENTLY DOESNT WORK**
 Bool. Currently unused 
-- 0 = No generators will be spawned insithe towns and villages.
+- 0 = No generators will be spawned inside the towns and villages.
 - 1 = Will spawn in towns and villages generators for the mode 1 for "EnableLamps".
 
 ### "EnableLighthouses"
