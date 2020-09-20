@@ -1,11 +1,103 @@
 Last updated the 20th of September 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
 
 ***
+### "UseCustomClothing"
+Bool.
+- 0 = The player will spawn with the vanilla default clothing items attached to his character
+- 1 = The player will spawn with the configured clothing items in this file
+
+### "Headgear"
+Array.
+- List of classnames used for the custom clothing.
+
+Need to be headgear attachments/items!
+If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise the item will be selected randomly.
+
+### "Glasses"
+Array.
+- List of classnames used for the custom clothing.
+
+Need to be eyewear attachments/items!
+If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise the item will be selected randomly.
+
+### "Masks"
+Array.
+- List of classnames used for the custom clothing.
+
+Need to be masks attachments/items!
+If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise the item will be selected randomly.
+
+### "Tops"
+Array.
+- List of classnames used for the custom clothing.
+
+Need to be tops/shirts/jackets attachments/items!
+If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise the item will be selected randomly.
+
+### "Vests"
+Array.
+- List of classnames used for the custom clothing.
+
+Need to be vests attachments/items!
+If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise the item will be selected randomly.
+
+### "Gloves"
+Array.
+- List of classnames used for the custom clothing.
+
+Need to be gloves attachments/items!
+If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise the item will be selected randomly.
+
+### "Pants"
+Array.
+- List of classnames used for the custom clothing.
+
+Need to be pants/shorts attachments/items!
+If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise the item will be selected randomly.
+
+### "Belts"
+Array.
+- List of classnames used for the custom clothing.
+
+Need to be belts attachments/items!
+If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise the item will be selected randomly.
+
+### "Shoes"
+Array.
+- List of classnames used for the custom clothing.
+
+Need to be shoes attachments/items!
+If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise the item will be selected randomly.
+
+### "Armbands"
+Array.
+- List of classnames used for the custom clothing.
+
+Need to be armabands attachments/items!
+If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise the item will be selected randomly.
+
+### "Backpacks"
+Array.
+- List of classnames used for the custom clothing.
+
+Need to be backpacks attachments/items!
+If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise the item will be selected randomly.
 
 ### "UseStartingGear"
 Bool.
 - 0 = The player will spawn with the vanilla default gear
-- 1 = The player will spawn with the configured gear in this file.
+- 1 = The player will spawn with the configured gear in this file
 
 ### "UsingUpperGear"
 Bool.
@@ -23,41 +115,70 @@ Bool.
 - 1 = The items from "BackpackGear" will be added into the inventory of the player in his backpack inventory
 
 ### "SpawnBackpacks"
-Array. list of classnames used for the items spawning inside the backpack
+Array. 
+- List of classnames used for the items spawning inside the backpack
 
 ### "UpperGear"
-Array. list of classnames used for the upper gear
+Array. 
+- List of classnames used for the upper gear
 
 ### "PantsGear"
-Array. list of classnames used for the pants gear
+Array. 
+- List of classnames used for the pants gear
 
 ### "BackpackGear"
-Array. list of classnames used for the backpack gear
+Array.
+- List of classnames used for the backpack gear
 
 # Raw file
 
-    {
-        "StartingGear": {
-            "UseStartingGear": 1,
-            "UsingUpperGear": 1,
-            "UsingPantsGear": 0,
-            "UsingBackpackGear": 1,
-            "UpperGear": [],
-            "PantsGear": [],
-            "BackpackGear": []
-        },
-        "UseCustomClothing": 1,
-        "StartingClothing": {
-            "Headgear": [],
-            "Glasses": [],
-            "Masks": [],
-            "Tops": [],
-            "Vests": [],
-            "Gloves": [],
-            "Pants": [],
-            "Belts": [],
-            "Shoes": [ ],
-            "Armbands": [],
-            "Backpacks": []
-        }
-    }
+	{
+		"StartingClothing": {
+			"UseCustomClothing": 0,
+			"Headgear": [],
+			"Glasses": [],
+			"Masks": [],
+			"Tops": [
+				"TShirt_Green"
+			],
+			"Vests": [],
+			"Gloves": [],
+			"Pants": [
+				"TrackSuitPants_Black",
+				"TrackSuitPants_Red",
+				"TrackSuitPants_Green"
+			],
+			"Belts": [],
+			"Shoes": [
+				"AthleticShoes_Blue",
+				"AthleticShoes_Grey",
+				"AthleticShoes_Brown",
+				"AthleticShoes_Green",
+				"AthleticShoes_Black"
+			],
+			"Armbands": [],
+			"Backpacks": [
+				"TaloonBag_Blue",
+				"TaloonBag_Green",
+				"TaloonBag_Orange",
+				"TaloonBag_Violet"
+			]
+		},
+		"StartingGear": {
+			"UseStartingGear": 0,
+			"UsingUpperGear": 0,
+			"UsingPantsGear": 0,
+			"UsingBackpackGear": 0,
+			"UpperGear": [
+				"Rag",
+				"Chemlight_White",
+				"StoneKnife",
+				"Apple"
+			],
+			"PantsGear": [],
+			"BackpackGear": [
+				"SpaghettiCan",
+				"BakedBeansCan"
+			]
+		}
+	}
