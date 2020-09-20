@@ -20,7 +20,7 @@
 
 - [PartySettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-PartySettings)
 
-- [RaidSettings](#RaidSettings)
+- [RaidSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-RaidSettings)
 
 - [SafeZoneSettings](#SafeZoneSettings)
 
@@ -32,23 +32,6 @@
 
 
 ***
-
-# RaidSettings
-
-    {
-        "ExplosionTime": 30,
-        "ExplosiveDamageWhitelist": [
-            "Expansion_C4_Explosion",
-            "Expansion_RPG_Explosion"
-        ],
-        "EnableExplosiveWhitelist": 0,
-        "ExplosionDamageMultiplier": 50,
-        "ProjectileDamageMultiplier": 1,
-        "CanRaidSafes": 1,
-        "SafeExplosionDamageMultiplier": 17,
-        "SafeProjectileDamageMultiplier": 1
-    }
-
 
 ### "ExplosionTime"
 Integer. Time in seconds it takes for a ExpansionExplosiveBase to countdown and detonate.
