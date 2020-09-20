@@ -3,7 +3,7 @@ Last updated the 18th of September 2020 - [Return to the summary](https://github
 ***
 
 ### "ExplosionTime"
-Integer. Time in seconds it takes for a ExpansionExplosiveBase to countdown and detonate.
+Integer. Time in seconds it takes for the ExpansionSatchel to explode.
 
 ### "ExplosiveDamageWhitelist"
 Array of string. Put every classname of the explosive items you want to be able to be used for raiding.
