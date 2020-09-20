@@ -73,7 +73,6 @@ The following settings got their name changed !
 
 | Added| Why |
 |---|---|
-| EnablePartyMemberMarker | To follow the same naming format used | 
 | ShowDistanceUnderPartyMembersMarkers | Requested by a Server Owner | 
 | ShowNameOnPartyMembersMarkers | Requested by a Server Owner | 
 | CanCreatePartyMarkers | Because it's easier to config parties if everything related to parties are in the same file | 
