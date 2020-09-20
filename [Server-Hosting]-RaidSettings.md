@@ -27,9 +27,9 @@ Float. It is a damage multiplier for all explosion type damages to Expansion bas
 Float. It is a damage multiplier for all bullet type damages to Expansion base parts. For example with the default value of 2, a bullet that does 65 damage will do 65 * 2 damage to the wall, so 130.** Less than 1 values work here as well, so 0x will disable damage** to base parts, and .5x will halve them. Note, walls currently have an HP of 30,000.
 
 ### "CanRaidSafes"
-Bool. If set to 1, allow to players to raid expansion safes.
-- 0 = Will not do what 1 do and instead do nothing.
-- 1 = Every vehicles on the map will have a marker displayed on the map on their position.
+Bool.
+- 0 = Players won't be able to destroy Expansion safes.
+- 1 = Allow to players to raid expansion safes.
 
 ### "SafeExplosionDamageMultiplier"
 Float. It is a damage multiplier for all explosion type damages to Expansion base parts. For example with the default value of 50, a grenade that does 50 damage will do 50 * 50 damage to the safe, so 2500. For reference, vanilla grenades do 50 damage, Expansion rockets do 300, and C4 does 600. Less than 1 values work here as well, so 0x will disable damage to base parts, and .5x will halve them. Note, safes currently have 20,000 15,000 and 10,000 HP.
