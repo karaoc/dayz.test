@@ -2,6 +2,13 @@
 
 # Update 1.04.1109
 
+## Mission files
+
+Only the init.c changed
+
+https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/releases/
+https://github.com/ExpansionModTeam/DayZ-Expansion-Missions
+
 ## SpawnSettings.json
 
 Way too much changes, look at this page and copy paste ([click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-SpawnSettings#raw-file))
