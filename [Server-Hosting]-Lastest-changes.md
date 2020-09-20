@@ -24,7 +24,7 @@ The following settings got removed from this file and got moved in another file 
 | NeedGPSItemForKeyBinding | Moved to MapSettings.json to make it easier for new users to find what they are looking for |
 | NeedMapItemForKeyBinding | Moved to MapSettings.json to make it easier for new users to find what they are looking for |
 
-To see the complete file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-BaseBuildingSettings#raw-file)
+To see the complete file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-GeneralSettings#raw-file)
 
 ## MapSettings.json
 
@@ -45,7 +45,7 @@ The following setting got renamed
 |---|---|---|
 | ShowServerMarkers | EnableServerMarkers | To follow the same naming format used everywhere | 
 
-To see the complete file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-BaseBuildingSettings#raw-file)
+To see the complete file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-MapSettings#raw-file)
 
 ## PartySettings.json
 
