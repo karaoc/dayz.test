@@ -1,6 +1,3 @@
-# TESTING GROUND PAGE - THIS PAGE IS NOT FINAL
-
-
 ### Please think to update your server settings after each updates !
 
 # Update 1.04.1100
