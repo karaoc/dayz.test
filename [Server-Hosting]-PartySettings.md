@@ -3,28 +3,52 @@ Last updated the 18th of September 2020 - [Return to the summary](https://github
 ***
 
 ### "EnableParties"
-Bool. If enabled, allow players to create parties.
+Bool. 
+- 0 = Players won't be able to create parties.
+- 1 = Allow players to create parties. (Open the book with B and go to the party tab)
 
-### "MaxInParty"
+### "MaxMembersInParty"
 Integrer. Maximum of players allowed in a single party. If <= 0, unlimited party size.
 
 ### "UseWholeMapForInviteList"
-Bool. If enabled, you can invite everyone from anywhere regardless of the distance.
+Bool.
+- 0 = You can only invite players near you.
+- 1 = You can invite everyone from anywhere regardless of the distance.
 
-### "ShowPartyMembers3DMarkers"
-Bool. If enabled, show a 3d marker above the head of your teammates.
+### "EnablePartyMembersMapMarkers"
+Bool.
+- 0 = You can only invite players near you.
+- 1 = You can invite everyone from anywhere regardless of the distance.
 
-### "DistanceForPartyMarkers"
-Integrer. Distance in meters before the 3d marker fade out. Could not go over bubble network distance ~1000 m per default in DayZ
+### "ShowDistanceUnderPartyMembersMarkers"
+Bool.
+- 0 = You can only invite players near you.
+- 1 = You can invite everyone from anywhere regardless of the distance.
+
+### "ShowNameOnPartyMembersMarkers"
+Bool.
+- 0 = You can only invite players near you.
+- 1 = You can invite everyone from anywhere regardless of the distance.
 
 ### "EnableQuickMarker"
-Bool. If set to 1, allow players to use QuickMarkers (act like a ping ingame).
+Bool.
+- 0 = You can only invite players near you.
+- 1 = You can invite everyone from anywhere regardless of the distance.
 
 ### "ShowDistanceUnderQuickMarkers"
-Bool. If set to 1, show the distance between you and your quickmarker.
+Bool.
+- 0 = You can only invite players near you.
+- 1 = You can invite everyone from anywhere regardless of the distance.
 
 ### "ShowNameOnQuickMarkers"
-Bool. If set to 1, show the name of the user under the quickmarker.
+Bool.
+- 0 = You can only invite players near you.
+- 1 = You can invite everyone from anywhere regardless of the distance.
+
+### "CanCreatePartyMarkers"
+Bool.
+- 0 = You can only invite players near you.
+- 1 = You can invite everyone from anywhere regardless of the distance.
 
 # Raw file
 
