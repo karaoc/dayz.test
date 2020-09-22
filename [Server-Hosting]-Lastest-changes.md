@@ -10,6 +10,28 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/releases/
 
 https://github.com/ExpansionModTeam/DayZ-Expansion-Missions
 
+	/**@class		CustomExpansionMission
+	* @brief		This class handle expansion serverside mission
+	**/
+	class CustomMission: MissionServer
+	{	
+		override void OnInit()
+		{
+			ExpansionMissionModule missionModule;
+			if ( Class.CastTo( missionModule, GetModuleManager().GetModule( ExpansionMissionModule ) ) )
+			{
+				missionModule.SetMissionConstructor( COMMissionConstructor );
+			}
+
+			super.OnInit();
+		}
+	}
+
+	Mission CreateCustomMission(string path)
+	{
+		return new CustomMission();
+	}
+
 ## SpawnSettings.json
 
 Way too much changes, look at this page and copy paste ([click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-SpawnSettings#raw-file))
