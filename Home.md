@@ -54,7 +54,6 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 * Gravecross
 * KillFeed
 * Notifications
-* Gravecross
 * Horn
 * Autorun
 * No stamina
