@@ -106,30 +106,79 @@ Since this is currently the last setting you don't need the comma at the end !
 # Raw file
 
     {
-        "CanBuildAnywhere": 1,
-        "AllowBuildingWithoutATerritory": 1,
-        "DeployableOutsideATerritory": [
-            "ExpansionSatchel",
-            "Fireplace",
-            "TerritoryFlagKit"
-        ],
-        "DeployableInsideAEnemyTerritory": [
-            "ExpansionSatchel",
-            "LandMineTrap",
-            "BearTrap"
-        ],
-        "CanCraftVanillaBasebuilding": 0,
-        "CanCraftExpansionBasebuilding": 1,
-        "DestroyFlagOnDismantle": 1,
-        "DismantleFlagRequireTools": 1,
-        "DismantleOutsideTerritory": 0,
-        "DismantleAnywhere": 0,
-        "CodeLockLength": 4,
-        "DoDamageWhenEnterWrongCodeLock": 1,
-        "DamageWhenEnterWrongCodeLock": 10,
-        "CanCraftTerritoryFlagKit": 1,
-        "SimpleTerritory": 1,
-        "AutomaticFlagOnCreation": 1,
-        "EnableFlagMenu": 1,
-        "GetTerritoryFlagKitAfterBuild": 0
+        "StartingClothing": {
+            "EnableCustomClothing": 1,
+            "SetRandomHealth": 1,
+            "Headgear": [],
+            "Glasses": [],
+            "Masks": [],
+            "Tops": [
+                "TShirt_Green",
+                "TShirt_Blue",
+                "TShirt_Black",
+                "TShirt_Beige",
+                "TShirt_Red",
+                "TShirt_OrangeWhiteStripes",
+                "TShirt_White",
+                "TShirt_Red",
+                "TShirt_Grey",
+                "TShirt_RedBlackStripes"
+            ],
+            "Vests": [],
+            "Gloves": [],
+            "Pants": [
+                "CanvasPants_Beige",
+                "CanvasPants_Blue",
+                "CanvasPants_Grey",
+                "CanvasPants_Red",
+                "CanvasPants_Violet",
+                "CanvasPantsMidi_Beige",
+                "CanvasPantsMidi_Blue",
+                "CanvasPantsMidi_Grey",
+                "CanvasPantsMidi_Red",
+                "CanvasPantsMidi_Violet"
+            ],
+            "Belts": [],
+            "Shoes": [
+                "AthleticShoes_Blue",
+                "AthleticShoes_Grey",
+                "AthleticShoes_Brown",
+                "AthleticShoes_Green",
+                "AthleticShoes_Black"
+            ],
+            "Armbands": [],
+            "Backpacks": [
+                "TaloonBag_Blue",
+                "TaloonBag_Green",
+                "TaloonBag_Orange",
+                "TaloonBag_Violet"
+            ]
+        },
+        "StartingGear": {
+            "EnableStartingGear": 1,
+            "UseUpperGear": 1,
+            "UsePantsGear": 0,
+            "UseBackpackGear": 1,
+            "UseVestGear": 0,
+            "UsePrimaryWeapon": 0,
+            "UseSecondaryWeapon": 0,
+            "UpperGear": [
+                "Rag",
+                "StoneKnife",
+                "Apple"
+            ],
+            "PantsGear": [],
+            "BackpackGear": [
+                "SpaghettiCan",
+                "BakedBeansCan",
+                "Chemlight_White"
+            ],
+            "VestGear": [],
+            "PrimaryWeapon": "",
+            "PrimaryWeaponAttachments": [],
+            "SecondaryWeapon": "",
+            "SecondaryWeaponAttachments": [],
+            "ApplyEnergySources": 1,
+            "SetRandomHealth": 1
+        }
     }
