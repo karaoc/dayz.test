@@ -1,8 +1,29 @@
 Last updated the 20th of September 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
 
-I will update the documentation later today after the update. - LieutenantMaster
-
 ***
+
+This file have been updated with the lastest update. I will do a complete documentation update later. But I still want to give you something to help you a bit. Here are the dev comments we have to explain this settings on our side : 
+
+    StartingClothing:
+    "UseCustomClothing" renamed to "EnableCustomClothing"
+    New setting "SetRandomHeath" // When enabled it will add random damage to the clothing items with that a player spawn.
+
+    StartingGear:
+    "UseStartingGear" renamed to "EnableStartingGear"
+    "UseingUpperGear" renamed to "UseUpperGear"
+    "UseingPantsGear" renamed to "UsePantsGear"
+    "UseingBackpackGear" renamed to "UseBackpackGear"
+    New setting bool "UsePrimaryWeapon" // When enabled player will spawn with the primary weapon configured in the PrimaryWeapon string.
+    New setting bool "UseSecondaryWeapon" // When enabled player will spawn with the primary weapon configured in the SecondaryWeapon string.
+    New setting bool "UseVestGear" // When enabled player will spawn with the gear configured in the VestGear string array.
+    New setting string array "VestGear" // String array for items that get spawned into the players vest.
+    New setting "PrimaryWeapon" // String for the item that get spawned into the players primary weapon slot.
+    New setting "PrimaryWeaponAttachments" // String array for attachments that get attached to the players primary weapon.
+    New setting "SecondaryWeapon" // String for the item that get spawned into the players shoulder slot.
+    New setting "SecondaryWeaponAttachments" // String array for attachments that get attached to the players secondary weapon.
+    New setting "ApplyEnergySources" // If enabled then all items that need a V9 batterie in players inventory a batterie attached.
+    New setting "SetRandomHeath" // When enabled it will add random damage to the gear items with that a player spawn.
+
 ### "UseCustomClothing"
 Bool.
 - 0 = The player will spawn with the vanilla default clothing items attached to his character
