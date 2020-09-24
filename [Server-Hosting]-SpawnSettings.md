@@ -158,7 +158,7 @@ Array.
     {
         "StartingClothing": {
             "EnableCustomClothing": 1,
-            "SetRandomHeath": 1,
+            "SetRandomHealth": 1,
             "Headgear": [],
             "Glasses": [],
             "Masks": [],
@@ -229,6 +229,6 @@ Array.
             "SecondaryWeapon": "",
             "SecondaryWeaponAttachments": [],
             "ApplyEnergySources": 1,
-            "SetRandomHeath": 1
+            "SetRandomHealth": 1
         }
     }
