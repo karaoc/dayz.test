@@ -2,7 +2,7 @@ Last updated the 20th of September 2020 - [Return to the summary](https://github
 
 ***
 
-This file have been updated with the lastest update. I will do a complete documentation update later. But I still want to give you something to help you a bit. Here are the dev comments we have to explain this settings on our side : 
+This file has been updated with the latest update. I will do a complete documentation update later. But I still want to give you something to help you a bit. Here are the dev comments we have to explain these settings on our side : 
 
     StartingClothing:
     "UseCustomClothing" renamed to "EnableCustomClothing"
@@ -16,14 +16,15 @@ This file have been updated with the lastest update. I will do a complete docume
     New setting bool "UsePrimaryWeapon" // When enabled player will spawn with the primary weapon configured in the PrimaryWeapon string.
     New setting bool "UseSecondaryWeapon" // When enabled player will spawn with the primary weapon configured in the SecondaryWeapon string.
     New setting bool "UseVestGear" // When enabled player will spawn with the gear configured in the VestGear string array.
-    New setting string array "VestGear" // String array for items that get spawned into the players vest.
-    New setting "PrimaryWeapon" // String for the item that get spawned into the players primary weapon slot.
-    New setting "PrimaryWeaponAttachments" // String array for attachments that get attached to the players primary weapon.
-    New setting "SecondaryWeapon" // String for the item that get spawned into the players shoulder slot.
-    New setting "SecondaryWeaponAttachments" // String array for attachments that get attached to the players secondary weapon.
+    New setting string array "VestGear" // String array for items that get spawned into the player's vest.
+    New setting "PrimaryWeapon" // String for the item that gets spawned into the player's primary weapon slot.
+    New setting "PrimaryWeaponAttachments" // String array for attachments that get attached to the player's primary weapon.
+    New setting "SecondaryWeapon" // String for the item that gets spawned into the player's shoulder slot.
+    New setting "SecondaryWeaponAttachments" // String array for attachments that get attached to the player's secondary weapon.
     New setting "ApplyEnergySources" // If enabled then all items that need a V9 batterie in players inventory a batterie attached.
     New setting "SetRandomHeath" // When enabled it will add random damage to the gear items with that a player spawn.
 
+# StartingClothing:
 ### "UseCustomClothing"
 Bool.
 - 0 = The player will spawn with the vanilla default clothing items attached to his character
@@ -31,91 +32,91 @@ Bool.
 
 ### "Headgear"
 Array.
-- List of classnames used for the custom clothing.
+- List of class names used for the custom clothing.
 
 Need to be headgear attachments/items!
-If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
-otherwise the item will be selected randomly.
+If the array only contains one item class name it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise, the item will be selected randomly.
 
 ### "Glasses"
 Array.
-- List of classnames used for the custom clothing.
+- List of class names used for the custom clothing.
 
 Need to be eyewear attachments/items!
-If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
-otherwise the item will be selected randomly.
+If the array only contains one item class name it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise, the item will be selected randomly.
 
 ### "Masks"
 Array.
-- List of classnames used for the custom clothing.
+- List of class names used for the custom clothing.
 
-Need to be masks attachments/items!
-If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
-otherwise the item will be selected randomly.
+Need to masks attachments/items!
+If the array only contains one item class name it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise, the item will be selected randomly.
 
 ### "Tops"
 Array.
-- List of classnames used for the custom clothing.
+- List of class names used for custom clothing.
 
-Need to be tops/shirts/jackets attachments/items!
-If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
-otherwise the item will be selected randomly.
+Need to be top/shirts/jackets attachments/items!
+If the array only contains one item class name it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise, the item will be selected randomly.
 
 ### "Vests"
 Array.
-- List of classnames used for the custom clothing.
+- List of class names used for the custom clothing.
 
 Need to be vests attachments/items!
-If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
-otherwise the item will be selected randomly.
+If the array only contains one item class name it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise, the item will be selected randomly.
 
 ### "Gloves"
 Array.
-- List of classnames used for the custom clothing.
+- List of class names used for the custom clothing.
 
 Need to be gloves attachments/items!
-If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
-otherwise the item will be selected randomly.
+If the array only contains one item class name it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise, the item will be selected randomly.
 
 ### "Pants"
 Array.
-- List of classnames used for the custom clothing.
+- List of class names used for the custom clothing.
 
 Need to be pants/shorts attachments/items!
-If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
-otherwise the item will be selected randomly.
+If the array only contains one item class name it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise, the item will be selected randomly.
 
 ### "Belts"
 Array.
-- List of classnames used for the custom clothing.
+- List of class names used for the custom clothing.
 
-Need to be belts attachments/items!
-If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
-otherwise the item will be selected randomly.
+Need to be belt attachments/items!
+If the array only contains one item class name it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise, the item will be selected randomly.
 
 ### "Shoes"
 Array.
-- List of classnames used for the custom clothing.
+- List of class names used for the custom clothing.
 
 Need to be shoes attachments/items!
-If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
-otherwise the item will be selected randomly.
+If the array only contains one item class name it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise, the item will be selected randomly.
 
 ### "Armbands"
 Array.
-- List of classnames used for the custom clothing.
+- List of class names used for the custom clothing.
 
-Need to be armabands attachments/items!
-If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
-otherwise the item will be selected randomly.
+Need to be armbands attachments/items!
+If the array only contains one item class name it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise, the item will be selected randomly.
 
 ### "Backpacks"
 Array.
-- List of classnames used for the custom clothing.
+- List of class names used for the custom clothing.
 
 Need to be backpacks attachments/items!
-If the array only contains one item classname it the characters will always spawn with this item when "UseCustomClothing" is enabled
-otherwise the item will be selected randomly.
+If the array only contains one item class name it the characters will always spawn with this item when "UseCustomClothing" is enabled
+otherwise, the item will be selected randomly.
 
 ### "UseStartingGear"
 Bool.
@@ -139,19 +140,19 @@ Bool.
 
 ### "SpawnBackpacks"
 Array. 
-- List of classnames used for the items spawning inside the backpack
+- List of class names used for the items spawning inside the backpack
 
 ### "UpperGear"
 Array. 
-- List of classnames used for the upper gear
+- List of class names used for the upper gear
 
 ### "PantsGear"
 Array. 
-- List of classnames used for the pants gear
+- List of class names used for the pants gear
 
 ### "BackpackGear"
 Array.
-- List of classnames used for the backpack gear
+- List of class names used for the backpack gear
 
 # Raw file
 
