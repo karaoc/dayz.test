@@ -50,7 +50,8 @@ Bool.
 - 1 = You won't get your flag kit back after dismantling.
 
 ### "DismantleFlagRequireTools"
-Bool.
+Integrer.
+- -1 = Only territory members can dismantle the flag pole.
 - 0 = You can dismantle the flag pole with your hands.
 - 1 = You need tools to dismantle the flag pole.
 
