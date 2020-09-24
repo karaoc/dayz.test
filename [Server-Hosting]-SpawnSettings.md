@@ -145,11 +145,11 @@ Array.
                 "TShirt_Black",
                 "TShirt_Beige",
                 "TShirt_Red",
-                "TShirt_OrangeWhiteStipes",
+                "TShirt_OrangeWhiteStripes",
                 "TShirt_White",
                 "TShirt_Red",
                 "TShirt_Grey",
-                "TShirt_RedBlackStipes"
+                "TShirt_RedBlackStripes"
             ],
             "Vests": [],
             "Gloves": [],
