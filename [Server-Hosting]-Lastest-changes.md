@@ -2,6 +2,8 @@
 
 # Update 1.04.11XX
 
+You can download the server setting files from this link : https://github.com/ExpansionModTeam/DayZ-Expansion-Settings
+
 ## Mission files
 
 Only the init.c changed
