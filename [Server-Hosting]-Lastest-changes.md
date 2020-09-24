@@ -8,7 +8,7 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Settings
 
 ## Mission files
 
-Only the init.c changed
+Only the init.c changed (and the 109_lifetimes.xml but this is optionnal, if you don't use it, you don't need to worry)
 
 https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/releases/
 
