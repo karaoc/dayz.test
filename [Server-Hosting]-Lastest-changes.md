@@ -1,6 +1,6 @@
 ### Please think to update your server settings after each updates !
 
-# Update 1.04.11XX
+# Update 1.04.111X
 
 You can download the server setting files from this link : 
 
