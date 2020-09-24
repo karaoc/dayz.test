@@ -14,6 +14,11 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/releases/
 
 https://github.com/ExpansionModTeam/DayZ-Expansion-Missions
 
+	class CustomMission: MissionServer
+	{	
+		Everything inside this class have been changed (for compatiblity with other mods)
+	}
+
 ## SpawnSettings.json
 
 Way too much changes, look at this page and copy paste ([click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-SpawnSettings#raw-file))
