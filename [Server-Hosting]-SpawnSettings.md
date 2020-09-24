@@ -25,10 +25,15 @@ This file has been updated with the latest update. I will do a complete document
     New setting "SetRandomHeath" // When enabled it will add random damage to the gear items with that a player spawn.
 
 # StartingClothing:
-### "UseCustomClothing"
+### "EnableCustomClothing"
 Bool.
 - 0 = The player will spawn with the vanilla default clothing items attached to his character
 - 1 = The player will spawn with the configured clothing items in this file
+
+### "SetRandomHealth"
+Bool.
+- 0 = All the clothing items with that the player spawns are in a pristine condition
+- 1 = All the clothing items with that the player spawns are in a random condition
 
 ### "Headgear"
 Array.
@@ -118,41 +123,93 @@ Need to be backpacks attachments/items!
 If the array only contains one item class name it the characters will always spawn with this item when "UseCustomClothing" is enabled
 otherwise, the item will be selected randomly.
 
-### "UseStartingGear"
-Bool.
-- 0 = The player will spawn with the vanilla default gear
-- 1 = The player will spawn with the configured gear in this file
 
-### "UsingUpperGear"
+# StartingGear
+### "EnableStartingGear"
 Bool.
-- 0 = The "UpperGear" will not be used. Nothing from this list will spawn
-- 1 = The items from "UpperGear" will be added into the inventory of the player in his Upper inventory (shirt inventory)
+- 0 = The player will spawn with the vanilla default gear.
+- 1 = The player will spawn with the configured gear in this file.
 
-### "UsingPantsGear"
+### "UseUpperGear"
 Bool.
-- 0 = The "PantsGear" will not be used. Nothing from this list will spawn
-- 1 = The items from "PantsGear" will be added into the inventory of the player in his Pant inventory
+- 0 = The "UpperGear" will not be used. Nothing from this list will spawn on the player character.
+- 1 = The items from "UpperGear" will be added into the inventory of the player in his Upper inventory (shirt inventory).
 
-### "UsingBackpackGear"
+### "UsePantsGear"
 Bool.
-- 0 = The "BackpackGear" will not be used. Nothing from this list will spawn
-- 1 = The items from "BackpackGear" will be added into the inventory of the player in his backpack inventory
+- 0 = The "PantsGear" will not be used. Nothing from this list will spawn on the player character.
+- 1 = The items from "PantsGear" will be added into the inventory of the player in his Pant inventory.
 
-### "SpawnBackpacks"
-Array. 
-- List of class names used for the items spawning inside the backpack
+### "UseBackpackGear"
+Bool.
+- 0 = The "BackpackGear" will not be used. Nothing from this list will spawn on the player character.
+- 1 = The items from "BackpackGear" will be added into the inventory of the player in his backpack inventory.
+
+### "UseVestGear"
+Bool.
+- 0 = The "VestGear" will not be used. Nothing from this list will spawn on the player character.
+- 1 = The items from "VestGear" will be added into the inventory of the player in his vest inventory.
+
+### "UseVestGear"
+Bool.
+- 0 = The "VestGear" will not be used. Nothing from this list will spawn on the player character.
+- 1 = The items from "VestGear" will be added into the inventory of the player in his vest inventory.
+
+### "UsePrimaryWeapon"
+Bool.
+- 0 = The "PrimaryWeapon" will not be used. Player will not spawn with a primary weapon.
+- 1 = The item defined at "PrimaryWeapon" will be added into the inventory of the player in his primary weapon slot.
+
+### "UseSecondaryWeapon"
+Bool.
+- 0 = The "SecondaryWeapon" will not be used. Player will not spawn with a secondary weapon.
+- 1 = The item defined at "SecondaryWeapon" will be added into the inventory of the player in his secondary weapon slot.
 
 ### "UpperGear"
 Array. 
-- List of class names used for the upper gear
+- List of class names used for the upper gear.
 
 ### "PantsGear"
 Array. 
-- List of class names used for the pants gear
+- List of class names used for the pants gear.
 
 ### "BackpackGear"
 Array.
-- List of class names used for the backpack gear
+- List of class names used for the backpack gear.
+
+### "VestGear"
+Array.
+- List of class names used for the vest gear.
+
+### "PrimaryWeapon"
+Array.
+- Item that gets attached to the player's primary weapon slot. Need to be a Fire- or Meele Weapon like an Axe.
+
+### "PrimaryWeaponAttachments"
+Array.
+- List of class names used for the primary weapon.
+These items get attached to the player's primary weapon defined in the "PrimaryWeapon" config.
+Make sure the attachments fit on this weapon. If this weapon is a melee weapon it cant fit any attachments!
+
+### "SecondaryWeapon"
+Array.
+- Item that gets attached to the player's secondary weapon slot. Need to be a Fire- or Meele Weapon like an Axe.
+
+### "SecondaryWeaponAttachments"
+Array.
+- List of class names used for the secondary weapon.
+These items get attached to the player's secondary weapon defined in the "SecondaryWeapon" config.
+Make sure the attachments fit on this weapon. If this weapon is a melee weapon it cant fit any attachments!
+
+### "ApplyEnergySources"
+Bool.
+- 0 = Nothing happens here.
+- 1 = All gear items with that the player character spawned get a V9 batterie when they can fit and need one,
+
+### "SetRandomHealth"
+Bool.
+- 0 = All the gear items with that the player spawns are in a pristine condition.
+- 1 = All the gear items with that the player character spawned are in a random condition.
 
 # Raw file
 
