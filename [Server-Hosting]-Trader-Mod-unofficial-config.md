@@ -2,7 +2,7 @@
 
 # WARNING !
 
-This config haven't been done by anyone from the Expansion Team. **This is NOT official**
+This config is not up to date and **is NOT official**. If anyone among the community want to share their own trader config we have no issues sharing it there. Same for trader mapping.
 
 ## TraderConfig.txt
 
