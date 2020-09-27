@@ -26,11 +26,4 @@ Integer. The max amount of territories allowed per player. If <= 0, unlimited te
 
 # Raw file
 
-    {
-        "EnableTerritories": 1,
-        "UseWholeMapForInviteList": 0,
-        "TerritorySize": 150,
-        "TerritoryPerimeterSize": 150,
-        "MaxMembersInTerritory": 10,
-        "MaxTerritoryPerPlayer": 1
-    }
+https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/blob/master/TerritorySettings.json
