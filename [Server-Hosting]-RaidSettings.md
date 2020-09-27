@@ -39,16 +39,4 @@ Float. It is a damage multiplier for all bullet type damages to Expansion base p
 
 # Raw file
 
-    {
-        "ExplosionTime": 30,
-        "ExplosiveDamageWhitelist": [
-            "Expansion_C4_Explosion",
-            "Expansion_RPG_Explosion"
-        ],
-        "EnableExplosiveWhitelist": 0,
-        "ExplosionDamageMultiplier": 50,
-        "ProjectileDamageMultiplier": 1,
-        "CanRaidSafes": 1,
-        "SafeExplosionDamageMultiplier": 17,
-        "SafeProjectileDamageMultiplier": 1
-    }
+https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/blob/master/RaidSettings.json
