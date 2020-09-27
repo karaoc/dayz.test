@@ -27,7 +27,7 @@ Now go to `\Profile (or config)\ExpansionMod\Missions` and create a file with th
 
 Inside your NameOfMyCustomAirdrop.json file you just created copy and paste the following lines :
 
-        {
+    {
         "Enabled": 1,
         "Weight": 150,
         "MissionMaxTime": 1200,
