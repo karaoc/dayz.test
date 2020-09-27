@@ -9,6 +9,4 @@ Bool.
 
 # Raw file
 
-    {
-        "ShowVehicleDebugMarkers": 0
-    }
+https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/blob/master/DebugSettings.json
