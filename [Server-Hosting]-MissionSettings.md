@@ -24,20 +24,4 @@ Array. List the missions configured on the server. Currently only used for [aird
 
 # Raw file
 
-    {
-        "Enabled": 1,
-        "TimeBetweenMissions": 3600000,
-        "MinMissions": 0,
-        "MaxMissions": 1,
-        "MinPlayersToStartMissions": 0,
-        "Missions": [
-            {
-                "MissionType": "ExpansionMissionEventAirdrop",
-                "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_NWAF.json"
-            },
-            {
-                "MissionType": "ExpansionMissionEventAirdrop",
-                "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_NWAF.json"
-            }
-        ]
-    }
+https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/blob/master/MissionSettings.json
