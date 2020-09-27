@@ -1,5 +1,7 @@
 ### Please think to update your server settings after each updates !
 
+https://github.com/ExpansionModTeam/DayZ-Expansion-Settings
+
 ## Contents
 
 - [AirdropSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-AirdropSettings)
