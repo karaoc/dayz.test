@@ -72,19 +72,4 @@ Array. Allow server owners to display server markers on the map. See [this tutor
 
 # Raw file
 
-    {
-        "EnableMap": 1,
-        "UseMapOnMapItem": 1,
-        "ShowPlayerPosition": 1,
-        "ShowMapStats": 1,
-        "CanCreateMarker": 1,
-        "CanCreate3DMarker": 1,
-        "CanOpenMapWithKeyBinding": 1,
-        "EnableHUDGPS": 1,
-        "NeedGPSItemForKeyBinding": 1,
-        "NeedMapItemForKeyBinding": 1,
-        "EnableServerMarkers": 1,
-        "ShowNameOnServerMarkers": 1,
-        "ShowDistanceOnServerMarkers": 1,
-        "ServerMarkers": []
-    }
+https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/blob/master/MapSettings.json
