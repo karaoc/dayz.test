@@ -30,10 +30,4 @@ Array.
 
 # Raw file
 
-    {
-        "Enabled": 0,
-        "EnableVehicleinvincibleInsideSafeZone": 1,
-        "FrameRateCheckSafeZoneInMs": 5000,
-        "CircleZones": [],
-        "PolygonZones": []
-    }
+https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/blob/master/SafeZoneSettings.json
