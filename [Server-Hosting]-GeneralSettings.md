@@ -129,32 +129,4 @@ Bool.
 
 # Raw file
 
-    {
-        "PlayerLocationNotifier": 1,
-        "EnableGlobalChat": 1,
-        "EnablePartyChat": 1,
-        "EnableTransportChat": 1,
-        "EnableGravecross": 0,
-        "GravecrossDeleteBody": 1,
-        "GravecrossTimeThreshold": 1200,
-        "Mapping": {
-            "UseCustomMappingModule": 1,
-            "Mapping": [],
-            "ObjectsToDelete": [],
-            "BuildingInteriors": 1,
-            "BuildingIvys": 1
-        },
-        "EnableLamps": 3,
-        "EnableGenerators": 0,
-        "EnableLighthouses": 1,
-        "EnableHUDNightvisionOverlay": 1,
-        "DisableMagicCrosshair": 1,
-        "EnablePlayerTags": 1,
-        "PlayerTagViewRange": 5,
-        "EnablePlayerList": 1,
-        "EnableAutoRun": 1,
-        "UnlimitedStamina": 0,
-        "UseDeathScreen": 1,
-        "UseDeathScreenStatistics": 1,
-        "UseNewsFeedInGameMenu": 1
-    }
+https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/blob/master/GeneralSettings.json
