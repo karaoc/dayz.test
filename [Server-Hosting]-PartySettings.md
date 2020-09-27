@@ -52,15 +52,4 @@ Bool.
 
 # Raw file
 
-    {
-        "EnableParties": 1,
-        "MaxMembersInParty": 10,
-        "UseWholeMapForInviteList": 0,
-        "ShowPartyMember3DMarkers": 1,
-        "ShowDistanceUnderPartyMembersMarkers": 1,
-        "ShowNameOnPartyMembersMarkers": 1,
-        "EnableQuickMarker": 1,
-        "ShowDistanceUnderQuickMarkers": 1,
-        "ShowNameOnQuickMarkers": 1,
-        "CanCreatePartyMarkers": 1
-    }
+https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/blob/master/PartySettings.json
