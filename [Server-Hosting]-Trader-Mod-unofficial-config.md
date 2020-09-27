@@ -1,5 +1,9 @@
 ![DayZ Expansion](https://i.imgur.com/cTbqjAr.png)
 
+# WARNING !
+
+This config haven't been done by anyone from the Expansion Team. **This is NOT official**
+
 ## TraderConfig.txt
 
     <Trader> Aircraft Trader
