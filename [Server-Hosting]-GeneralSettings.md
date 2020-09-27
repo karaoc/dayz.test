@@ -109,7 +109,7 @@ Bool.
 
 ### "UnlimitedStamina"
 Bool.
-- 0 = Vanilla staminae
+- 0 = Vanilla stamina
 - 1 = The stamina will be unlimited but still balanced (aiming, heavy attacks and so on).
 
 ### "UseDeathScreen"
