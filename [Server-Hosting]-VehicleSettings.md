@@ -50,14 +50,4 @@ Bool.
 
 # Raw file
 
-    {
-        "VehicleSync": 1,
-        "VehicleRequireKeyToStart": 1,
-        "VehicleRequireAllDoors": 1,
-        "VehicleLockedAllowInventoryAccess": 0,
-        "VehicleLockedAllowInventoryAccessWithoutDoors": 1,
-        "EnableWindAerodynamics": 1,
-        "EnableTailRotorDamage": 1,
-        "PlayerAttachment": 1,
-        "Towing": 1
-    }
+https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/blob/master/VehicleSettings.json
