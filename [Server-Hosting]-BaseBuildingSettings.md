@@ -105,31 +105,4 @@ Since this is currently the last setting you don't need the comma at the end !
 
 # Raw file
 
-    {
-        "CanBuildAnywhere": 1,
-        "AllowBuildingWithoutATerritory": 1,
-        "DeployableOutsideATerritory": [
-            "ExpansionSatchel",
-            "Fireplace",
-            "TerritoryFlagKit"
-        ],
-        "DeployableInsideAEnemyTerritory": [
-            "ExpansionSatchel",
-            "LandMineTrap",
-            "BearTrap"
-        ],
-        "CanCraftVanillaBasebuilding": 0,
-        "CanCraftExpansionBasebuilding": 1,
-        "DestroyFlagOnDismantle": 1,
-        "DismantleFlagRequireTools": 1,
-        "DismantleOutsideTerritory": 0,
-        "DismantleAnywhere": 0,
-        "CodeLockLength": 4,
-        "DoDamageWhenEnterWrongCodeLock": 1,
-        "DamageWhenEnterWrongCodeLock": 10,
-        "CanCraftTerritoryFlagKit": 1,
-        "SimpleTerritory": 1,
-        "AutomaticFlagOnCreation": 1,
-        "EnableFlagMenu": 1,
-        "GetTerritoryFlagKitAfterBuild": 0
-    }
+https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/blob/master/BaseBuildingSettings.json
