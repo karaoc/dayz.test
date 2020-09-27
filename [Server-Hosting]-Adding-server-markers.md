@@ -118,41 +118,58 @@ The position of the marker in XYZ coordinates.
 ## Some examples !
 
     {
-        "m_UID": "Green Mountain Trader",
-        "m_Visibility": 6,
-        "m_Is3D": 1,
-        "m_Text": "Green Mountain Trader",
-        "m_IconName": "Trader",
-        "m_Color": -13710223,
-        "m_Position": [
-            3697,
-            402.13,
-            5987
-        ]
-    },
-    {
-        "m_UID": "Eastwatch Trader",
-        "m_Visibility": 6,
-        "m_Is3D": 1,
-        "m_Text": "Eastwatch Trader",
-        "m_IconName": "Trader",
-        "m_Color": -13710223,
-        "m_Position": [
-            14303,
-            5,
-            13275
-        ]
-    },
-    {
-        "m_UID": "Black Market Trader",
-        "m_Visibility": 6,
-        "m_Is3D": 1,
-        "m_Text": "Black Market Trader",
-        "m_IconName": "Trader",
-        "m_Color": -13710223,
-        "m_Position": [
-            1362,
-            345,
-            9310
+        "EnableMap": 1,
+        "UseMapOnMapItem": 1,
+        "ShowPlayerPosition": 1,
+        "ShowMapStats": 1,
+        "CanCreateMarker": 1,
+        "CanCreate3DMarker": 1,
+        "CanOpenMapWithKeyBinding": 1,
+        "EnableHUDGPS": 1,
+        "NeedGPSItemForKeyBinding": 1,
+        "NeedMapItemForKeyBinding": 1,
+        "EnableServerMarkers": 1,
+        "ShowNameOnServerMarkers": 1,
+        "ShowDistanceOnServerMarkers": 1,
+        "ServerMarkers": [
+            {
+                "m_UID": "Green Mountain Trader",
+                "m_Visibility": 6,
+                "m_Is3D": 1,
+                "m_Text": "Green Mountain Trader",
+                "m_IconName": "Trader",
+                "m_Color": -13710223,
+                "m_Position": [
+                    3697,
+                    402.13,
+                    5987
+                ]
+            },
+            {
+                "m_UID": "Eastwatch Trader",
+                "m_Visibility": 6,
+                "m_Is3D": 1,
+                "m_Text": "Eastwatch Trader",
+                "m_IconName": "Trader",
+                "m_Color": -13710223,
+                "m_Position": [
+                    14303,
+                    5,
+                    13275
+                ]
+            },
+            {
+                "m_UID": "Black Market Trader",
+                "m_Visibility": 6,
+                "m_Is3D": 1,
+                "m_Text": "Black Market Trader",
+                "m_IconName": "Trader",
+                "m_Color": -13710223,
+                "m_Position": [
+                    1362,
+                    345,
+                    9310
+                ]
+            }
         ]
     }
