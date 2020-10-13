@@ -91,35 +91,41 @@ The hierarchy of the mod we have provided looks like this.
 
 	const string LOADING_SCREENS_PATH = "MyModName/data/CustomLoading";
 	const int LOADING_SCREENS_COUNT = 2;
+
 	modded class LoadingScreen 
 	{
 		override void Show()
 		{
-			for (int i = 0; i < LOADING_SCREENS_COUNT; i++) {
-				m_Backgrounds.Insert(new ExpansionLoadingScreenBackground(LOADING_SCREENS_PATH + (i + 1) + ".edds"));
+			for (int i = 1; i <= LOADING_SCREENS_COUNT; i++) {
+				m_Backgrounds.Insert(new ExpansionLoadingScreenBackground(LOADING_SCREENS_PATH + i + ".edds"));
 			}
+
 			super.Show();
 		}
 	}
+
 	modded class LoginQueueBase 
 	{
 		override Widget Init()
 		{
 			super.Init();
-			for (int i = 0; i < LOADING_SCREENS_COUNT; i++) {
-				m_Backgrounds.Insert(new ExpansionLoadingScreenBackground(LOADING_SCREENS_PATH + (i + 1) + ".edds"));
+			for (int i = 1; i <= LOADING_SCREENS_COUNT; i++) {
+				m_Backgrounds.Insert(new ExpansionLoadingScreenBackground(LOADING_SCREENS_PATH + i + ".edds"));
 			}
+
 			return super.Init();
 		}
 	}
+
 	modded class LoginTimeBase 
 	{
 		override Widget Init()
 		{
 			super.Init();
-			for (int i = 0; i < LOADING_SCREENS_COUNT; i++) {
-				m_Backgrounds.Insert(new ExpansionLoadingScreenBackground(LOADING_SCREENS_PATH + (i + 1) + ".edds"));
+			for (int i = 1; i <= LOADING_SCREENS_COUNT; i++) {
+				m_Backgrounds.Insert(new ExpansionLoadingScreenBackground(LOADING_SCREENS_PATH + i + ".edds"));
 			}
+
 			return super.Init();
 		}
 	}
