@@ -10,6 +10,10 @@ You can download the server setting files from this link :
 
 https://github.com/ExpansionModTeam/DayZ-Expansion-Settings
 
+You can see all the changes in the server settings with this link: 
+
+LINK NOT AVAILABLE
+
 ## Mission files
 
 The lastest mission files are now up to date with dayz 1.10. We have also added back a DayZ pistol, the LongHorn !
