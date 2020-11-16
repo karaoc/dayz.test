@@ -20,6 +20,8 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Missions
 
 ## SpawnSettings.json
 
+TODO EXPLAIN THE ADDITION ABOUT SPAWN SELECTION SETTINGS
+
 To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-SpawnSettings)
 
 ## DebugSettings.json
@@ -62,3 +64,11 @@ To see the complete documentation about this file please [click on this link](ht
 | ShowAirdropEnded | This setting was missing. Now you can hide the notification "The Airdrop at ... was destroyed by infected." |
 
 To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-NotificationSettings)
+
+## BaseBuildingSettings.json
+
+| Added| Why |
+|---|---|
+| CodelockActionsAnywhere | To allow players to interact with the codelock on expansion walls even if they are not looking at the codelock himself |
+
+To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-BaseBuildingSettings)
