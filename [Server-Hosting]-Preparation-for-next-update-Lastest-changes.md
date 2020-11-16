@@ -24,7 +24,12 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Missions
 
 ## SpawnSettings.json
 
-TODO EXPLAIN THE ADDITION ABOUT SPAWN SELECTION SETTINGS
+| Added| Why |
+|---|---|
+| EnableSpawnSelection | To allow servers to disable Expansion Spawn Selection if they don't want to use it |
+| SpawnSelectionScreenMenuID | This setting should allow server hosters to create their own custom menu for the spawn selection |
+| SpawnOnTerritory | To allow servers to let their players respawn inside their bases if they want to |
+| SpawnLocations | Will allow servers to have custom spawn locations and keep them a bit randomized if they want to |
 
 To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-SpawnSettings)
 
