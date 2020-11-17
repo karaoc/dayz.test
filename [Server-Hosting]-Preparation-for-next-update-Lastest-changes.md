@@ -28,6 +28,49 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Missions
 | SpawnOnTerritory | To allow servers to let their players respawn inside their bases if they want to |
 | SpawnLocations | Will allow servers to have custom spawn locations and keep them a bit randomized if they want to |
 
+    "SpawnLocations": [
+        {
+            "Name": "My Location Name",
+            "Positions": [
+                [
+                    100,    |
+                    2,      | Potential spawn 1
+                    50      | If only one Position is set, the player will always spawn at this position
+                ],
+                [
+                    250,    |
+                    2.75,   | Potential spawn 2
+                    100     |
+                ]
+            ]
+        },
+        {
+            "Name": "Berezino",
+            "Positions": [
+                [
+                    12915.7001953125,
+                    3.4000000953674318,
+                    9278.2001953125
+                ],
+                [
+                    13057.2001953125,
+                    2.299999952316284,
+                    9584.48046875
+                ],
+                [
+                    13052.900390625,
+                    6.099999904632568,
+                    9894.7001953125
+                ],
+                [
+                    13207.2001953125,
+                    2.299999952316284,
+                    10193.7001953125
+                ]
+            ]
+        }
+    ]
+
 To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-SpawnSettings)
 
 ## DebugSettings.json
