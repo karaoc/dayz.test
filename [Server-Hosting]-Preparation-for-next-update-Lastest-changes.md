@@ -87,7 +87,7 @@ To see the complete documentation about this file please [click on this link](ht
 | Updated| Added| Why |
 |---|---|---|
 || EnableHelicopterExplosions | This should help servers with the Helicopters Explosions issue until further investigation is done |
-| VehicleSync || This setting is now functionnal. 0 = Server Sync -  1 = Server Prediction - 2 = Player Sync |
+| VehicleSync || This setting is now functional. 0 = Server Sync -  1 = Server Prediction - 2 = Player Sync |
 
 To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-VehicleSettings)
 
