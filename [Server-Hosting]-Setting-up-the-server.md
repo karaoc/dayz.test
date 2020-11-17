@@ -18,7 +18,7 @@ Make sure to launch the 4 mods with this command line if you don't use a panel :
 
 ### start.bat
 
-If you are creating a local server and don't know how or where to add this lines do the following.
+If you are creating a local server (on your computer or on a local machine without omega manager for example) and don't know how or where to add this lines do the following.
 
 Create a txt file and paste inside the file this config lines :
 
@@ -45,7 +45,7 @@ Copy and paste them inside your mpmission folder of your server. You should have
 
 Now go back to the dayz server root directory and open your "**serverDZ.cfg**" config file (if you are on a web provider, make sure you can add custom mission or that you have expert mode enabled).
 
-Inside this file, look for the template and change it to match this screenshot. You can choose to use the non Gloom mission if you want to. Gloom allow for better lighting visuals, this is the only difference ! Oh and won't be supported with dayz 1.08 since gloom will be in the base game.
+Inside this file, look for the template and change it to match this screenshot. You can choose to use the non Gloom mission if you want to. Gloom allow for better lighting visuals, this is the only difference !
 
 ![](https://i.imgur.com/eS46Rtu.png)
 
