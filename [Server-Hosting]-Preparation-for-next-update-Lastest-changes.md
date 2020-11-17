@@ -62,6 +62,22 @@ To see the complete documentation about this file please [click on this link](ht
 |---|---|
 | Interiors | You can now keep custom interiors enabled but only for the buildings you want to |
 
+For example, if you only want custom interiors in industrial and rural buildings you should have a similar result : 
+
+    "Interiors": [
+        "Land_Barn_Brick2",
+        "Land_Barn_Metal_Big",
+        "Land_Barn_Wood2",
+        "Land_BarnMetal_Big_Grey",
+        "Land_Garage_Big",
+        "Land_Garage_Row_Big",
+        "Land_Shed_Closed",
+        "Land_Power_Station",
+        "Land_Rail_Station_Big"
+    ],
+
+Here is a list of all the buildings classnames configured to spawn with a custom interior [click on this link](https://pastebin.com/DbFcM4ZT).
+
 To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-GeneralSettings)
 
 ## NotificationSettings.json
