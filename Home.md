@@ -15,7 +15,7 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 * [Classname List](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5DList-of-the-classnames)
 * [Crafting Guide](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Crafting-Guide)
 * [Basebuilding Guide](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Basebuilding-Guide)
-* PLANNED [Vehicle Guide](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Vehicle-Guide)
+* [Vehicle Guide](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Vehicle-Guide)
 
 ### Server Hosting
 * [Setting up the server](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Setting-up-the-server)
@@ -54,12 +54,12 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 * Gravecross
 * KillFeed
 * Notifications
-* Horn
+* [Horn](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Vehicle-Guide#horn)
 * Autorun
 * No stamina
 * MoreGuns
 * Street lights
-* Car Keys
+* [Car Keys](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Vehicle-Guide#car-keys)
 * CodeLock
 * Map UI and 2D/3D Markers
 * Global/Transport/Party Chat
