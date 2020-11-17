@@ -1,7 +1,4 @@
 ### _**This update is not out. This page is only for preparation !**_
-*
-*
-*
 ### Please think to update your server settings after each updates !
 
 # Update 1.05
@@ -44,9 +41,10 @@ To see the complete documentation about this file please [click on this link](ht
 
 ## VehicleSettings.json
 
-| Added| Why |
-|---|---|
-| EnableHelicopterExplosions | This should help servers with the Helicopters Explosions issue until further investigation is done |
+| Updated| Added| Why |
+|---|---|---|
+|| EnableHelicopterExplosions | This should help servers with the Helicopters Explosions issue until further investigation is done |
+| VehicleSync || This setting is now functionnal ! 0 = SERVER_ONLY -  1 = PREDICTION - 2 = CLIENT |
 
 To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-VehicleSettings)
 
