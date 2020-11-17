@@ -138,3 +138,13 @@ To see the complete documentation about this file please [click on this link](ht
 | CodelockActionsAnywhere | To allow players to interact with the codelock on expansion walls even if they are not looking at the codelock himself |
 
 To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-BaseBuildingSettings)
+
+## BookSettings.json
+
+| Before | After | Added | Why |
+|---|---|---|---|
+||| ItemRequired | Requested by some Roleplay servers. If this setting have a classname in "", the player will need to find this item to open his book|
+||| ItemRequiredLocation | This setting allow server hosters to choose if they want to require the item to be in the hands of the player or not. 0 = required to be in the inventory and 1 = required to be in the hands of the player |
+| RuleCategorys | RuleCategories || Typo in the name, it have been changed this update is a major update. Go inside your booksettings.json and rename setting. |
+
+To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-BookSettings)
