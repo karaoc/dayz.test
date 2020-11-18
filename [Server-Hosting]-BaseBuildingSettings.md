@@ -1,4 +1,4 @@
-Last updated the 18th of September 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
+Last updated the 19th of November 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
 
 
 ***
@@ -60,10 +60,20 @@ Bool.
 - 0 = You cannot dismantle anything outside your own territory.
 - 1 = You can dismantle everything unless if it's inside the territory of someone else.
 
+### "DismantleInsideTerritory"
+Bool.
+- 0 = You cannot dismantle anything outside your own territory.
+- 1 = You can dismantle everything unless if it's inside the territory of someone else.
+
 ### "DismantleAnywhere"
 Bool.
 - 0 = You need to be on the soft side of the object to have the dismantle action.
 - 1 = The dismantle action will be available from anywhere. If you are in the territory of someone else, you won't be able to dismantle.
+
+### "CodelockActionsAnywhere"
+Bool.
+- 0 = You need to look at the codelock to have the interactions with the codelock. (like in vanilla)
+- 1 = You need to look at the wall, door, gate or the codelock to get the interactions with the codelock. (like codelock mod)
 
 ### "CodeLockLength"
 Integer. The length of passwords you can put into your code locks. If you want to only allow 6 digits password in the codelocks set it to 6 for example.
