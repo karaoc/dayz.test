@@ -47,9 +47,9 @@ https://www.youtube.com/watch?v=wkWsDXuGnMU
 
 ### How does it work ?
 
-While in the driver seat of your vehicle, look at the vehicle you want to tow. If all the conditions listed above are correct, you will get the option to "Tow" the vehicle with Left Click (you will see the prompt on the bottom left corner of your screen).
+While in the driver seat of your vehicle, look at the vehicle you want to tow. If all the conditions listed above are correct, you will get the option to "Tow" the vehicle with [F] (you will see the prompt on the bottom left corner of your screen).
 
-To Untow the vehicle, the action will also be with Left click and you will maybe need to use scrollwheel to see the action.
+To Untow the vehicle, the action will also be with [F] and you will maybe need to use scrollwheel to see the action.
 
 ## Horn
 
