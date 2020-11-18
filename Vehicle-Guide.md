@@ -61,7 +61,7 @@ Skins can also have a custom Horn if configured. More will be shared when this s
 
 ## Player Attachement
 
-Waiting for DayZ 1.10 and Expansion Mod 1.05 to start to write this part
+Waiting for the "Vehicle update" from Expansion to start to write this part
 
 ## Troubleshooting
 
