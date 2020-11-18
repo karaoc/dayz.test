@@ -9,7 +9,7 @@ Bool.
 
 ### "DebugVehicleSync"
 Bool.
-- 0 = It's almost 1AM for me and I forgot what they do. I will explain them another time sorry but it's debug stuff
+- 0 = It's almost 1AM for me and I forgot what they do. I will explain them another time sorry but it's debug stuff don't worry about it
 - 1 = 
 
 ### "DebugVehicleTransformSet"
