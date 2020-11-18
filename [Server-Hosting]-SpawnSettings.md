@@ -1,30 +1,8 @@
-Last updated the 22th of September 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
+Last updated the 19th of November 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
 
 ***
 
-This file has been updated with the latest update. I will do a complete documentation update later. But I still want to give you something to help you a bit. Here are the dev comments we have to explain these settings on our side : 
-
-    StartingClothing:
-    "UseCustomClothing" renamed to "EnableCustomClothing"
-    New setting "SetRandomHeath" // When enabled it will add random damage to the clothing items with that a player spawn.
-
-    StartingGear:
-    "UseStartingGear" renamed to "EnableStartingGear"
-    "UseingUpperGear" renamed to "UseUpperGear"
-    "UseingPantsGear" renamed to "UsePantsGear"
-    "UseingBackpackGear" renamed to "UseBackpackGear"
-    New setting bool "UsePrimaryWeapon" // When enabled player will spawn with the primary weapon configured in the PrimaryWeapon string.
-    New setting bool "UseSecondaryWeapon" // When enabled player will spawn with the primary weapon configured in the SecondaryWeapon string.
-    New setting bool "UseVestGear" // When enabled player will spawn with the gear configured in the VestGear string array.
-    New setting string array "VestGear" // String array for items that get spawned into the player's vest.
-    New setting "PrimaryWeapon" // String for the item that gets spawned into the player's primary weapon slot.
-    New setting "PrimaryWeaponAttachments" // String array for attachments that get attached to the player's primary weapon.
-    New setting "SecondaryWeapon" // String for the item that gets spawned into the player's shoulder slot.
-    New setting "SecondaryWeaponAttachments" // String array for attachments that get attached to the player's secondary weapon.
-    New setting "ApplyEnergySources" // If enabled then all items that need a V9 batterie in players inventory a batterie attached.
-    New setting "SetRandomHeath" // When enabled it will add random damage to the gear items with that a player spawn.
-
-# StartingClothing:
+# Starting Clothing:
 ### "EnableCustomClothing"
 Bool.
 - 0 = The player will spawn with the vanilla default clothing items attached to his character
@@ -124,7 +102,7 @@ If the array only contains one item class name it the characters will always spa
 otherwise, the item will be selected randomly.
 
 
-# StartingGear
+# Starting Gear
 ### "EnableStartingGear"
 Bool.
 - 0 = The player will spawn with the vanilla default gear.
@@ -204,12 +182,53 @@ Make sure the attachments fit on this weapon. If this weapon is a melee weapon i
 ### "ApplyEnergySources"
 Bool.
 - 0 = Nothing happens here.
-- 1 = All gear items with that the player character spawned get a V9 batterie when they can fit and need one,
+- 1 = All gear items with that the player character spawned get a V9 batterie when they can fit and need one.
 
 ### "SetRandomHealth"
 Bool.
 - 0 = All the gear items with that the player spawns are in a pristine condition.
 - 1 = All the gear items with that the player character spawned are in a random condition.
+
+# Spawn Selection:
+
+### "EnableSpawnSelection"
+Bool.
+- 0 = Players will spawn randomly on the map like in vanilla.
+- 1 = Players will be able to choose where to spawn on the map according the config done bellow.
+
+### "SpawnSelectionScreenMenuID"
+Integrer. The ID of the menu. If you are a modder, it will allow you to create custom menus.
+
+### "SpawnOnTerritory"
+Bool.
+- 0 = Players can't respawn at their territories.
+- 1 = You can respawn at your territory.
+
+### "SpawnLocations"
+Array. List of spawn locations
+
+### "Name"
+String. The name of the location
+
+### "Positions"
+Array. List of positions
+
+    "SpawnLocations": [
+        {
+            "Name": "My Location Name",
+            "Positions": [
+                [
+                    100,    | Potential spawn 1
+                    2,      | If only one Position is set, the player will always spawn at this position
+                    50      | Also, the first spawn position will be used to create the 2d marker on the map
+                ],
+                [
+                    250,    |
+                    2.75,   | Potential spawn 2
+                    100     |
+                ]
+            ]
+        },
 
 # Raw file
 
