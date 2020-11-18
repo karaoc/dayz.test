@@ -43,8 +43,16 @@ Array. Allow to write multiple paragraph to share informations about the server.
 ### "ServerLogoPath"
 String. Parameter for the logo of the server. Need to be in EDDS format and inside a mod. a url won't work.
 
-### "RuleCategorys"
+### "RuleCategories"
 Array. This where you will organize and list your rules for your server. A guide will be available later.
+
+### "ItemRequired"
+String. If kept empty (like this => "") the player will not require a specific item to open the expansion book (B). However if you add a classname inside the "" the player will require this item to open the expansion book (b).
+
+### "ItemRequiredLocation"
+Bool. 
+- 0 = The player will need this item to be in his inventory. (only if ItemRequired is configured)
+- 1 = The player will need this item to be in his hands.(only if ItemRequired is configured)
 
 # Raw file
 
