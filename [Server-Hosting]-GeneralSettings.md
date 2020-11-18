@@ -1,4 +1,4 @@
-Last updated the 19th of September 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
+Last updated the 19th of November 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
 
 ***
 
@@ -53,6 +53,9 @@ Array. You can indicate the position and the name of a specific mapped object to
 Bool. Have a huge impact on server and player performance !
 - 0 = Interiors won't be filled with new props.
 - 1 = Interiors will be more detailled.
+
+### "Interiors"
+Array. The list of buildings classnames allowed to spawn custom interiors. If you don't want a specific building to spawn custom interiors, just remove his classname from the list.
 
 ### "BuildingIvys"
 Bool. Only work for ChernarusPlus !
