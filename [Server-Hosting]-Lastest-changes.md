@@ -135,6 +135,7 @@ To see the complete documentation about this file please [click on this link](ht
 
 | Added| Why |
 |---|---|
+| DismantleInsideTerritory | Allow raiders to have the dismantle action inside a territory they don't own |
 | CodelockActionsAnywhere | To allow players to interact with the codelock on expansion walls even if they are not looking at the codelock himself |
 
 To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-BaseBuildingSettings)
