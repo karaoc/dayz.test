@@ -92,9 +92,10 @@ To see the complete documentation about this file please [click on this link](ht
 
 ## MapSettings.json
 
-| Added| Why |
-|---|---|
-| NeedPenItemForCreateMarker | Requested by Roleplay servers. If you don't have a pen on you, you won't be able to create markers |
+| Updated | Added | Why |
+|---|---|---|
+|| NeedPenItemForCreateMarker | Requested by Roleplay servers. If you don't have a pen on you, you won't be able to create markers |
+| ShowPlayerPosition || Now this setting can also be set to 2. This mode will require the player to have a compass on him to see his player position |
 
 To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-MapSettings)
 
