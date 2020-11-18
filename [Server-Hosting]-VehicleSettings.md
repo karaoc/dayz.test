@@ -1,12 +1,12 @@
-Last updated the 20th of September 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
+Last updated the 19th of November 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
 
 ***
 
 ### "VehicleSync" - **CURRENTLY DOESNT WORK**
-Integrer. This feature have been disabled until futher improvement will be made
-- 0 =
-- 1 =
-- 2 =
+Integrer.
+- 0 = Vehicles will be simulated by the Server and only the server.
+- 1 = Vehicles will be simulated by the Server prediciting player actions. To make it easy to understand, it's Client and server sync. 
+- 2 = Vehicles will be simulated by the client (player).
 
 ### "VehicleRequireKeyToStart"
 Bool.
@@ -47,6 +47,11 @@ Bool.
 Bool.
 - 0 = Towing is disabled.
 - 1 = Allow cars to tow other cars. Helicopters can tow any types vehicles.
+
+### "EnableHelicopterExplosions"
+Bool.
+- 0 = Helicopters won't explode.
+- 1 = Helicopters can explode.
 
 # Raw file
 
