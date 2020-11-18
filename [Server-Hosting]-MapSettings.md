@@ -1,4 +1,4 @@
-Last updated the 18th of September 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
+Last updated the 19th of November 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
 
 ***
 
@@ -13,14 +13,20 @@ Bool.
 - 1 = The Expansion map UI will be used when using the map item "open map" action.
 
 ### "ShowPlayerPosition"
-Bool.
+In.
 - 0 = The player will not have a marker on his location.
 - 1 = The player will have a marker on the map on his exact location. In short, a "you are here" marker.
+- 2 = The player will have a marker on the map on his exact location if the player have a compass in his inventory or his hands.
 
 ### "ShowMapStats"
 Bool.
 - 0 = The player won't be able to know the XYZ position of a marker.
 - 1 = The player will be able to know the XYZ position of a marker with the marker list of by holding SHIFT when his mouse will be hover a marker on the map.
+
+### "NeedPenItemForCreateMarker"
+Bool.
+- 0 = The player don't need a Pen to create markers on the map.
+- 1 = The player need a Pen in his inventory to create markers on the map.
 
 ### "CanCreateMarker"
 Bool.
