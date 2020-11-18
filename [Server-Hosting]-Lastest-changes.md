@@ -78,6 +78,7 @@ To see the complete documentation about this file please [click on this link](ht
 |---|---|
 | DebugVehicleSync | This setting is for debug purpose only ! |
 | DebugVehicleTransformSet | This setting is for debug purpose only ! |
+| DebugVehiclePlayerNetworkBubbleMode| This setting is for debug purpose only ! |
 
 To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-DebugSettings)
 
