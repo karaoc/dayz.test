@@ -32,9 +32,9 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Missions
             "Name": "My Location Name",
             "Positions": [
                 [
-                    100,    |
-                    2,      | Potential spawn 1
-                    50      | If only one Position is set, the player will always spawn at this position
+                    100,    | Potential spawn 1
+                    2,      | If only one Position is set, the player will always spawn at this position
+                    50      | Also, the first spawn position will be used to create the 2d marker on the map
                 ],
                 [
                     250,    |
