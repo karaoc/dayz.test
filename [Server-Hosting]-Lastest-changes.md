@@ -1,7 +1,5 @@
 ### Please think to update your server settings after each updates !
 
-# Update is not out yet
-
 # Update 1.05.xxxxxx
 
 You can download the server setting files from this link : 
