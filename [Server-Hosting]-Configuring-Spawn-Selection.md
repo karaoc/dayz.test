@@ -25,6 +25,11 @@ Inside this file you should have something similar after scrolling down a bit
                     250,    |
                     2.75,   | Potential spawn 2
                     100     |
+                ],
+                [
+                    X,
+                    Y,
+                    Z
                 ]
             ]
         },
