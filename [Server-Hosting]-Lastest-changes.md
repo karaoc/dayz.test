@@ -1,6 +1,6 @@
 ### Please think to update your server settings after each updates !
 
-**Update is not out yet**
+# Update is not out yet
 
 # Update 1.05.xxxxxx
 
