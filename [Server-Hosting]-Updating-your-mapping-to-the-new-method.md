@@ -6,7 +6,7 @@ You will need the software [Visual Studio Code](https://code.visualstudio.com/)
 
 Once downloaded, create a empty file and paste all your SpawnObject lines inside it.
 
-(you can also use [this software](https://github.com/virtyvoid/DayZPosConv) made by Def)
+(you can also use [this software](https://github.com/virtyvoid/DayZPosConv) made by Def or use the "DayZ Editor" from the workshop)
 
 ![SpawnObject list](https://i.imgur.com/pZV5OPQ.png)
 
