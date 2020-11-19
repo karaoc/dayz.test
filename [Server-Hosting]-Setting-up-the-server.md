@@ -5,6 +5,8 @@
 - [Community-Online-Tools](https://steamcommunity.com/workshop/filedetails/?id=1564026768)
 - [DayZ-Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222)
 - [DayZ-Expansion-Licensed](https://steamcommunity.com/workshop/filedetails/?id=2116157322)
+- [DayZ-Expansion-Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785308)
+- [DayZ-Expansion-Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785437)
 
 Download and install the mods listed above where your server is installed (as shown on the first picture). If you do not know how to get the mods follow the step 1 to 5 but don't go inside the Missions folder ! [Click me to see the tutorial page](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-offline-mode#getting-the-mission)
 
@@ -14,7 +16,7 @@ Inside each mods you should find a "key" folder with a bikey for each mods. Copy
 
 Make sure to launch the 4 mods with this command line if you don't use a panel : 
 
-`-mod=@CF;@Community-Online-Tools;@DayZ-Expansion;@DayZ-Expansion-Licensed`
+`-mod=@CF;@Community-Online-Tools;@DayZ-Expansion-;@DayZ-Expansion-Licensed-DayZ-Expansion-Vehicles-;@DayZ-Expansion-Core-`
 
 ### start.bat
 
@@ -23,7 +25,7 @@ If you are creating a local server (on your computer or on a local machine witho
 Create a txt file and paste inside the file this config lines :
 
 `@echo off
-start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 "-mod=@CF;@Community-Online-Tools;@DayZ-Expansion;@DayZ-Expansion-Licensed" -profiles=.\ServerProfile -netlog`
+start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 "-mod=@CF;@Community-Online-Tools;@DayZ-Expansion-;@DayZ-Expansion-Licensed-DayZ-Expansion-Vehicles-;@DayZ-Expansion-Core-" -profiles=.\ServerProfile -netlog`
 
 And save as MyName.bat !
 
