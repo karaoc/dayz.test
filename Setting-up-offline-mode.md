@@ -8,6 +8,8 @@ All you have to do is to subscribe to the following mods from steam :
 - [Community-Online-Tools](https://steamcommunity.com/workshop/filedetails/?id=1564026768)
 - [DayZ-Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222)
 - [DayZ-Expansion-Licensed](https://steamcommunity.com/workshop/filedetails/?id=2116157322)
+- [DayZ-Expansion-Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785308)
+- [DayZ-Expansion-Vehicles](https://steamcommunity.com/sharedfiles/filedetails/?id=2291785437)
 
 
 
