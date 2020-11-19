@@ -10,7 +10,7 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Settings
 
 You can see all the changes in the server settings with this link: 
 
-LINK NOT AVAILABLE
+https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/commit/9689540d1884918af48709a9b4ef47de8707d1da
 
 ## Mission files
 
