@@ -153,6 +153,7 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 * DT-11
 * AWM
 * Kar 98
+* LongHorn
 
 ### ➤⠀Animals
 
