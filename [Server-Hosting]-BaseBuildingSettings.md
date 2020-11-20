@@ -62,8 +62,8 @@ Bool.
 
 ### "DismantleInsideTerritory"
 Bool.
-- 0 = You cannot dismantle anything outside your own territory.
-- 1 = You can dismantle everything unless if it's inside the territory of someone else.
+- 0 = You cannot dismantle anything inside the territories you don't own.
+- 1 = You can dismantle inside the territory of everyone.
 
 ### "DismantleAnywhere"
 Bool.
