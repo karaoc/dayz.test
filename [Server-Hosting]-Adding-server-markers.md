@@ -50,64 +50,148 @@ This is where you will write the name of your marker !
 
 What Icon will be used for the marker. Good news is, it's easy to know which one to use since they are in the correct order ingame :)
 
-    "Arrow",
-    "Error",
-    "Infected 1",
-    "Infected 2",
-    "Territory",
-    "Drip",
-    "Ear",
-    "Fireplace",
-    "Hook",
-    "Info",
-    "Knife",
-    "Marker",
-    "Menu",
-    "Moon",
-    "Pen",
-    "Persona",
-    "Pill",
-    "Star",
-    "Sun",
-    "Thermometer",
-    "Book 1",
-    "Book 2",
-    "Ellipse",
-    "Grab",
-    "Open Hand",
-    "Map",
-    "Note",
-    "Orientation",
-    "Radio",
-    "Shield",
-    "Snow",
-    "Group",
-    "Infected 2",
-    "Vehicle Crash",
-    "Airdrop",    
-    "Car",                    
-    "Deliver",            
-    "Map Marker",        
-    "Radiation",
-    "Trader",            
-    "Water",            
-    "Infected",
-    "Skull",
-    "Helicopter",
-    "Base",
-    "Boat",
-    "Fishing",
-    "Map Marker 2",
-    "Water 2",
-    "Questionmark",
-    "Person",
-    "Hearth",
-    "Eye",
-    "Claw",
-    "Bear",
-    "Skull 2",
-    "Skull 3",    
+    "Arrow"
+    "Error"
+    "Airdrop"
+    "Car"
+    "Deliver"
+    "Radiation"
+    "Trader"
+    "Water 1"
+    "Water 2"
+    "Infected 1"
+    "Infected 2"
+    "Skull 1"
+    "Skull 2"
+    "Skull 3"
+    "Helicopter"
+    "Base"
+    "Boat"
+    "Fishing"
+    "Territory"
+    "Bear"
+    "Claw"
+    "Drip"
+    "Ear"
+    "Eye"
+    "Fireplace"
+    "Heart"
+    "Hook"
+    "Info"
+    "Knife"
+    "Map"
+    "Marker"
+    "Map Marker"
+    "Orientation"
+    "Menu"
+    "Pen"
+    "Persona"
+    "Pill"
+    "Questionmark"
+    "Moon"
+    "Star"
+    "Sun"
+    "Ellipse"
     "Tent"
+    "Thermometer"
+    "Book 1"
+    "Book 2"
+    "Note"
+    "Grab"
+    "Open Hand"
+    "Radio"
+    "Shield"
+    "Snow"
+    "Group"
+    "Vehicle Crash"
+    "Animal Skull"
+    "Apple"
+    "Apple Core"
+    "Arrows"
+    "Axe"
+    "Backpack"
+    "Bandage"
+    "Batteries"
+    "Berries"
+    "Kitchen Knife Big"
+    "Binoculars"
+    "Bolt"
+    "Bonfire"
+    "Bottle"
+    "Bow"
+    "Broken Lighter"
+    "Can Of Beans Big"
+    "Can Of Beans Small"
+    "Car Keys"
+    "Carrot"
+    "Chain Saw"
+    "Chicken"
+    "Chocolate"
+    "Cigarets"
+    "Cloth"
+    "Compass"
+    "Corn"
+    "Crowbar"
+    "Cow"
+    "Dinosaur Skull"
+    "Dry Wood"
+    "Eatable Flowers"
+    "Electrical Tape"
+    "Empty Can"
+    "Fish"
+    "Flare"
+    "Flare Gun"
+    "Flare Gun Ammo"
+    "Flashlight"
+    "Fox"
+    "Frying Pan"
+    "Gas"
+    "Gas Mask"
+    "Golf Club"
+    "Goose"
+    "Grenade"
+    "Guitar"
+    "Gun"
+    "Gun Bullets"
+    "Hammer"
+    "Herbal Medicine"
+    "Home Made Grenade"
+    "Human Skull"
+    "Insect"
+    "Kitchen Knife"
+    "Ladder"
+    "Lantern"
+    "Lighter"
+    "Machette"
+    "Paper Map"
+    "Matches"
+    "Medic Box"
+    "Mushrooms"
+    "Nails"
+    "Paper"
+    "Pills"
+    "Pipe Wrench"
+    "Powder"
+    "Pumpkin"
+    "Rabbit"
+    "Raccon"
+    "Radio"
+    "Rat"
+    "Rock 1"
+    "Rock 2"
+    "Rope"
+    "Saw"
+    "Scrap Metal"
+    "Screwdriver"
+    "Shotgun"
+    "Shotgun Bullets"
+    "Shovel"
+    "Soda"
+    "Tent Small"
+    "Walkie Talkie"
+    "Water Jug"
+    "Wild Pork"
+    "Worms"
 
 #### m_Color
 
