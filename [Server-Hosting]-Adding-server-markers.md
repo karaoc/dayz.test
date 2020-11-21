@@ -34,7 +34,9 @@ The UID is the unique identity of a marker, this mean it need a unique ID to be 
 
 #### m_Visibility
 
-TODO
+- 0 = Not visible.
+- 2 = Visible on the World (If "m_Is3D" is set to 1, you should probably put "m_Visibility" to 2).
+- 4 = Visible on the Map only.
 
 #### m_Is3D
 
@@ -110,6 +112,8 @@ What Icon will be used for the marker. Good news is, it's easy to know which one
 #### m_Color
 
 The color of the marker, use this [this website to generate the color](https://thurston.pw/public/color.php) you want to apply on your marker !
+
+**Warning** Values you have to enter have to be between 1 and 255. 0 is not a valid option !
 
 #### m_Position
 
