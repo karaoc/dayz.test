@@ -20,7 +20,7 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Missions
 
 ## RaidSettings.json
 
-This setting should be placed at the very end of the file after "SafeProjectileDamageMultiplier"
+This setting should be placed at the very end of the file after "SafeProjectileDamageMultiplier". Also ! This setting only affect Expansion Basebuilding.
 
 | Added| Why |
 |---|---|
