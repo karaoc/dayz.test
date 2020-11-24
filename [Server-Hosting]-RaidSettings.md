@@ -1,4 +1,4 @@
-Last updated the 20th of September 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
+Last updated the 24th of November 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
 
 ***
 
@@ -36,6 +36,12 @@ Float. It is a damage multiplier for all explosion type damages to Expansion bas
 
 ### "SafeProjectileDamageMultiplier"
 Float. It is a damage multiplier for all bullet type damages to Expansion base parts. For example with the default value of 2, a bullet that does 65 damage will do 65 * 2 damage to the safe, so 130. **Less than 1 values work here as well, so 0x will disable damage** to base parts, and .5x will halve them. Note, safes currently have 20,000 15,000 and 10,000 HP.
+
+### "BaseBuildingRaidMode"
+Integrer.
+- 0 = every basebuilding elements can be raided.
+- 1 = only doors/gates.
+- 2 = only doors/gates/windows.
 
 # Raw file
 
