@@ -1,4 +1,4 @@
-Last updated the 19th of November 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
+Last updated the 24th of November 2020 - [Return to the summary](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings/)
 
 
 ***
@@ -102,7 +102,7 @@ Bool.
 - 1 = The flag will be automaticly added to the flag pole.
 
 ### "EnableFlagMenu"
-Int.
+Integrer.
 - 0 = The player will not be able to create a territory.
 - 1 = The player will be able to create a territory to protect his base.
 - 2 = The player will be able to create a territory to protect his base but he won't be able to customize his flag from the flag menu.
