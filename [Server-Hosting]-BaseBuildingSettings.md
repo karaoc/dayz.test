@@ -102,7 +102,7 @@ Bool.
 - 1 = The flag will be automaticly added to the flag pole.
 
 ### "EnableFlagMenu"
-Bool.
+Int.
 - 0 = The player will not be able to create a territory.
 - 1 = The player will be able to create a territory to protect his base.
 - 2 = The player will be able to create a territory to protect his base but he won't be able to customize his flag from the flag menu.
