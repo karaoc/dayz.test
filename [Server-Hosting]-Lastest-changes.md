@@ -27,5 +27,3 @@ This setting generate after "EnableTransportChat" and before "EnableGravecross"
 | DisableShootToUnlock | You can now lock a house and prevent raiders to shoot the door to open it |
 
 To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-GeneralSettings)
-
-To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-BaseBuildingSettings)
