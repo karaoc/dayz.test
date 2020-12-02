@@ -13,7 +13,7 @@ Bool.
 - 1 = The Expansion map UI will be used when using the map item "open map" action.
 
 ### "ShowPlayerPosition"
-In.
+Integrer.
 - 0 = The player will not have a marker on his location.
 - 1 = The player will have a marker on the map on his exact location. In short, a "you are here" marker.
 - 2 = The player will have a marker on the map on his exact location if the player have a compass in his inventory or his hands.
