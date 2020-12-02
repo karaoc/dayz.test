@@ -63,7 +63,7 @@ Bool. Only work for ChernarusPlus !
 - 1 = Custom Ivies in specific locations will be added to the map.
 
 ### "EnableLamps"
-Integer.
+Integrer.
 - 0 = Disabled - The streets lights are off;
 - 1 = Generators - Currently unused. Would require you to fix a generator to make street lights work. - **CURRENTLY DOESNT WORK**
 - 2 = Always On - Street lights are emitting lights but some of them will stay off intentionnaly.
@@ -95,7 +95,7 @@ Bool.
 - 1 = When looking at a player, a "player tag" will be visible. This player tag concist of a icon and the name of the player.
 
 ### "PlayerTagViewRange"
-Integer. The distance requiried to see the player tag. The value is in meters, in other words 5 is 5 meters.
+Integrer. The distance requiried to see the player tag. The value is in meters, in other words 5 is 5 meters.
 
 ### "EnablePlayerList"
 Bool.
