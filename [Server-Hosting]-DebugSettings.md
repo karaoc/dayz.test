@@ -8,19 +8,20 @@ Bool.
 - 1 = Every vehicles on the map will have a marker displayed on the map on their position.
 
 ### "DebugVehicleSync"
-Bool.
-- 0 = It's almost 1AM for me and I forgot what they do. I will explain them another time sorry but it's debug stuff don't worry about it
-- 1 = 
+Integrer.
+- 0 = CLIENT ONLY
+- 1 = ALWAYS
 
 ### "DebugVehicleTransformSet"
-Bool.
-- 0 = 
-- 1 = 
+Integrer.
+- 0 = SET
+- 1 = PHYSICS
 
 ### "DebugVehiclePlayerNetworkBubbleMode"
-Bool.
-- 0 = 
-- 1 = 
+Integrer.
+- 0 = NONE
+- 1 = CREATE
+- 2 = CREATE/DESTROY
 
 # Raw file
 
