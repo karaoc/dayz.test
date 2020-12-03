@@ -14,6 +14,9 @@ SOON
 
 Only minor changes to the mission files. Update them if you want to but **it's not required**.
 
+- Updated Deerisle mission files
+- Added Mission files for Namalsk (COM, Regular, Hardcore)
+
 https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/releases/
 
 https://github.com/ExpansionModTeam/DayZ-Expansion-Missions
