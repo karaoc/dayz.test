@@ -37,6 +37,7 @@ The UID is the unique identity of a marker, this mean it need a unique ID to be 
 - 0 = Not visible.
 - 2 = Visible on the World (If "m_Is3D" is set to 1, you should probably put "m_Visibility" to 2).
 - 4 = Visible on the Map only.
+- 6 = Visible on the Map and on the World (If "m_Is3D" is set to 1, you should probably put "m_Visibility" to 2).
 
 #### m_Is3D
 
