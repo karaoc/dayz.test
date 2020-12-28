@@ -13,11 +13,12 @@
   * Wall Gate 3x3
   * Wall 3x1.5
   * Wall 3x1
-* 2 new Wooden Floors
+* 5 new Wooden Floors
   * Floor 3x3
   * Floor 3x6
-  * Floor HatchDoor 3x6
-  * Floor HatchDoor 6x6
+  * Floor Large Hatch Door 3x6
+  * Floor Large Hatch Door 6x6
+  * Floor Hatch Door 6x6
 * 1 new Wooden Foundation Floor (6x6)
 * 1 new Wooden Ramp
 * 1 new Wooden Pillar
