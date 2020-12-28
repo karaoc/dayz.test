@@ -6,15 +6,35 @@
 ## Carpenter Update
 
 ### New content
-* 6 new Wooden Walls (door, wall, gate, window, 1.5mn 1m)
-* 2 new Wooden Floors (small square and rectangular)
-* 1 new Wooden Foundation Floor (large square)
+* 6 new Wooden Walls
+  * Wall 3x3
+  * Wall Door 3x3
+  * Wall Windows 3x3
+  * Wall Gate 3x3
+  * Wall 3x1.5
+  * Wall 3x1
+* 2 new Wooden Floors
+  * Floor 3x3
+  * Floor 3x6
+  * Floor HatchDoor 3x6
+  * Floor HatchDoor 6x6
+* 1 new Wooden Foundation Floor (6x6)
 * 1 new Wooden Ramp
 * 1 new Wooden Pillar
 * 1 new Metal Pillar
-* 2 new Metal Floors (large square and rectangular)
+* 2 new Metal Floors
+  * Floor 6x6
+  * Floor 3x6
 * Added Pillar Kit
 * Added new BaseBuilding kits you can't craft (for each variants). This is meant for servers balancing BaseBuilding with buyable kits at Traders
+  * Wall6x3kit
+  * Wall3x3kit
+  * Floor6x6kit
+  * Floor3x6kit
+  * Floor3x3kit
+  * Foundation6x6kit
+  * Ramp6x6kit
+  * Ramp3x6kit
 
 ### Improved Snapping
 
