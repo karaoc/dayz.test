@@ -23,7 +23,9 @@
 
 ### And Tons of fixes and other improvements !
 
-* You can now build stairs even if it's burried underground
+* You can now build Stairs even if it's burried underground
+* Wooden Stairs model had various visual fixes
+* Wooden Wall model had various visual fixes
 * You can now see on what side of the wall you are when trying to place the hologram
 
 ## Server Settings
