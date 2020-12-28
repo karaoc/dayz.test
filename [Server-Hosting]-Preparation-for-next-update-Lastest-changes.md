@@ -9,7 +9,7 @@
 * 6 new Wooden Walls
   * Wall 3x3
   * Wall Door 3x3
-  * Wall Windows 3x3
+  * Wall Window 3x3
   * Wall Gate 3x3
   * Wall 3x1.5
   * Wall 3x1
