@@ -3,9 +3,9 @@
 
 # Update 1.06.xxxxx
 
-# BaseBuilding Update
+## BaseBuilding Update
 
-## New content
+### New content
 * 6 new Wooden Walls (door, wall, gate, window, 1.5mn 1m)
 * 2 new Wooden Floors (small square and rectangular)
 * 1 new Wooden Foundation Floor (large square)
@@ -14,15 +14,17 @@
 * 1 new Metal Pillar
 * 2 new Metal Floors (large square and rectangular)
 
-## Improved Snapping
+### Improved Snapping
 
 * Stairs can now snap on a lot more places
 * Ramps can now snap from bottom to top and top to bottom
 
-## And Tons of fixes and other improvements !
+### And Tons of fixes and other improvements !
 
 * You can now build stairs even if it's burried underground
 * You can now see on what side of the wall you are when trying to place the hologram
+
+## Server Settings
 
 You can download the server setting files from this link : 
 
