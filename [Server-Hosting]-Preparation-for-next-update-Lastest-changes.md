@@ -12,6 +12,7 @@
 * 1 new Wooden Ramp
 * 1 new Wooden Pillar
 * 1 new Metal Pillar
+* 2 new Metal Floors (large square and rectangular)
 
 ## Improved Snapping
 
