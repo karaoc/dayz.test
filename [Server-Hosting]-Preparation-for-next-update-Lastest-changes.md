@@ -13,8 +13,8 @@
 * 1 new Wooden Pillar
 * 1 new Metal Pillar
 * 2 new Metal Floors (large square and rectangular)
-* Added Pillar Kit.
-* Added new BaseBuilding kits you can't craft (for each variants). This is meant for servers balancing BaseBuilding with buyable kits at Traders.
+* Added Pillar Kit
+* Added new BaseBuilding kits you can't craft (for each variants). This is meant for servers balancing BaseBuilding with buyable kits at Traders
 
 ### Improved Snapping
 
