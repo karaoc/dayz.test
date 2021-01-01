@@ -1,6 +1,6 @@
 ### Please think to update your server settings after each updates !
 
-# Update 1.05.1162
+# Update 1.5.1176
 
 You can download the server setting files from this link : 
 
@@ -8,25 +8,19 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Settings
 
 You can see all the changes in the server settings with this link: 
 
-https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/commit/5e335f60b3f9fb8a98a64068c74b546dff484db3
+NOT AVAILABLE
 
 ## Mission files
 
 Only minor changes to the mission files. Update them if you want to but **it's not required**.
 
-- Updated Deerisle mission files
-- Added Mission files for Namalsk (COM, Regular, Hardcore)
+- Updated Namalsk mission files
+- Updated Expansion_types.xml (lumber1_5 and lumber0_5) had the wrong classname.
 
 https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/releases/
 
 https://github.com/ExpansionModTeam/DayZ-Expansion-Missions
 
-## GeneralSettings.json
+## Server Settings
 
-This setting generate after "EnableTransportChat" and before "EnableGravecross"
-
-| Added| Why |
-|---|---|
-| DisableShootToUnlock | You can now lock a house and prevent raiders to shoot the door to open it |
-
-To see the complete documentation about this file please [click on this link](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-GeneralSettings)
+Nothing have changed :)
