@@ -19,7 +19,7 @@
 
 ## Creating a Territory
 
-To create a territory you need to craft a flag. The recipe is 3 **stick** and 1 **rope** ! (vanilla recipe)
+To create a territory you need to craft a flag. The recipe is 3 **sticks** and 1 **rope** ! (vanilla recipe)
 
 Once crafted, deploy the flag where you want your territory to be and interact with the flag to create the territory.
 
