@@ -167,8 +167,8 @@ DayZ Expansion mod alongside its main features has many smaller features and cha
 * Territories System
 * Auto-run System
 * No Stamina System
-* Spawn Selection System
-* Safezone System
+* [Spawn Selection](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Configuring-Spawn-Selection) System
+* [Safezone](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-safezones) System
 * [Mission](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-mission-events) System
 * Book ([Server Info](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Server-Book-Tab), [Rules](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Rule-Book-Tab), player stats, party management , territory management) System
 * [Skin](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-skins) System
