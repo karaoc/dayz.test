@@ -8,7 +8,7 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Settings
 
 You can see all the changes in the server settings with this link: 
 
-Nothing have changed :)
+SOON
 
 ## Mission files
 
@@ -23,4 +23,6 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Missions
 
 ## Server Settings
 
-Nothing have changed :)
+AirdropSettings.json
+
+Added "radius", this setting was missing compared to the airdrop missions. Since this file doesn't have any uses right now, feel free to delete this file and regenerate it.
