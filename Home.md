@@ -36,7 +36,7 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 * [Adding custom loading screen](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-custom-loading-screen)
 * [Adding flags textures](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-flag-textures-&-flag-cloth-item)
 * PLANNED [Adding skins](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-skins)
-* [Adding mission events](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-mission-events)
+* PLANNED [Adding mission events](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-mission-events)
 * [Adding Image for the server tab in the book](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-image-book-server-tab)
 * [Adding a Boat](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-a-Boat)
 * PLANNED [Adding a Plane](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-a-Plane)
