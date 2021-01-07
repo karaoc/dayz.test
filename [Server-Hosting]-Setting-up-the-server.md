@@ -16,7 +16,7 @@ Inside each mods you should find a "key" folder with a bikey for each mods. Copy
 
 Make sure to launch the 4 mods with this command line if you don't use a panel : 
 
-`-mod=@CF;@Community-Online-Tools;@DayZ-Expansion-;@DayZ-Expansion-Licensed-;@DayZ-Expansion-Vehicles-;@DayZ-Expansion-Core-`
+`-mod=@CF;@Community-Online-Tools;@DayZ-Expansion;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core`
 
 ### start.bat
 
@@ -25,7 +25,7 @@ If you are creating a local server (on your computer or on a local machine witho
 Create a txt file and paste inside the file this config lines :
 
 `@echo off
-start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 "-mod=@CF;@Community-Online-Tools;@DayZ-Expansion-;@DayZ-Expansion-Licensed-;@DayZ-Expansion-Vehicles-;@DayZ-Expansion-Core-" -profiles=.\ServerProfile -netlog`
+start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 "-mod=@CF;@Community-Online-Tools;@DayZ-Expansion;@DayZ-Expansion-Licensed;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Core" -profiles=ServerProfile -netlog`
 
 And save as MyName.bat !
 
@@ -93,7 +93,7 @@ If you can't find any errors in the logs try the following :
 
 #### BattlEye initialization failed
 
-The battle eye dll is missing from the battle eye folder of your server profile. A copy paste of this missing dll should do the job in most cases.
+The battlEye dll is missing from the battlEye folder of your server profile (also known as "config" or "sc"). A copy paste of this missing dll should do the job in most cases.
 
 #### !!! String CORRUPTED - FIX OnStoreLoad() !!!
 
