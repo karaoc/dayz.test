@@ -62,17 +62,34 @@ After starting your server with the DayZ Expansion mod for the first time, the s
 
 ![](https://i.imgur.com/uFUrx8h.png)
 
-Make sure you have the correct mods and up to date !
+Make sure you have the correct mods and up to date ! (in this case, it can't find CF)
+
+#### Can't compile mission init script!
+
+![](https://cdn.discordapp.com/attachments/717275490200715304/717995316921499658/unknown.png)
+
+Your server is not loading Expansion, this is why you have this error.
 
 #### Addon ... Requires Addon 'JM_COT_Scripts'
 
 ![](https://i.imgur.com/CH9X0zx.png)
 
-You are missing CF or Community-Online-Tools, make sure to have all the mods on your server !
+You are missing Community-Online-Tools, make sure to have all the mods on your server !
+
+#### Unknown types "ExpansionBaseBuilding"'
+
+![](https://cdn.discordapp.com/attachments/717275490200715304/796749766687981608/unknown.png)
+
+The Expansion mods are not up to date !
 
 #### Infinite loading screen, server frozen
 
-For some reason, your ExpansionMod settings are broken. Revert the changes you have made or delete the folder. Some players reported that issue but infact it was just them not waiting. Please be sure it's a real issue and not you not waiting !
+Check your logs and look for a error.
+If you can find a error talking about a json error with a setting file. It usualy mean this file is broken (missing line for example). Revert your changes or fix the mistake manualy or with a json validator.
+
+If you can't find any errors in the logs try the following : 
+- Delete the folder "ExpansionMod" (in your "server profile" aka "config" aka "sc")
+- Make sure you are loading a Expansion mission
 
 #### BattlEye initialization failed
 
@@ -80,4 +97,4 @@ The battle eye dll is missing from the battle eye folder of your server profile.
 
 #### !!! String CORRUPTED - FIX OnStoreLoad() !!!
 
-Your "storage_x" (x being a number) is using the vanilla storage format. Wipe this folder to use the Expansion storage format. This will wipe all player progression however.
+Your "storage_x" (x being a number) is using the vanilla storage format. Wipe this folder to use the CF storage format. This will wipe all player progression however.
