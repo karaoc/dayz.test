@@ -39,6 +39,7 @@ Float. It is a damage multiplier for all bullet type damages to Expansion base p
 
 ### "BaseBuildingRaidMode"
 Integrer.
+- -1 = Expansion BaseBuilding elements can't be raided.
 - 0 = every basebuilding elements can be raided.
 - 1 = only doors/gates.
 - 2 = only doors/gates/windows.
