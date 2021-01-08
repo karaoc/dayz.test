@@ -15,7 +15,7 @@ https://github.com/ExpansionModTeam/DayZ-Expansion-Settings/commit/c964c1d4df3d2
 Only minor changes to the mission files. Update them if you want to but **it's not required**.
 
 - Updated Namalsk mission files
-- Updated Expansion_types.xml (lumber1_5 and lumber0_5) had the wrong classname.
+- Updated Expansion_types.xml (lumber15 became lumber1_5 and lumber05 lumber0_5).
 
 https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/releases/
 
