@@ -24,6 +24,11 @@ Bool.
 - 0 = The transport chat (yellow chat) will be disabled.
 - 1 = It will enable the transport chat. The transport chat allow players to talk to anyone inside the same vehicle than you.
 
+### "DisableShootToUnlock"
+Bool.
+- 0 = Players can shoot at locked building doors to brute force the door and unlock it.
+- 1 = Players can't shoot at a locked building door and will need a lockpick to unlock the door of the building.
+
 ### "EnableGravecross"
 Bool.
 - 0 = Gravecross will be disabled. The dead player inventory will stay on him.
