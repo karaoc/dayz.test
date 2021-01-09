@@ -1,5 +1,6 @@
 ![Weaponary](https://i.imgur.com/Ux80A0e.png)
 
+Sidenote: The ANPEQ15 currently can **only** work in singleplayer due to a modding limitation.
 * Expansion_ANPEQ15_Green
 * Expansion_ANPEQ15_Red
 * ExpansionDeltapointOptic
@@ -182,6 +183,7 @@
 
 ![Misc](https://i.imgur.com/M9dwu2w.jpg)
 
+Sidenote: The spraycans will be removed in a futur update and will be added back once more work will be put into them.
 * ExpansionSpraycanGreen
 * ExpansionSpraycanRed
 * ExpansionSpraycanBlue
