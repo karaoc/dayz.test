@@ -6,6 +6,8 @@ Go to `DayZServer\ServerProfile (or config)\ExpansionMod\Settings` and open the 
 
 ![Expansion Server Settings Path](https://i.imgur.com/yKiftOu.png)
 
+
+
 Inside this file you should have something similar like the following lines:
 ![Expansion Server Book Settings File](https://i.gyazo.com/f26040b2fa0a05267a15d36831fa819a.png)
 
