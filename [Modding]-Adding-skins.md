@@ -1,6 +1,6 @@
 We have configured many items to be skin friendly. All this skins have been configured with at least one HiddenSelection meant for this purpose.
 
-`Please note : this list does not show all the configured skins but only a few, the complete list will be added later down the road !`
+`Please note : this list does not show all the configured items but only a few, the complete list will be added later down the road !`
 
 Hidden Selection : **camo**
 ```
