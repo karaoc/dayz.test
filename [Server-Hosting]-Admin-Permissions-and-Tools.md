@@ -62,12 +62,12 @@ _**Disclaimer**, this part is more advanced and does not require you to do the f
 
 ## Troubleshooting
 
-##### I only see vanilla vehicles in my spawnlist !
+#### I only see vanilla vehicles in my spawnlist !
 
 ![vehicle spawner only vanilla](https://cdn.discordapp.com/attachments/538688046670020620/737339127757930516/unknown.png)
 
 Go inside your server config at `YourDayZServer\Profile(or config)\` and delete the `CommunityOnlineTool` folder. It will force the admin tool to regenerate the list !
 
-##### I can't open some menus in my admin tool !
+#### I can't open some menus in my admin tool !
 
 Go inside your server config at `YourDayZServer\Profile(or config)\PermissionFramework\Roles\` and delete (or rename) the `everyone.txt` and `admin.txt` files. It will force the admin tool to regenerate the files and up to date!
