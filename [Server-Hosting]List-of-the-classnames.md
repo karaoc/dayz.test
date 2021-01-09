@@ -139,7 +139,6 @@ Sidenote: The ANPEQ15 currently can **only** work in singleplayer due to a moddi
 * ExpansionCamoBoxKit
 * ExpansionBarrierGateKit
 * ExpansionCamoTentKit
-* ExpansionSafeBase
 * ExpansionSafeLarge
 * ExpansionSafeMini
 * ExpansionSafeMedium
