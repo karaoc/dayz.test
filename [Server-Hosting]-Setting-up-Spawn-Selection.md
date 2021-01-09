@@ -27,9 +27,9 @@ Inside this file you should have something similar after scrolling down a bit
                     100     |
                 ],
                 [
-                    X,
-                    Y,
-                    Z
+                    X,     | North - South
+                    Y,     | Up - Down (elevation, altitude)
+                    Z      | East - West
                 ]
             ]
         },
