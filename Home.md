@@ -18,18 +18,19 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 * [Vehicle Guide](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Vehicle-Guide)
 
 ### Server Hosting
+* [Server settings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings)
 * [Setting up the server](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Setting-up-the-server)
 * [Setting up Admin Permissions and Tools](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Admin-Permissions-and-Tools)
-* [Server settings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings)
 * [Setting up the Server Book Tab - Buttons](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Server-Book-Tab-%5BButtons%5D)
 * [Setting up the Server Book Tab - Description](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Server-Book-Tab-%5BDescription%5D)
 * [Setting up the Rule Book Tab](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Rule-Book-Tab)
+* [Setting up Spawn Selection](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Setting-up-Spawn-Selection)
+* PLANNED [Setting up Spawn Gear](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Setting-up-Spawn-Gear)
 * [Updating your mapping to the new method](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Updating-your-mapping-to-the-new-method)
 * [Adding custom map objects](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-custom-mapping)
 * [Adding custom airdrops](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-custom-airdrops)
-* [Adding safezones](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-safezones)
-* [Adding server markers](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-server-markers)
-* [Setting up Spawn Selection](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Setting-up-Spawn-Selection)
+* [Adding Safezones](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-safezones)
+* [Adding Server Markers](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-server-markers)
 * [Trader Mod unofficial config](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Trader-Mod-unofficial-config)
 
 ### Modding
