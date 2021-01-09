@@ -22,7 +22,7 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 * [Setting up the server](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Setting-up-the-server)
 * [Setting up Admin Permissions and Tools](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Admin-Permissions-and-Tools)
 * [Setting up the Server Book Tab - Buttons](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Server-Book-Tab-%5BButtons%5D)
-* [Setting up the Server Book Tab - Description](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Server-Book-Tab-%5BDescription%5D)
+* PLANNED [Setting up the Server Book Tab - Description](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Server-Book-Tab-%5BDescription%5D)
 * [Setting up the Rule Book Tab](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Setting-up-the-Rule-Book-Tab)
 * [Setting up Spawn Selection](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Setting-up-Spawn-Selection)
 * PLANNED [Setting up Spawn Gear](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Setting-up-Spawn-Gear)
