@@ -1,8 +1,8 @@
 In your vehiclename.c add the following :
 
+	#ifdef EXPANSIONMOD
 	override bool CanObjectAttach( Object obj )
 	{
-		#ifdef EXPANSIONMOD
 		if ( !obj.IsInherited( PlayerBase ) ) 
 			return false;
 
@@ -10,10 +10,8 @@ In your vehiclename.c add the following :
 			return false;
 
 		return true;
-		#else
-		return false;
-		#endif
 	}
+	#endif
 
 Here is an example from our UAZ car !
 
