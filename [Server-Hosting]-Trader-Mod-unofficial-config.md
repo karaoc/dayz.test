@@ -100,28 +100,6 @@ Adjust pricing as you wish.
 ```
 For help adding markers see the documentation here: https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Adding-server-markers
 
-## Trader Config
-
-    <Trader> Aircraft Trader
-
-    <Category> Helicopters
-    ExpansionUh1h, V, 150000, 75000
-    ExpansionMh6, V, 150000, 75000
-    ExpansionMerlin, v, 150000, 75000
-    ExpansionGyrocopter, V, 35000, 17500
-
-    <Category> Helicopter Parts
-    ExpansionHelicopterBattery, *, 4000, 2000
-    CarRadiator, *, 500, 250
-    SparkPlug, *, 250, 125
-    HeadlightH7, *, 75, 30
-    ExpansionHydraulicHoses, *, 300, 150
-    ExpansionIgniterPlug, *, 500, 250
-
-    <Category> Planes
-
-    <Category> Plane Parts
-
 ## Trader Vehicle Parts
 
     <VehicleParts> ExpansionUh1h
