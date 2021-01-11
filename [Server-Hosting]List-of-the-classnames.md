@@ -124,6 +124,8 @@ Sidenote: The ANPEQ15 currently can **only** work in singleplayer due to a moddi
 * Expansion_Mh6_Door_1_2
 * Expansion_Mh6_Door_2_1
 * Expansion_Mh6_Door_2_2
+* ExpansionMerlinBackWheel
+* ExpansionMerlinFrontWheel
 
 # ![BaseBuilding](https://i.imgur.com/ezPlPNO.jpg)
 
