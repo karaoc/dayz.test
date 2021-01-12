@@ -200,6 +200,13 @@ The color of the marker, use this [this website to generate the color](https://t
 
 **Warning** Values you have to enter have to be between 1 and 255. 0 is not a valid option !
 
+- A: Opacity from 1 (can't be seen) to 255 (very visible, opaque)
+- R: Red
+- G: Green
+- B: Blue
+
+You can use [this website to generate the RGBA color](https://htmlcolors.com/rgba-color), however watch out this website generate the A value from 0 to 1 instead of 255 !
+
 #### m_Position
 
 The position of the marker in XYZ coordinates.
