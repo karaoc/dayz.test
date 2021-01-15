@@ -183,7 +183,6 @@ Sidenote: The ANPEQ15 currently can **only** work in singleplayer due to a moddi
 
 ![Misc](https://i.imgur.com/M9dwu2w.jpg)
 
-Sidenote: The spraycans will be removed in a futur update and will be added back once more work will be put into them.
 * ExpansionSpraycanGreen
 * ExpansionSpraycanRed
 * ExpansionSpraycanBlue
