@@ -233,6 +233,6 @@ Sidenote: The ANPEQ15 currently can **only** work in singleplayer due to a moddi
 * ExpansionGoldBar
 * ExpansionSilverBar
 
-**Picture of AI here**
+![AI](https://cdn.discordapp.com/attachments/523890175563137037/801132945481007124/20210119170846_1.jpg)
 
 * Animal_LepusEuropaeus
