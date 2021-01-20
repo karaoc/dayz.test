@@ -22,8 +22,8 @@ Expansion_BenelliM4
 Expansion_AWM
 
 ExpansionSafeLarge
-ExpansionSafeMini
 ExpansionSafeMedium
+ExpansionSafeMini
 ExpansionGunrack
 ExpansionCodeLock
 ExpansionCone
@@ -40,24 +40,34 @@ ExpansionStove
 ExpansionGPS
 ExpansionGoldBar
 ExpansionSilverBar
-```
 
-Hidden Selection : SOON
-```
-ExpansionMh6
-ExpansionUh1h
-ExpansionMerlin
-ExpansionGyrocopter
-ExpansionAn2
-ExpansionC130
+ExpansionAirdropContainerBase (base class, can't be spawned/seen ingame)
+ExpansionAirdropContainer
+ExpansionAirdropContainer_Medical
+ExpansionAirdropContainer_Military
+ExpansionAirdropContainer_Basebuilding
+
 ExpansionUtilityBoat
 ExpansionZodiacBoat
-ExpansionLHD
+
+ExpansionMh6
+ExpansionGyrocopter
+
+ExpansionBus
+ExpansionTractor
+```
+
+Hidden Selection : **camo1**, **camo2**
+```
+ExpansionUh1h
 ExpansionUAZ
 ExpansionUAZRoofless
 ExpansionUAZCargo
 ExpansionUAZCargoRoofless
+```
+
+Hidden Selection : **camo1**, **camo2**, **camo3**
+```
+ExpansionMerlin
 ExpansionVodnik
-ExpansionBus
-ExpansionTractor
 ```
