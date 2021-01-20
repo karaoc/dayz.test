@@ -41,7 +41,6 @@ ExpansionGPS
 ExpansionGoldBar
 ExpansionSilverBar
 
-ExpansionAirdropContainerBase (base class, can't be spawned/seen ingame)
 ExpansionAirdropContainer
 ExpansionAirdropContainer_Medical
 ExpansionAirdropContainer_Military
