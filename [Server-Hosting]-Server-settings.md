@@ -2,6 +2,8 @@
 
 https://github.com/ExpansionModTeam/DayZ-Expansion-Settings
 
+https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Latest-changes
+
 ## Contents
 
 - [AirdropSettings](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-AirdropSettings)
