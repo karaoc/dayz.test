@@ -1,6 +1,6 @@
 In your vehiclename.c add the following :
 
-	#ifdef EXPANSIONMOD
+	#ifdef EXPANSIONMODVEHICLE
 	override bool CanObjectAttach( Object obj )
 	{
 		if ( !obj.IsInherited( PlayerBase ) ) 
