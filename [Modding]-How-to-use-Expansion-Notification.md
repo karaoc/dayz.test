@@ -2,7 +2,7 @@
 
 ## How does it work ?
 ```
-GetNotificationSystem().CreateNotification( new StringLocaliser( "my_title" ), new StringLocaliser( "my_description" ), ICON_HERE, COLOR_HERE, TIMER, PLAYER_IDENTITY);
+GetNotificationSystem().CreateNotification( new StringLocaliser( "my_LOCALIZED_title" ), new StringLocaliser( "my_LOCALIZED_description" ), ICON_HERE, COLOR_HERE, TIMER, PLAYER_IDENTITY);
 ```
 
 ### ICON_HERE
