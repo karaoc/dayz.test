@@ -94,7 +94,7 @@ String. What container will be used for the airdrop. By default you can choose b
 ### "DropLocation"
 Array.
 - X: The position X
-- Z: The position Z (in DayZ, Y is the up/down position)
+- Z: The position Z (in DayZ, Y is the up/down axis)
 - Name: The name of your airdrop, this is the name you will see in the notification about the airdrop. `"Airdrop have been dropped at MyNameHere"`
 - Radius: the drop radius based on the x/z position you gave. If you want the airdrop to land at the exact position, just set this setting to 0.
 
