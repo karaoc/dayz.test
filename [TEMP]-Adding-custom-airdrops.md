@@ -27,7 +27,7 @@ Now go to `\Profile (or config)\ExpansionMod\Missions` and create a file with th
 
 ## Configuring a airdrop
 
-Inside your **NameOfMyCustomAirdrop.json** file you just created copy and paste the following lines :
+Inside your **NameOfMyCustomAirdrop.json** file you have just created copy and paste the following lines :
 
 ```
 {
@@ -56,13 +56,13 @@ Inside your **NameOfMyCustomAirdrop.json** file you just created copy and paste 
 ```
 
 ### "Weight"
-How important is this airdrop, the bigger the number is, the more likely it will be picked. If you want this airdrop to be rare take a smaller number compared to the other airdrops !
+How important is this airdrop, the bigger the number is, the more likely it will be picked. If you want this airdrop to be rare take a smaller number compared to the other missions !
 
 ### "MissionMaxTime"
-How long this airdrop could stay on the map until it despawn? It's in **seconds**.
+How long this airdrop could stay on the map until it's destroyed by zombies (despawn)? It's in **seconds**.
 
 ### "MissionName"
-String. Currentlty useless since missions are only used for airdrops but will be used in the futur to create multiple categories for missions.
+String. This is the "id" of the mission, it need to be unique. We recommend you to use the following naming convention: `Type_Location`. For example: `Medical_Kamenka`.
 
 ### "Difficulty"
 **Unused** at the moment. Keep it at 0
