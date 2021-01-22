@@ -198,13 +198,14 @@ COLOR_EXPANSION_NOTIFICATION_MISSION
 The timer is a simple integrer (int) number. This value is the amount of seconds it will stay on the screen of the player. We recommend you to use a number between 5 and 10.
 
 ### PLAYER_IDENTITY
-You need to enter the player identity to send him the notification. In offline mode you can target your own player with this two lines:
+You need to enter the **player identity** to send him the notification. In offline mode you can target your own player with this two lines:
 ```
 PlayerBase player;
 GetGame().SelectPlayer( NULL, player );
 ```
+(Obviously this will create issues in multiplayer if you use the same method)
+
 and send a notification to yourself in your code with
 ```
 GetNotificationSystem().CreateNotification( new StringLocaliser( "STR_EXPANSION_TERRITORY_TITLE" ), new StringLocaliser( "STR_EXPANSION_TERRITORY_ERROR_NOTERRITORY" ), EXPANSION_NOTIFICATION_ICON_ERROR, COLOR_EXPANSION_NOTIFICATION_ERROR, 5, player.GetIdentity() );
 ```
-Obviously this will create issues in multiplayer if you use the same method.
