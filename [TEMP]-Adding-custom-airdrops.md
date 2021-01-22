@@ -103,3 +103,15 @@ Array.
         "Radius": 100.0
     },
 ```
+
+### "Loot"
+What loot could spawn inside the airdrop. You have to give the Name of the Classname, his chance of spawning (1.00 = 100%) and his attachements if you want it to spawn with items attached to it. Please make sure the last `}` of the loot list doesn't have the `,` in `},` like in the example !
+
+### "Infected"
+A list of AI that will spawn around the airdrop once landed. Zombies or animals for example.
+
+### "ItemCount"
+The amount of items the airdrop will have in it
+
+### "InfectedCount"
+The amount of Zombies around the airdrop
