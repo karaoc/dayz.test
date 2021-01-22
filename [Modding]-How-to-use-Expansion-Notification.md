@@ -207,3 +207,4 @@ and send a notification to yourself in your code with
 ```
 GetNotificationSystem().CreateNotification( new StringLocaliser( "STR_EXPANSION_TERRITORY_TITLE" ), new StringLocaliser( "STR_EXPANSION_TERRITORY_ERROR_NOTERRITORY" ), EXPANSION_NOTIFICATION_ICON_ERROR, COLOR_EXPANSION_NOTIFICATION_ERROR, 5, player.GetIdentity() );
 ```
+Obviously this will create issues in multiplayer if you use the same method.
