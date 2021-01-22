@@ -6,7 +6,7 @@ GetNotificationSystem().CreateNotification( new StringLocaliser( "my_title" ), n
 ```
 
 ### ICON_HERE
-The icon need to be in a **edds** format. Expansion provide by default 165 icons you can use.
+The icon need to be in a **edds** or **paa** format. Expansion provide by default 165 icons you can use.
 ```
 EXPANSION_NOTIFICATION_ICON_POSITION
 EXPANSION_NOTIFICATION_ICON_ERROR
