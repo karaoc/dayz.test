@@ -85,11 +85,8 @@ Float. The altitude the plane will fly at. (his **Y** position in other words)
 Float. The speed of the plane.
 
 ### "Container"
-String. What container will be used for the airdrop. By default you can choose between :
-* ExpansionAirdropContainer_Military
-* ExpansionAirdropContainer_Basebuilding
-* ExpansionAirdropContainer_Medical
-* ExpansionAirdropContainer
+String. What type of airdrops will be spawned : 
+* Random
 
 ### "DropLocation"
 Array.
@@ -106,11 +103,3 @@ Array.
         "Radius": 100.0
     },
 ```
-
-### "Loot"
-
-### "Infected"
-
-### "ItemCount"
-
-### "InfectedCount"
