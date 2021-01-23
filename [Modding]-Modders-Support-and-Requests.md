@@ -1,5 +1,9 @@
 ![Vehicle parts](https://i.imgur.com/Ol7JzmH.jpg)
 
+A mod need to be more "mod friendly" with Expansion (or the other way around) ? Follow the instructions at Mod compabilities
+A mod is in conflict with Expansion (or the other way around) ? Follow the instructions at Mod conflitcs
+You would like your content to be officialy supported by Expansion (a map for example) ? Follow the instructions at Submitting content to Expansion
+
 # Mod compabilities
 **You are the author** of the mod and you would like to make your mod compatible with a Expansion feature. [Please open a issue](https://github.com/salutesh/DayZ-Expansion-Scripts/issues) or contact LieutenantMaster#9023 on discord (DM recommended) with the following informations:
 - Steam workshop link of your mod
