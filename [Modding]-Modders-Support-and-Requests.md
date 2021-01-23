@@ -1,8 +1,11 @@
 ![Vehicle parts](https://i.imgur.com/Ol7JzmH.jpg)
 
-- A mod need to be more "mod friendly" with Expansion (or the other way around) ? Follow the instructions at [Mod compatibilies](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Modders-Support-and-Requests#mod-compabilities)
-- A mod is in conflict with Expansion (or the other way around) ? Follow the instructions at [Mod conflitcs](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Modders-Support-and-Requests#mod-conflitcs)
-- You would like your content to be officialy supported by Expansion (a map for example) ? Follow the instructions at [Submitting content to Expansion](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Modders-Support-and-Requests#submitting-content-to-expansion)
+### A mod need to be more "mod friendly" with Expansion (or the other way around) ?
+Follow the instructions at [Mod compatibilies](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Modders-Support-and-Requests#mod-compabilities)
+### A mod is in conflict with Expansion (or the other way around) ?
+Follow the instructions at [Mod conflitcs](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Modders-Support-and-Requests#mod-conflitcs)
+### You would like your content to be officialy supported by Expansion (a map for example) ?
+Follow the instructions at [Submitting content to Expansion](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Modders-Support-and-Requests#submitting-content-to-expansion)
 
 # Mod compabilities
 **You are the author** of the mod and you would like to make your mod compatible with a Expansion feature. [Please open a issue](https://github.com/salutesh/DayZ-Expansion-Scripts/issues) or contact LieutenantMaster#9023 on discord (DM recommended) with the following informations:
