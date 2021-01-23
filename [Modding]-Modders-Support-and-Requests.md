@@ -41,6 +41,16 @@ If **you are the author** of this map, [please open a issue](https://github.com/
 - Describe your map and your vision of what you want to do with this map (doesn't need to be a book, we just want to be on the same page)
 - Explanation of how the loot distribution work with your map (for example, what "tier 4" will become for your map)
 
+**Please note**:
+- We are providing a [template](https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/tree/master/Expansion%20Template) to import to any maps
+- A map supported officialy will benefit of the following:
+  - Configured Expansion mission.
+  - Configured ExpansionCOM (offline mode) mission
+  - Configured Spawn Selection (based on the author vision)
+  - Configured missions (airdrops)
+  - Configured Spawn Gear/Outfits (if needed)
+  - Support for any futur map based content (traders, hordes, custom mapping)
+
 ####  Maps we are officialy supporting
 - ChernarusPlus
 - Livonia
