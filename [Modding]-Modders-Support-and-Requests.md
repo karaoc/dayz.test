@@ -35,7 +35,7 @@ Follow the instructions at [Submitting content to Expansion](https://github.com/
 # Submitting content to Expansion
 
 ## Maps
-**You are the author** of this map, [please open a issue](https://github.com/salutesh/DayZ-Expansion-Scripts/issues) or contact LieutenantMaster#9023 on discord (DM recommended) with the following informations:
+If **you are the author** of this map, [please open a issue](https://github.com/salutesh/DayZ-Expansion-Scripts/issues) or contact LieutenantMaster#9023 on discord (DM recommended) with the following informations:
 - Steam workshop link of your map
 - Is your map already public for everyone to download ?
 - Describe your map and your vision of what you want to do with this map (doesn't need to be a book, we just want to be on the same page)
