@@ -1,6 +1,6 @@
 ![Vehicle parts](https://i.imgur.com/Ol7JzmH.jpg)
 
-### A mod need to be more "mod friendly" with Expansion (or the other way around) ?
+### A mod need to work better with Expansion (or the other way around) ?
 Follow the instructions at [Mod compatibilies](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Modders-Support-and-Requests#mod-compabilities)
 ### A mod is in conflict with Expansion (or the other way around) ?
 Follow the instructions at [Mod conflitcs](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Modders-Support-and-Requests#mod-conflitcs)
