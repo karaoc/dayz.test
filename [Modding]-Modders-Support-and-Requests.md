@@ -44,4 +44,4 @@
 - **Maybe your map** ?
 
 ## Other
-If **You are the author** of this content, [please open a issue](https://github.com/salutesh/DayZ-Expansion-Scripts/issues) or contact LieutenantMaster#9023 on discord (DM recommended) and let us know why your content should be in Expansion and not inside your own mod ?
+If **you are the author** of this content, [please open a issue](https://github.com/salutesh/DayZ-Expansion-Scripts/issues) or contact LieutenantMaster#9023 on discord (DM recommended) and let us know why your content should be in Expansion and not inside your own mod ?
