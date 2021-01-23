@@ -53,11 +53,11 @@ If **you are the author** of this map, [please open a issue](https://github.com/
 
 ####  Maps we are officialy supporting
 - ChernarusPlus
-- Livonia
-- DeerIsle
-- Namalsk
-- Chiemsee (Requested by the author)
-- Sandbox
+- [Livonia](https://store.steampowered.com/app/1151700/DayZ_Livonia/)
+- [DeerIsle](https://steamcommunity.com/sharedfiles/filedetails/?id=1602372402)
+- [Namalsk](https://steamcommunity.com/sharedfiles/filedetails/?id=2289456201)
+- [Chiemsee](https://steamcommunity.com/sharedfiles/filedetails/?id=1580589252) (Requested by the author)
+- [Sandbox](https://steamcommunity.com/sharedfiles/filedetails/?id=1558331009)
 - **Maybe your map** ?
 
 ## Other
