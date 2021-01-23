@@ -8,7 +8,7 @@ Follow the instructions at [Mod conflitcs](https://github.com/salutesh/DayZ-Expa
 Follow the instructions at [Submitting content to Expansion](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Modders-Support-and-Requests#submitting-content-to-expansion)
 
 # Mod compabilities
-**You are the author** of the mod and you would like to make your mod compatible with a Expansion feature. [Please open a issue](https://github.com/salutesh/DayZ-Expansion-Scripts/issues) or contact LieutenantMaster#9023 on discord (DM recommended) with the following informations:
+If **you are the author** of the mod and you would like to make your mod compatible with a Expansion feature. [Please open a issue](https://github.com/salutesh/DayZ-Expansion-Scripts/issues) or contact LieutenantMaster#9023 on discord (DM recommended) with the following informations:
 - Steam workshop link of your mod
 - Describe your issue
 - Steps to reproduce the issue if needed
@@ -21,7 +21,7 @@ Follow the instructions at [Submitting content to Expansion](https://github.com/
 
 
 # Mod conflitcs
-**You are the author** of this mod in conflict in some way with expansion, [please open a issue](https://github.com/salutesh/DayZ-Expansion-Scripts/issues) or contact LieutenantMaster#9023 on discord (DM recommended) with the following informations:
+If **you are the author** of this mod in conflict in some way with expansion, [please open a issue](https://github.com/salutesh/DayZ-Expansion-Scripts/issues) or contact LieutenantMaster#9023 on discord (DM recommended) with the following informations:
 - Steam workshop link of your mod
 - Describe your issue
 - Steps to reproduce the issue if needed
