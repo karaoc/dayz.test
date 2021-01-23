@@ -35,6 +35,7 @@ Please note, this is the first public build of DayZ Expansion, so please expect 
 
 ### Modding
 * [Expansion Scripts repository](https://github.com/salutesh/DayZ-Expansion-Scripts/tree/experimental/DayZExpansion)
+* [Modders Support and Requests](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Modders-Support-and-Requests)
 * [Adding custom loading screen](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-custom-loading-screen)
 * [Adding flags textures](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-flag-textures-&-flag-cloth-item)
 * [Adding skins](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BModding%5D-Adding-skins)
