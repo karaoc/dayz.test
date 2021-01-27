@@ -47,12 +47,12 @@ If **you are the author** of this map, [please open a issue](https://github.com/
   - Configured Expansion mission.
   - Configured ExpansionCOM (offline mode) mission
   - Configured Spawn Selection (based on the author vision)
-  - Configured missions (airdrops)
+  - Configured Missions (airdrops)
   - Configured Spawn Gear/Outfits (if needed)
   - Support for any futur map based content (traders, hordes, custom mapping)
 
 ####  Maps we are officialy supporting
-- ChernarusPlus
+- [ChernarusPlus](https://store.steampowered.com/app/221100/DayZ/)
 - [Livonia](https://store.steampowered.com/app/1151700/DayZ_Livonia/)
 - [DeerIsle](https://steamcommunity.com/sharedfiles/filedetails/?id=1602372402)
 - [Namalsk](https://steamcommunity.com/sharedfiles/filedetails/?id=2289456201)
@@ -61,4 +61,4 @@ If **you are the author** of this map, [please open a issue](https://github.com/
 - **Maybe your map** ?
 
 ## Other
-If **you are the author** of this content, [please open a issue](https://github.com/salutesh/DayZ-Expansion-Scripts/issues) or contact LieutenantMaster#9023 on discord (DM recommended) and let us know why your content should be in Expansion and not inside your own mod ?
+If **you are the author** of this content, [please open a issue](https://github.com/salutesh/DayZ-Expansion-Scripts/issues) or contact LieutenantMaster#9023 on discord (DM recommended) and let us know why your content should be in Expansion and not inside your own mod ? If you know how to make a mod, we believe you have already the skills to go far with your dreams. So keep dreaming ! 😃 
