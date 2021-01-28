@@ -93,6 +93,8 @@ If you can't find any errors in the logs try the following :
 - Delete the folder "ExpansionMod" (in your "server profile" aka "config" aka "sc")
 - Make sure you are loading a Expansion mission
 
+Please note: Some users thought their server was frozen while in fact it was the "!!! String CORRUPTED - FIX OnStoreLoad() !!!" issue.
+
 #### BattlEye initialization failed
 
 The battlEye dll is missing from the battlEye folder of your server profile (also known as "config" or "sc"). A copy paste of this missing dll should do the job in most cases.
