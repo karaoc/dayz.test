@@ -55,7 +55,7 @@ Inside this file, look for the template and change it to match this screenshot. 
 
 ## Server config
 
-After starting your server with the DayZ Expansion mod for the first time, the server will generate the ExpansionMod folder in your profile folder (sometimes also named "sc" or "config"), in this folder, all the DayZ Expansion related settings will be stored. If you want to toggle any part of DayZ Expansion go into the settings folder and open the file you want to modify. If you want to learn more about the server settings click [here](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/Server-settings).
+After starting your server with the DayZ Expansion mod for the first time, the server will generate the ExpansionMod folder in your profile folder (sometimes also named "sc" or "config"), in this folder, all the DayZ Expansion related settings will be stored. If you want to toggle any part of DayZ Expansion go into the settings folder and open the file you want to modify. If you want to learn more about the server settings click [here](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/%5BServer-Hosting%5D-Server-settings).
 
 ![](https://i.imgur.com/4uEMoWi.png)
 
