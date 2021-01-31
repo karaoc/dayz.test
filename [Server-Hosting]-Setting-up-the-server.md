@@ -93,7 +93,19 @@ If you can't find any errors in the logs try the following :
 - Delete the folder "ExpansionMod" (in your "server profile" aka "config" aka "sc")
 - Make sure you are loading a Expansion mission
 
+##### Server not powerfull enough
+
+Some server providers are not powerfull enough to run the **expansion custom mapping** and **building interiors**. You can disable this two features at your `server profile (in your "server profile" aka "config" aka "sc") => expansionmod => settings => GeneralSettings.json` and change this two settings from 1 to 0 if it's enabled.
+
+##### ExpansionMod, Missions folder empty
+
+If you `server profile (in your "server profile" aka "config" aka "sc") => expansionmod => missions` is empty, delete the "MissionSettings.json" from the settings folder
+
 Please note: Some users thought their server was frozen while in fact it was the "!!! String CORRUPTED - FIX OnStoreLoad() !!!" issue.
+
+##### The server can't find the mission (mpmission/expansion.mapname)
+
+In this case, make sure the server is trying to open a mission with the correct name. A missing letter can change everything !
 
 #### BattlEye initialization failed
 
